@@ -1,0 +1,9626 @@
+[
+    {
+        "source": "Justicar Aatrox",
+        "target": "審判者 厄薩斯"
+    },
+    {
+        "source": "Mecha Aatrox",
+        "target": "機甲獵人 厄薩斯"
+    },
+    {
+        "source": "Sea Hunter Aatrox",
+        "target": "海洋獵人 厄薩斯"
+    },
+    {
+        "source": "Blood Moon Aatrox",
+        "target": "血月劍魔 厄薩斯"
+    },
+    {
+        "source": "Prestige Blood Moon Aatrox",
+        "target": "尊爵不凡 血月劍魔 厄薩斯"
+    },
+    {
+        "source": "Victorious Aatrox",
+        "target": "戰爭英雄 厄薩斯"
+    },
+    {
+        "source": "Odyssey Aatrox",
+        "target": "奧德賽 厄薩斯"
+    },
+    {
+        "source": "Prestige Blood Moon Aatrox (2022)",
+        "target": "尊爵不凡 血月劍魔 厄薩斯｜2022"
+    },
+    {
+        "source": "Lunar Eclipse Aatrox",
+        "target": "月蝕使者 厄薩斯"
+    },
+    {
+        "source": "DRX Aatrox",
+        "target": "DRX 厄薩斯"
+    },
+    {
+        "source": "Prestige DRX Aatrox",
+        "target": "尊爵不凡 DRX 厄薩斯"
+    },
+    {
+        "source": "The Darkin Blade",
+        "target": "冥血邪劍"
+    },
+    {
+        "source": "Infernal Chains",
+        "target": "冥府血鏈"
+    },
+    {
+        "source": "Umbral Dash",
+        "target": "冥影衝鋒"
+    },
+    {
+        "source": "World Ender",
+        "target": "劍魔滅世"
+    },
+    {
+        "source": "Deathbringer Stance",
+        "target": "冥使劍姿"
+    },
+    {
+        "source": "Dynasty Ahri",
+        "target": "靈隱狐仙 阿璃"
+    },
+    {
+        "source": "Midnight Ahri",
+        "target": "傾國妖狐 阿璃"
+    },
+    {
+        "source": "Foxfire Ahri",
+        "target": "妖焰火狐 阿璃"
+    },
+    {
+        "source": "Popstar Ahri",
+        "target": "魅惑時代 阿璃"
+    },
+    {
+        "source": "Challenger Ahri",
+        "target": "傳說啟程 阿璃"
+    },
+    {
+        "source": "Academy Ahri",
+        "target": "菁英學院 阿璃"
+    },
+    {
+        "source": "Arcade Ahri",
+        "target": "電玩女神 阿璃"
+    },
+    {
+        "source": "Star Guardian Ahri",
+        "target": "星光戰士 阿璃"
+    },
+    {
+        "source": "K/DA Ahri",
+        "target": "K/DA 阿璃"
+    },
+    {
+        "source": "Prestige K/DA Ahri",
+        "target": "尊爵不凡 K/DA 阿璃"
+    },
+    {
+        "source": "Elderwood Ahri",
+        "target": "花仙精靈 阿璃"
+    },
+    {
+        "source": "Spirit Blossom Ahri",
+        "target": "靈花祭 阿璃"
+    },
+    {
+        "source": "K/DA ALL OUT Ahri",
+        "target": "K/DA ALL OUT 阿璃"
+    },
+    {
+        "source": "Coven Ahri",
+        "target": "女巫集會 阿璃 "
+    },
+    {
+        "source": "Prestige K/DA Ahri (2022)",
+        "target": "尊爵不凡 K/DA 阿璃｜2022"
+    },
+    {
+        "source": "Arcana Ahri",
+        "target": "魔術師 阿璃"
+    },
+    {
+        "source": "Snow Moon Ahri",
+        "target": "雪月狐仙 阿璃"
+    },
+    {
+        "source": "Orb of Deception",
+        "target": "幻玉"
+    },
+    {
+        "source": "Fox-Fire",
+        "target": "魅火"
+    },
+    {
+        "source": "Charm",
+        "target": "傾城"
+    },
+    {
+        "source": "Spirit Rush",
+        "target": "飛仙"
+    },
+    {
+        "source": "Essence Theft",
+        "target": "銷魂"
+    },
+    {
+        "source": "Stinger Akali",
+        "target": "蜂刺 阿卡莉"
+    },
+    {
+        "source": "Infernal Akali",
+        "target": "地獄火 阿卡莉"
+    },
+    {
+        "source": "All-star Akali",
+        "target": "足球寶貝 阿卡莉"
+    },
+    {
+        "source": "Nurse Akali",
+        "target": "性感護士 阿卡莉"
+    },
+    {
+        "source": "Blood Moon Akali",
+        "target": "血月舞忍 阿卡莉"
+    },
+    {
+        "source": "Silverfang Akali",
+        "target": "銀牙暗部 阿卡莉"
+    },
+    {
+        "source": "Headhunter Akali",
+        "target": "獵頭者 阿卡莉"
+    },
+    {
+        "source": "Sashimi Akali",
+        "target": "刺身師傅 阿卡莉"
+    },
+    {
+        "source": "K/DA Akali",
+        "target": "K/DA 阿卡莉"
+    },
+    {
+        "source": "Prestige K/DA Akali",
+        "target": "尊爵不凡 K/DA 阿卡莉"
+    },
+    {
+        "source": "PROJECT: Akali",
+        "target": "菁英計畫：阿卡莉"
+    },
+    {
+        "source": "True Damage Akali",
+        "target": "True Damage 阿卡莉"
+    },
+    {
+        "source": "K/DA ALL OUT Akali",
+        "target": "K/DA ALL OUT 阿卡莉"
+    },
+    {
+        "source": "Crime City Nightmare Akali",
+        "target": "罪惡城市噩夢 阿卡莉"
+    },
+    {
+        "source": "Prestige K/DA Akali (2022)",
+        "target": "尊爵不凡 K/DA 阿卡莉｜2022"
+    },
+    {
+        "source": "Star Guardian Akali",
+        "target": "星光戰士 阿卡莉"
+    },
+    {
+        "source": "DRX Akali",
+        "target": "DRX 阿卡莉"
+    },
+    {
+        "source": "Five Point Strike",
+        "target": "落擲苦無"
+    },
+    {
+        "source": "Twilight Shroud",
+        "target": "暮光朦影"
+    },
+    {
+        "source": "Shuriken Flip",
+        "target": "離群手裡劍"
+    },
+    {
+        "source": "Perfect Execution",
+        "target": "無瑕追擊"
+    },
+    {
+        "source": "Assassin's Mark",
+        "target": "刺客印記"
+    },
+    {
+        "source": "Cyber Pop Akshan",
+        "target": "科技俠盜 埃可尚"
+    },
+    {
+        "source": "Crystal Rose Akshan",
+        "target": "水晶薔薇 埃可尚"
+    },
+    {
+        "source": "Avengerang",
+        "target": "復仇迴力鏢"
+    },
+    {
+        "source": "Going Rogue",
+        "target": "離經叛道"
+    },
+    {
+        "source": "Heroic Swing",
+        "target": "英勇勾索"
+    },
+    {
+        "source": "Comeuppance",
+        "target": "因果蓄能彈"
+    },
+    {
+        "source": "Dirty Fighting",
+        "target": "無賴之道"
+    },
+    {
+        "source": "Black Alistar",
+        "target": "黑色猛牛 亞歷斯塔"
+    },
+    {
+        "source": "Golden Alistar",
+        "target": "金牛戰士 亞歷斯塔"
+    },
+    {
+        "source": "Matador Alistar",
+        "target": "鬥牛士 亞歷斯塔"
+    },
+    {
+        "source": "Longhorn Alistar",
+        "target": "長角牛仔 亞歷斯塔"
+    },
+    {
+        "source": "Unchained Alistar",
+        "target": "破獄狂牛 亞歷斯塔"
+    },
+    {
+        "source": "Infernal Alistar",
+        "target": "地獄火 亞歷斯塔"
+    },
+    {
+        "source": "Sweeper Alistar",
+        "target": "蠻牛中衛 亞歷斯塔"
+    },
+    {
+        "source": "Marauder Alistar",
+        "target": "劫掠重錘 亞歷斯塔"
+    },
+    {
+        "source": "SKT T1 Alistar",
+        "target": "SKT T1 亞歷斯塔"
+    },
+    {
+        "source": "Moo Cow Alistar",
+        "target": "亞歷哞哞"
+    },
+    {
+        "source": "Hextech Alistar",
+        "target": "海克斯科技 亞歷斯塔"
+    },
+    {
+        "source": "Conqueror Alistar",
+        "target": "征服霸者 亞歷斯塔"
+    },
+    {
+        "source": "Blackfrost Alistar",
+        "target": "黯雪堅角 亞歷斯塔"
+    },
+    {
+        "source": "Lunar Beast Alistar",
+        "target": "牛年特戰隊 亞歷斯塔"
+    },
+    {
+        "source": "Pulverize",
+        "target": "大地粉碎"
+    },
+    {
+        "source": "Headbutt",
+        "target": "野蠻衝撞"
+    },
+    {
+        "source": "Trample",
+        "target": "蠻牛之力"
+    },
+    {
+        "source": "Unbreakable Will",
+        "target": "堅定意志"
+    },
+    {
+        "source": "Triumphant Roar",
+        "target": "勝利怒吼"
+    },
+    {
+        "source": "Pharaoh Amumu",
+        "target": "憂傷法老 阿姆姆"
+    },
+    {
+        "source": "Vancouver Amumu",
+        "target": "溫哥華 阿姆姆"
+    },
+    {
+        "source": "Emumu",
+        "target": "情緒搖滾 阿姆姆"
+    },
+    {
+        "source": "Re-Gifted Amumu",
+        "target": "劣質禮品 阿姆姆"
+    },
+    {
+        "source": "Almost-Prom King Amumu",
+        "target": "差一點舞會國王 阿姆姆"
+    },
+    {
+        "source": "Little Knight Amumu",
+        "target": "悲劇騎士 阿姆姆"
+    },
+    {
+        "source": "Sad Robot Amumu",
+        "target": "哀傷機器人 阿姆姆"
+    },
+    {
+        "source": "Surprise Party Amumu",
+        "target": "派對木乃伊 阿姆姆"
+    },
+    {
+        "source": "Infernal Amumu",
+        "target": "地獄火 阿姆姆"
+    },
+    {
+        "source": "Hextech Amumu",
+        "target": "海克斯科技 阿姆姆"
+    },
+    {
+        "source": "Pumpkin Prince Amumu",
+        "target": "南瓜頭王子 阿姆姆"
+    },
+    {
+        "source": "Porcelain Amumu",
+        "target": "青花瓷 阿姆姆"
+    },
+    {
+        "source": "Heartache Amumu",
+        "target": "痛心情人 阿姆姆"
+    },
+    {
+        "source": "Bandage Toss",
+        "target": "繃帶牽引"
+    },
+    {
+        "source": "Despair",
+        "target": "絕望"
+    },
+    {
+        "source": "Tantrum",
+        "target": "憤怒"
+    },
+    {
+        "source": "Curse of the Sad Mummy",
+        "target": "木乃伊之咒"
+    },
+    {
+        "source": "Cursed Touch",
+        "target": "詛咒之觸"
+    },
+    {
+        "source": "Team Spirit Anivia",
+        "target": "團隊精神 艾妮維亞"
+    },
+    {
+        "source": "Bird of Prey Anivia",
+        "target": "聯盟獵鷹 艾妮維亞"
+    },
+    {
+        "source": "Noxus Hunter Anivia",
+        "target": "諾克薩斯 艾妮維亞"
+    },
+    {
+        "source": "Hextech Anivia",
+        "target": "海克斯科技 艾妮維亞"
+    },
+    {
+        "source": "Blackfrost Anivia",
+        "target": "黯雪夜羽 艾妮維亞"
+    },
+    {
+        "source": "Prehistoric Anivia",
+        "target": "史前翼禽 艾妮維亞"
+    },
+    {
+        "source": "Festival Queen Anivia",
+        "target": "狂歡節女王 艾妮維亞"
+    },
+    {
+        "source": "Papercraft Anivia",
+        "target": "紙飛雞 艾妮維亞"
+    },
+    {
+        "source": "Cosmic Flight Anivia",
+        "target": "星河天鷹 艾妮維亞"
+    },
+    {
+        "source": "Divine Phoenix Anivia",
+        "target": "天聖神凰 艾妮維亞"
+    },
+    {
+        "source": "Bewitching Batnivia",
+        "target": "寒霜魔女 闇妮維亞"
+    },
+    {
+        "source": "Victorious Anivia",
+        "target": "戰爭英雄 艾妮維亞"
+    },
+    {
+        "source": "Flash Frost",
+        "target": "寒冰閃耀"
+    },
+    {
+        "source": "Crystallize",
+        "target": "寒冰屏障"
+    },
+    {
+        "source": "Frostbite",
+        "target": "霜寒刺骨"
+    },
+    {
+        "source": "Glacial Storm",
+        "target": "冰川風暴"
+    },
+    {
+        "source": "Rebirth",
+        "target": "寒霜涅槃"
+    },
+    {
+        "source": "Goth Annie",
+        "target": "哥特蘿莉 安妮"
+    },
+    {
+        "source": "Red Riding Annie",
+        "target": "小紅帽 安妮"
+    },
+    {
+        "source": "Annie in Wonderland",
+        "target": "安妮夢遊仙境"
+    },
+    {
+        "source": "Prom Queen Annie",
+        "target": "舞會皇后 安妮"
+    },
+    {
+        "source": "Frostfire Annie",
+        "target": "霜火魔女 安妮"
+    },
+    {
+        "source": "Reverse Annie",
+        "target": "安貝爾與泰妮"
+    },
+    {
+        "source": "FrankenTibbers Annie",
+        "target": "科學怪熊與歡樂夥伴"
+    },
+    {
+        "source": "Panda Annie",
+        "target": "降世熊貓 安妮"
+    },
+    {
+        "source": "Sweetheart Annie",
+        "target": "熊熊甜心 安妮"
+    },
+    {
+        "source": "Hextech Annie",
+        "target": "海克斯科技 安妮"
+    },
+    {
+        "source": "Super Galaxy Annie",
+        "target": "星際特攻 安妮"
+    },
+    {
+        "source": "Annie-Versary",
+        "target": "十周妮"
+    },
+    {
+        "source": "Lunar Beast Annie",
+        "target": "牛年特戰隊 安妮"
+    },
+    {
+        "source": "Cafe Cuties Annie",
+        "target": "咖啡廳甜心 安妮"
+    },
+    {
+        "source": "Fright Night Annie",
+        "target": "午夜驚魂 安妮"
+    },
+    {
+        "source": "Disintegrate",
+        "target": "瓦解怒焰"
+    },
+    {
+        "source": "Incinerate",
+        "target": "烈焰衝擊"
+    },
+    {
+        "source": "Molten Shield",
+        "target": "熔炎護盾"
+    },
+    {
+        "source": "Summon: Tibbers",
+        "target": "召喚：泰貝爾"
+    },
+    {
+        "source": "Pyromania",
+        "target": "嗜火"
+    },
+    {
+        "source": "Nightbringer Aphelios",
+        "target": "闇夜使者 亞菲利歐"
+    },
+    {
+        "source": "Lunar Beast Aphelios",
+        "target": "牛年特戰隊 亞菲利歐"
+    },
+    {
+        "source": "EDG Aphelios",
+        "target": "EDG 亞菲利歐"
+    },
+    {
+        "source": "Spirit Blossom Aphelios",
+        "target": "靈花祭 亞菲利歐"
+    },
+    {
+        "source": "Weapon Abilites",
+        "target": "武器技能"
+    },
+    {
+        "source": "Phase",
+        "target": "月相輪轉"
+    },
+    {
+        "source": "Weapon Queue System",
+        "target": "武器佇列系統"
+    },
+    {
+        "source": "Moonlight Vigil",
+        "target": "月夜守護"
+    },
+    {
+        "source": "The Hitman and the Seer",
+        "target": "殺手與先知"
+    },
+    {
+        "source": "Freljord Ashe",
+        "target": "急凍苔原 艾希"
+    },
+    {
+        "source": "Sherwood Forest Ashe",
+        "target": "俠盜獵人 艾希"
+    },
+    {
+        "source": "Woad Ashe",
+        "target": "森林隱箭 艾希"
+    },
+    {
+        "source": "Queen Ashe",
+        "target": "冰霜皇后 艾希"
+    },
+    {
+        "source": "Amethyst Ashe",
+        "target": "紫晶神弓 艾希"
+    },
+    {
+        "source": "Heartseeker Ashe",
+        "target": "愛情獵人 艾希"
+    },
+    {
+        "source": "Marauder Ashe",
+        "target": "劫掠殘弓 艾希"
+    },
+    {
+        "source": "PROJECT: Ashe",
+        "target": "菁英計畫：艾希"
+    },
+    {
+        "source": "Championship Ashe",
+        "target": "永恆榮耀 艾希"
+    },
+    {
+        "source": "Cosmic Queen Ashe",
+        "target": "星河霜后 艾希"
+    },
+    {
+        "source": "High Noon Ashe",
+        "target": "西域牛仔 艾希"
+    },
+    {
+        "source": "Fae Dragon Ashe",
+        "target": "妖靈幻龍 艾希"
+    },
+    {
+        "source": "Coven Ashe",
+        "target": "女巫集會 艾希 "
+    },
+    {
+        "source": "Ocean Song Ashe",
+        "target": "海洋之歌 艾希"
+    },
+    {
+        "source": "Lunar Empress Ashe",
+        "target": "玄天女皇 艾希"
+    },
+    {
+        "source": "DRX Ashe",
+        "target": "DRX 艾希"
+    },
+    {
+        "source": "Ranger's Focus",
+        "target": "專注射擊"
+    },
+    {
+        "source": "Volley",
+        "target": "萬箭齊發"
+    },
+    {
+        "source": "Hawkshot",
+        "target": "鷹擊長空"
+    },
+    {
+        "source": "Enchanted Crystal Arrow",
+        "target": "魔法水晶箭"
+    },
+    {
+        "source": "Frost Shot",
+        "target": "冰霜射擊"
+    },
+    {
+        "source": "Ashen Lord Aurelion Sol",
+        "target": "蒼火天尊 翱銳龍獸"
+    },
+    {
+        "source": "Mecha Aurelion Sol",
+        "target": "機甲烈空 翱銳龍獸"
+    },
+    {
+        "source": "Storm Dragon Aurelion Sol",
+        "target": "風暴聖龍 翱銳龍獸"
+    },
+    {
+        "source": "Inkshadow Aurelion Sol",
+        "target": "墨影戰士 翱銳龍獸"
+    },
+    {
+        "source": "Breath of Light",
+        "target": "星光吐息"
+    },
+    {
+        "source": "Astral Flight",
+        "target": "星界翱翔"
+    },
+    {
+        "source": "Singularity",
+        "target": "宇宙奇點"
+    },
+    {
+        "source": "Falling Star / The Skies Descend",
+        "target": "降世星辰／天界殞落"
+    },
+    {
+        "source": "Cosmic Creator",
+        "target": "宇宙創世"
+    },
+    {
+        "source": "Galactic Azir",
+        "target": "星際之門 阿祈爾"
+    },
+    {
+        "source": "Gravelord Azir",
+        "target": "墳場霸者 阿祈爾"
+    },
+    {
+        "source": "SKT T1 Azir",
+        "target": "SKT T1 阿祈爾"
+    },
+    {
+        "source": "Warring Kingdoms Azir",
+        "target": "鳳雛砂皇 龐統"
+    },
+    {
+        "source": "Elderwood Azir",
+        "target": "神木精靈 阿祈爾"
+    },
+    {
+        "source": "Worlds 2022 Azir",
+        "target": "2022 世界大賽 阿祈爾"
+    },
+    {
+        "source": "Conquering Sands",
+        "target": "砂影霸者"
+    },
+    {
+        "source": "Arise!",
+        "target": "砂漠禁軍"
+    },
+    {
+        "source": "Shifting Sands",
+        "target": "護砂瞬身"
+    },
+    {
+        "source": "Emperor's Divide",
+        "target": "空砂防壁"
+    },
+    {
+        "source": "Shurima's Legacy",
+        "target": "蘇瑞瑪遺跡"
+    },
+    {
+        "source": "Elderwood Bard",
+        "target": "神木精靈 巴德"
+    },
+    {
+        "source": "Snow Day Bard",
+        "target": "霜降使者 巴德"
+    },
+    {
+        "source": "Bard Bard",
+        "target": "吟遊詩人 巴德"
+    },
+    {
+        "source": "Astronaut Bard",
+        "target": "宇宙漫遊者 巴德"
+    },
+    {
+        "source": "Cafe Cuties Bard",
+        "target": "咖啡廳執事 巴德"
+    },
+    {
+        "source": "Shan Hai Scrolls Bard",
+        "target": "山海卷軸 巴德"
+    },
+    {
+        "source": "Cosmic Binding",
+        "target": "宇宙制約"
+    },
+    {
+        "source": "Caretaker's Shrine",
+        "target": "守望神龕"
+    },
+    {
+        "source": "Magical Journey",
+        "target": "奇幻旅程"
+    },
+    {
+        "source": "Tempered Fate",
+        "target": "凝滯命域"
+    },
+    {
+        "source": "Traveler's Call",
+        "target": "旅者引領"
+    },
+    {
+        "source": "Battle Boss Bel'Veth",
+        "target": "二次元女皇 貝爾薇斯"
+    },
+    {
+        "source": "Cosmic Matriarch Bel'Veth",
+        "target": "星河女皇 貝爾薇斯"
+    },
+    {
+        "source": "Void Surge",
+        "target": "虛空強襲 "
+    },
+    {
+        "source": "Above and Below",
+        "target": "尾棘鞭笞 "
+    },
+    {
+        "source": "Royal Maelstrom",
+        "target": "女皇風暴 "
+    },
+    {
+        "source": "Endless Banquet",
+        "target": "無盡盛宴 "
+    },
+    {
+        "source": "Death in Lavender ",
+        "target": "魂斷紫海 "
+    },
+    {
+        "source": "Rusty Blitzcrank",
+        "target": "鐵鏽斑斑 布里茨"
+    },
+    {
+        "source": "Goalkeeper Blitzcrank",
+        "target": "鋼鐵守門員 布里茨"
+    },
+    {
+        "source": "Boom Boom Blitzcrank",
+        "target": "拳擊機器人 布里茨"
+    },
+    {
+        "source": "Piltover Customs Blitzcrank",
+        "target": "變形金剛 布里茨"
+    },
+    {
+        "source": "Definitely Not Blitzcrank",
+        "target": "我不是布里茨"
+    },
+    {
+        "source": "iBlitzcrank",
+        "target": "i‧布里茨"
+    },
+    {
+        "source": "Riot Blitzcrank",
+        "target": "鎮暴部隊 布里茨"
+    },
+    {
+        "source": "Battle Boss Blitzcrank",
+        "target": "戰鬥魔王 布里茨"
+    },
+    {
+        "source": "Lancer Rogue Blitzcrank",
+        "target": "黑曜邪騎 布里茨"
+    },
+    {
+        "source": "Lancer Paragon Blitzcrank",
+        "target": "白晶聖騎 布里茨"
+    },
+    {
+        "source": "Witch's Brew Blitzcrank",
+        "target": "魔眼湯鍋 布里茨"
+    },
+    {
+        "source": "Space Groove Blitz & Crank",
+        "target": "太空律動 布里喵與阿茨貓"
+    },
+    {
+        "source": "Victorious Blitzcrank",
+        "target": "戰爭英雄 布里茨"
+    },
+    {
+        "source": "Zenith Games Blitzcrank",
+        "target": "頂尖對決 布里茨"
+    },
+    {
+        "source": "Rocket Grab",
+        "target": "火箭抓取"
+    },
+    {
+        "source": "Overdrive",
+        "target": "過載運轉"
+    },
+    {
+        "source": "Power Fist",
+        "target": "充能一擊"
+    },
+    {
+        "source": "Static Field",
+        "target": "靜電力場"
+    },
+    {
+        "source": "Mana Barrier",
+        "target": "法力屏障"
+    },
+    {
+        "source": "Apocalyptic Brand",
+        "target": "末日火焰 布蘭德"
+    },
+    {
+        "source": "Vandal Brand",
+        "target": "鎮暴惡靈 布蘭德"
+    },
+    {
+        "source": "Cryocore Brand",
+        "target": "藍焰使者 布蘭德"
+    },
+    {
+        "source": "Zombie Brand",
+        "target": "綠焰活屍 布蘭德"
+    },
+    {
+        "source": "Spirit Fire Brand",
+        "target": "聖火之靈 布蘭德"
+    },
+    {
+        "source": "Battle Boss Brand",
+        "target": "戰鬥魔王 布蘭德"
+    },
+    {
+        "source": "Arclight Brand",
+        "target": "弧光聖火 布蘭德"
+    },
+    {
+        "source": "Eternal Dragon Brand",
+        "target": "永恆邪龍 布蘭德"
+    },
+    {
+        "source": "Debonair Brand",
+        "target": "決勝賭豪 布蘭德"
+    },
+    {
+        "source": "Prestige Debonair Brand",
+        "target": "尊爵不凡 決勝賭豪 布蘭德"
+    },
+    {
+        "source": "Street Demons Brand",
+        "target": "街頭狂魔 布蘭德"
+    },
+    {
+        "source": "Sear",
+        "target": "火焰烙印"
+    },
+    {
+        "source": "Pillar of Flame",
+        "target": "煉獄風暴"
+    },
+    {
+        "source": "Conflagration",
+        "target": "天火燎原"
+    },
+    {
+        "source": "Pyroclasm",
+        "target": "末日熔岩"
+    },
+    {
+        "source": "Blaze",
+        "target": "烈炎鐵血"
+    },
+    {
+        "source": "Dragonslayer Braum",
+        "target": "弒龍守護者 布郎姆"
+    },
+    {
+        "source": "El Tigre Braum",
+        "target": "虎面筋肉人 布郎姆"
+    },
+    {
+        "source": "Braum Lionheart",
+        "target": "雄心戰士 布郎姆"
+    },
+    {
+        "source": "Santa Braum",
+        "target": "聖誕壯公公 布郎姆"
+    },
+    {
+        "source": "Crime City Braum",
+        "target": "罪惡城市 布郎姆"
+    },
+    {
+        "source": "Sugar Rush Braum",
+        "target": "餅乾衛士 布郎姆"
+    },
+    {
+        "source": "Pool Party Braum",
+        "target": "泳池狂歡 布郎姆"
+    },
+    {
+        "source": "Winter's Bite",
+        "target": "凜冬衝擊"
+    },
+    {
+        "source": "Stand Behind Me",
+        "target": "壁壘守護"
+    },
+    {
+        "source": "Unbreakable",
+        "target": "雄心重盾"
+    },
+    {
+        "source": "Glacial Fissure",
+        "target": "冰河裂隙"
+    },
+    {
+        "source": "Concussive Blows",
+        "target": "震盪冰封"
+    },
+    {
+        "source": "Street Demons Briar",
+        "target": "街頭狂魔 布蕾爾"
+    },
+    {
+        "source": "Head Rush",
+        "target": "沖昏頭"
+    },
+    {
+        "source": "Blood Frenzy / Snack Attack",
+        "target": "嗜血狂熱／進擊的點心"
+    },
+    {
+        "source": "Chilling Scream",
+        "target": "破膽尖嘯"
+    },
+    {
+        "source": "Certain Death",
+        "target": "必死無疑"
+    },
+    {
+        "source": "Crimson Curse",
+        "target": "血色詛咒"
+    },
+    {
+        "source": "Resistance Caitlyn",
+        "target": "政府反抗軍 凱特琳"
+    },
+    {
+        "source": "Sheriff Caitlyn",
+        "target": "荒野保安官 凱特琳"
+    },
+    {
+        "source": "Safari Caitlyn",
+        "target": "密林執法者 凱特琳"
+    },
+    {
+        "source": "Arctic Warfare Caitlyn",
+        "target": "極地狙擊手 凱特琳"
+    },
+    {
+        "source": "Officer Caitlyn",
+        "target": "性感警長 凱特琳"
+    },
+    {
+        "source": "Headhunter Caitlyn",
+        "target": "獵頭者 凱特琳"
+    },
+    {
+        "source": "Lunar Wraith Caitlyn",
+        "target": "釉月倩影 凱特琳"
+    },
+    {
+        "source": "Pulsefire Caitlyn",
+        "target": "脈衝火焰 凱特琳"
+    },
+    {
+        "source": "Pool Party Caitlyn",
+        "target": "泳池狂歡 凱特琳"
+    },
+    {
+        "source": "Arcade Caitlyn",
+        "target": "電玩女神 凱特琳"
+    },
+    {
+        "source": "Prestige Arcade Caitlyn",
+        "target": "尊爵不凡 電玩女神 凱特琳"
+    },
+    {
+        "source": "Battle Academia Caitlyn",
+        "target": "戰爭學院 凱特琳"
+    },
+    {
+        "source": "Arcane Caitlyn",
+        "target": "奧術執法者 凱特琳"
+    },
+    {
+        "source": "Prestige Arcade Caitlyn (2022)",
+        "target": "尊爵不凡 電玩女神 凱特琳｜2022"
+    },
+    {
+        "source": "Snow Moon Caitlyn",
+        "target": "雪月狙神 凱特琳"
+    },
+    {
+        "source": "Heartthrob Caitlyn",
+        "target": "萬萬人迷 凱特琳"
+    },
+    {
+        "source": "DRX Caitlyn",
+        "target": "DRX 凱特琳"
+    },
+    {
+        "source": "Piltover Peacemaker",
+        "target": "鎮暴射擊"
+    },
+    {
+        "source": "Yordle Snap Trap",
+        "target": "捕獲陷阱"
+    },
+    {
+        "source": "90 Caliber Net",
+        "target": "九零式獵網"
+    },
+    {
+        "source": "Ace in the Hole",
+        "target": "王牌射手"
+    },
+    {
+        "source": "Headshot",
+        "target": "爆頭"
+    },
+    {
+        "source": "Program Camille",
+        "target": "人工智慧 卡蜜兒"
+    },
+    {
+        "source": "Coven Camille",
+        "target": "女巫集會 卡蜜兒"
+    },
+    {
+        "source": "iG Camille",
+        "target": "iG 卡蜜兒"
+    },
+    {
+        "source": "Arcana Camille",
+        "target": "倒吊人 卡蜜兒"
+    },
+    {
+        "source": "Strike Commander Camille",
+        "target": "特戰指揮官 卡蜜兒"
+    },
+    {
+        "source": "Precision Protocol",
+        "target": "精密解剖"
+    },
+    {
+        "source": "Tactical Sweep",
+        "target": "刀光掠影"
+    },
+    {
+        "source": "Hookshot",
+        "target": "鋼鐵鉤射"
+    },
+    {
+        "source": "The Hextech Ultimatum",
+        "target": "海克斯晶體結界"
+    },
+    {
+        "source": "Adaptive Defenses",
+        "target": "適性防禦"
+    },
+    {
+        "source": "Desperada Cassiopeia",
+        "target": "荒漠之咬 卡莎碧雅"
+    },
+    {
+        "source": "Siren Cassiopeia",
+        "target": "深海妖姬 卡莎碧雅"
+    },
+    {
+        "source": "Mythic Cassiopeia",
+        "target": "神話時代 卡莎碧雅"
+    },
+    {
+        "source": "Jade Fang Cassiopeia",
+        "target": "翠玉毒牙 卡莎碧雅"
+    },
+    {
+        "source": "Eternum Cassiopeia",
+        "target": "烈影戰蛇 卡莎碧雅"
+    },
+    {
+        "source": "Spirit Blossom Cassiopeia",
+        "target": "靈花祭 卡莎碧雅"
+    },
+    {
+        "source": "Coven Cassiopeia",
+        "target": "女巫集會 卡莎碧雅"
+    },
+    {
+        "source": "Bewitching Cassiopeia",
+        "target": "惡毒魔女 卡莎碧雅"
+    },
+    {
+        "source": "Noxious Blast",
+        "target": "毒霧爆擊"
+    },
+    {
+        "source": "Miasma",
+        "target": "劇毒瘴氣"
+    },
+    {
+        "source": "Twin Fang",
+        "target": "雙生毒牙"
+    },
+    {
+        "source": "Petrifying Gaze",
+        "target": "石化凝視"
+    },
+    {
+        "source": "Serpentine Grace",
+        "target": "致命節奏"
+    },
+    {
+        "source": "Nightmare Cho'Gath",
+        "target": "虛空夢魘 科加斯"
+    },
+    {
+        "source": "Gentleman Cho'Gath",
+        "target": "高尚仕紳 科加斯"
+    },
+    {
+        "source": "Loch Ness Cho'Gath",
+        "target": "深淵海怪 科加斯"
+    },
+    {
+        "source": "Jurassic Cho'Gath",
+        "target": "侏儸紀 科加斯"
+    },
+    {
+        "source": "Battlecast Prime Cho'Gath",
+        "target": "狂派機甲 科加斯"
+    },
+    {
+        "source": "Prehistoric Cho'Gath",
+        "target": "史前巨獸 科加斯"
+    },
+    {
+        "source": "Dark Star Cho'Gath",
+        "target": "幽冥煞星 科加斯"
+    },
+    {
+        "source": "Shan Hai Scrolls Cho'Gath",
+        "target": "山海卷軸 科加斯"
+    },
+    {
+        "source": "Broken Covenant Cho'Gath",
+        "target": "破碎盟約 科加斯"
+    },
+    {
+        "source": "Rupture",
+        "target": "破裂"
+    },
+    {
+        "source": "Feral Scream",
+        "target": "野性尖嘯"
+    },
+    {
+        "source": "Vorpal Spikes",
+        "target": "恐懼尖刺"
+    },
+    {
+        "source": "Feast",
+        "target": "饗宴"
+    },
+    {
+        "source": "Carnivore",
+        "target": "肉食者"
+    },
+    {
+        "source": "UFO Corki",
+        "target": "星艦戰將 庫奇"
+    },
+    {
+        "source": "Ice Toboggan Corki",
+        "target": "雪橇急速 庫奇"
+    },
+    {
+        "source": "Red Baron Corki",
+        "target": "紅色男爵 庫奇"
+    },
+    {
+        "source": "Hot Rod Corki",
+        "target": "男子漢浪漫 庫奇"
+    },
+    {
+        "source": "Urfrider Corki",
+        "target": "阿福騎士 庫奇"
+    },
+    {
+        "source": "Dragonwing Corki",
+        "target": "翔龍飛翼 庫奇"
+    },
+    {
+        "source": "Fnatic Corki",
+        "target": "Fnatic 庫奇"
+    },
+    {
+        "source": "Arcade Corki",
+        "target": "彩虹戰機 庫奇"
+    },
+    {
+        "source": "Corgi Corki",
+        "target": "短腿飛基 庫奇"
+    },
+    {
+        "source": "Astronaut Corki",
+        "target": "太空約德爾人 庫奇"
+    },
+    {
+        "source": "Phosphorus Bomb",
+        "target": "磷光炸彈"
+    },
+    {
+        "source": "Valkyrie",
+        "target": "女武神特攻"
+    },
+    {
+        "source": "Gatling Gun",
+        "target": "格林機槍"
+    },
+    {
+        "source": "Missile Barrage",
+        "target": "火箭轟擊"
+    },
+    {
+        "source": "Hextech Munitions",
+        "target": "海克斯軍火"
+    },
+    {
+        "source": "Lord Darius",
+        "target": "諾城霸主 達瑞斯"
+    },
+    {
+        "source": "Bioforge Darius",
+        "target": "生化武力 達瑞斯"
+    },
+    {
+        "source": "Woad King Darius",
+        "target": "冽冬王者 達瑞斯"
+    },
+    {
+        "source": "Dunkmaster Darius",
+        "target": "灌籃高手 達瑞斯"
+    },
+    {
+        "source": "Academy Darius",
+        "target": "菁英學院 達瑞斯"
+    },
+    {
+        "source": "Dreadnova Darius",
+        "target": "星際戰將 達瑞斯"
+    },
+    {
+        "source": "God-King Darius",
+        "target": "魔狼戰神 達瑞斯"
+    },
+    {
+        "source": "High Noon Darius",
+        "target": "西域牛仔 達瑞斯"
+    },
+    {
+        "source": "Lunar Beast Darius",
+        "target": "牛年特戰隊 達瑞斯"
+    },
+    {
+        "source": "Crime City Nightmare Darius",
+        "target": "罪惡城市噩夢 達瑞斯"
+    },
+    {
+        "source": "Spirit Blossom Darius",
+        "target": "靈花祭 達瑞斯"
+    },
+    {
+        "source": "Decimate",
+        "target": "毀滅風暴"
+    },
+    {
+        "source": "Crippling Strike",
+        "target": "殘廢打擊"
+    },
+    {
+        "source": "Apprehend",
+        "target": "索魂奪命"
+    },
+    {
+        "source": "Noxian Guillotine",
+        "target": "諾克薩斯斷頭台"
+    },
+    {
+        "source": "Hemorrhage",
+        "target": "絞喉"
+    },
+    {
+        "source": "Dark Valkyrie Diana",
+        "target": "闇之女武神 黛安娜"
+    },
+    {
+        "source": "Lunar Goddess Diana",
+        "target": "望月女神 黛安娜"
+    },
+    {
+        "source": "Infernal Diana",
+        "target": "地獄火 黛安娜"
+    },
+    {
+        "source": "Blood Moon Diana",
+        "target": "血月天牙 黛安娜"
+    },
+    {
+        "source": "Dark Waters Diana",
+        "target": "幽黯死海 黛安娜"
+    },
+    {
+        "source": "Dragonslayer Diana",
+        "target": "弒龍死士 黛安娜"
+    },
+    {
+        "source": "Battle Queen Diana",
+        "target": "戰爭女皇 黛安娜"
+    },
+    {
+        "source": "Prestige Battle Queen Diana",
+        "target": "尊爵不凡 戰爭女皇 黛安娜"
+    },
+    {
+        "source": "Sentinel Diana",
+        "target": "光之哨兵 黛安娜"
+    },
+    {
+        "source": "Firecracker Diana",
+        "target": "福虎生風 黛安娜"
+    },
+    {
+        "source": "Winterblessed Diana",
+        "target": "凜冬碎星 黛安娜"
+    },
+    {
+        "source": "Crescent Strike",
+        "target": "月牙衝擊"
+    },
+    {
+        "source": "Pale Cascade",
+        "target": "蒼白月瀑"
+    },
+    {
+        "source": "Lunar Rush",
+        "target": "朔月幻步"
+    },
+    {
+        "source": "Moonfall",
+        "target": "月隕"
+    },
+    {
+        "source": "Moonsilver Blade",
+        "target": "銀月之刃"
+    },
+    {
+        "source": "Soul Reaver Draven",
+        "target": "靈魂收割者 達瑞文"
+    },
+    {
+        "source": "Gladiator Draven",
+        "target": "神鬼戰士 達瑞文"
+    },
+    {
+        "source": "Primetime Draven",
+        "target": "王牌播報員 達瑞文"
+    },
+    {
+        "source": "Pool Party Draven",
+        "target": "泳池狂歡 達瑞文"
+    },
+    {
+        "source": "Beast Hunter Draven",
+        "target": "獸魔獵人 達瑞文"
+    },
+    {
+        "source": "Draven Draven",
+        "target": "我就是達瑞文"
+    },
+    {
+        "source": "Santa Draven",
+        "target": "聖誕潮公公 達瑞文"
+    },
+    {
+        "source": "Mecha Kingdoms Draven",
+        "target": "機甲帝國 達瑞文"
+    },
+    {
+        "source": "Ruined Draven",
+        "target": "殞落處刑者 達瑞文"
+    },
+    {
+        "source": "Debonair Draven",
+        "target": "決勝賭豪 達瑞文"
+    },
+    {
+        "source": "Fright Night Draven",
+        "target": "午夜驚魂 達瑞文"
+    },
+    {
+        "source": "La Ilusión Draven",
+        "target": "幻靈夜總會 達瑞文"
+    },
+    {
+        "source": "Spinning Axe",
+        "target": "迴旋飛斧"
+    },
+    {
+        "source": "Blood Rush",
+        "target": "好戲上場"
+    },
+    {
+        "source": "Stand Aside",
+        "target": "給我閃！"
+    },
+    {
+        "source": "Whirling Death",
+        "target": "迴轉死神"
+    },
+    {
+        "source": "League of Draven",
+        "target": "瑞文聯盟"
+    },
+    {
+        "source": "Toxic Dr. Mundo",
+        "target": "俺不是浩克！ 俺是蒙多！"
+    },
+    {
+        "source": "Mr. Mundoverse",
+        "target": "健美教練 蒙多醫生"
+    },
+    {
+        "source": "Corporate Mundo",
+        "target": "專業經理人 蒙多醫生"
+    },
+    {
+        "source": "Mundo Mundo",
+        "target": "英雄變裝 蒙多醫生"
+    },
+    {
+        "source": "Executioner Mundo",
+        "target": "處刑者 蒙多"
+    },
+    {
+        "source": "Rageborn Mundo",
+        "target": "歐格瑪獸人 蒙多醫生"
+    },
+    {
+        "source": "TPA Mundo",
+        "target": "聖光球  柏茲蒙多"
+    },
+    {
+        "source": "Pool Party Mundo",
+        "target": "泳池狂歡 蒙多醫生"
+    },
+    {
+        "source": "El Macho Mundo",
+        "target": "魔鬼筋肉人 蒙多"
+    },
+    {
+        "source": "Frozen Prince Mundo",
+        "target": "霜凍王子 蒙多"
+    },
+    {
+        "source": "Street Demons Dr. Mundo",
+        "target": "街頭狂魔 蒙多醫生"
+    },
+    {
+        "source": "Infected Bonesaw",
+        "target": "病毒骨鋸"
+    },
+    {
+        "source": "Heart Zapper",
+        "target": "心臟電擊器"
+    },
+    {
+        "source": "Blunt Force Trauma",
+        "target": "鈍擊創傷"
+    },
+    {
+        "source": "Maximum Dosage",
+        "target": "最大劑量"
+    },
+    {
+        "source": "Goes Where He Pleases",
+        "target": "想去哪就去哪"
+    },
+    {
+        "source": "Sandstorm Ekko",
+        "target": "沙漠風暴 艾克"
+    },
+    {
+        "source": "Academy Ekko",
+        "target": "菁英學院 艾克"
+    },
+    {
+        "source": "PROJECT: Ekko",
+        "target": "菁英計畫：艾克"
+    },
+    {
+        "source": "SKT T1 Ekko",
+        "target": "SKT T1 艾克"
+    },
+    {
+        "source": "Trick or Treat Ekko",
+        "target": "給了糖也搗蛋 艾克"
+    },
+    {
+        "source": "True Damage Ekko",
+        "target": "True Damage 艾克"
+    },
+    {
+        "source": "Pulsefire Ekko",
+        "target": "脈衝火焰 艾克"
+    },
+    {
+        "source": "Firelight Ekko",
+        "target": "野火幫首腦 艾克"
+    },
+    {
+        "source": "Star Guardian Ekko",
+        "target": "星光戰士 艾克"
+    },
+    {
+        "source": "Prestige Star Guardian Ekko",
+        "target": "尊爵不凡 星光戰士 艾克"
+    },
+    {
+        "source": "Timewinder",
+        "target": "時光樞紐"
+    },
+    {
+        "source": "Parallel Convergence",
+        "target": "時空攔截"
+    },
+    {
+        "source": "Phase Dive",
+        "target": "相位轉移"
+    },
+    {
+        "source": "Chronobreak",
+        "target": "計時開始"
+    },
+    {
+        "source": "Z-Drive Resonance",
+        "target": "共振驅動-Z"
+    },
+    {
+        "source": "Death Blossom Elise",
+        "target": "致命血蓮 伊莉絲"
+    },
+    {
+        "source": "Victorious Elise",
+        "target": "戰爭英雄 伊莉絲"
+    },
+    {
+        "source": "Blood Moon Elise",
+        "target": "血月魅魔 伊莉絲"
+    },
+    {
+        "source": "SKT T1 Elise",
+        "target": "SKT T1 伊莉絲"
+    },
+    {
+        "source": "Super Galaxy Elise",
+        "target": "星際特攻 伊莉絲"
+    },
+    {
+        "source": "Bewitching Elise",
+        "target": "惑豔女巫 伊莉絲"
+    },
+    {
+        "source": "Withered Rose Elise",
+        "target": "凋零薔薇 伊莉絲"
+    },
+    {
+        "source": "Neurotoxin / Venomous Bite",
+        "target": "神經毒素 / 毒咬"
+    },
+    {
+        "source": "Volatile Spiderling / Skittering Frenzy",
+        "target": "爆裂毒蛛 / 掠食者的狂喜"
+    },
+    {
+        "source": "Cocoon / Rappel",
+        "target": "盤纏蛛絲 / 韌絲飛躍"
+    },
+    {
+        "source": "Spider Form",
+        "target": "蜘蛛型態"
+    },
+    {
+        "source": "Spider Queen",
+        "target": "蜘蛛女王"
+    },
+    {
+        "source": "Shadow Evelynn",
+        "target": "影之女王 伊芙琳"
+    },
+    {
+        "source": "Masquerade Evelynn",
+        "target": "假面女皇 伊芙琳"
+    },
+    {
+        "source": "Tango Evelynn",
+        "target": "探戈靈魂 伊芙琳"
+    },
+    {
+        "source": "Safecracker Evelynn",
+        "target": "妙手空空 伊芙琳"
+    },
+    {
+        "source": "Blood Moon Evelynn",
+        "target": "血月魅影 伊芙琳"
+    },
+    {
+        "source": "K/DA Evelynn",
+        "target": "K/DA 伊芙琳"
+    },
+    {
+        "source": "Prestige K/DA Evelynn",
+        "target": "尊爵不凡 K/DA 伊芙琳"
+    },
+    {
+        "source": "Sugar Rush Evelynn",
+        "target": "草莓黑森琳"
+    },
+    {
+        "source": "K/DA ALL OUT Evelynn",
+        "target": "K/DA ALL OUT 伊芙琳"
+    },
+    {
+        "source": "Coven Evelynn",
+        "target": "女巫集會 伊芙琳"
+    },
+    {
+        "source": "Prestige K/DA Evelynn (2022)",
+        "target": "尊爵不凡 K/DA 伊芙琳｜2022"
+    },
+    {
+        "source": "Spirit Blossom Evelynn",
+        "target": "靈花祭 伊芙琳"
+    },
+    {
+        "source": "Soul Fighter Evelynn",
+        "target": "戰魂鬥士 伊芙琳"
+    },
+    {
+        "source": "Hate Spike",
+        "target": "憎恨尖刺"
+    },
+    {
+        "source": "Allure",
+        "target": "咒慾迷塵"
+    },
+    {
+        "source": "Whiplash",
+        "target": "奪魂鞭索"
+    },
+    {
+        "source": "Last Caress",
+        "target": "殘戮收割"
+    },
+    {
+        "source": "Demon Shade",
+        "target": "魔魅之影"
+    },
+    {
+        "source": "Nottingham Ezreal",
+        "target": "森林俠盜 伊澤瑞爾"
+    },
+    {
+        "source": "Striker Ezreal",
+        "target": "足球先生 伊澤瑞爾"
+    },
+    {
+        "source": "Frosted Ezreal",
+        "target": "冰川勇者 伊澤瑞爾"
+    },
+    {
+        "source": "Explorer Ezreal",
+        "target": "勘探專家 伊澤瑞爾"
+    },
+    {
+        "source": "Pulsefire Ezreal",
+        "target": "脈衝火焰 伊澤瑞爾"
+    },
+    {
+        "source": "TPA Ezreal",
+        "target": "傻笑之王  伊澤逼比"
+    },
+    {
+        "source": "Debonair Ezreal",
+        "target": "決勝賭豪 伊澤瑞爾"
+    },
+    {
+        "source": "Ace of Spades Ezreal",
+        "target": "黑桃 Ace 伊澤瑞爾"
+    },
+    {
+        "source": "Arcade Ezreal",
+        "target": "電玩高手 伊澤瑞爾"
+    },
+    {
+        "source": "Star Guardian Ezreal",
+        "target": "星光戰士 伊澤瑞爾"
+    },
+    {
+        "source": "SSG Ezreal",
+        "target": "SSG 伊澤瑞爾"
+    },
+    {
+        "source": "Pajama Guardian Ezreal",
+        "target": "星光睡衣趴 伊澤瑞爾"
+    },
+    {
+        "source": "Battle Academia Ezreal",
+        "target": "戰爭學院 伊澤瑞爾"
+    },
+    {
+        "source": "PsyOps Ezreal",
+        "target": "靈戰特工 伊澤瑞爾"
+    },
+    {
+        "source": "Prestige PsyOps Ezreal",
+        "target": "尊爵不凡 靈戰特工 伊澤瑞爾"
+    },
+    {
+        "source": "Porcelain Protector Ezreal",
+        "target": "青花瓷 伊澤瑞爾"
+    },
+    {
+        "source": "Faerie Court Ezreal",
+        "target": "妖精宮殿 伊澤瑞爾"
+    },
+    {
+        "source": "Mystic Shot",
+        "target": "祕術射擊"
+    },
+    {
+        "source": "Essence Flux",
+        "target": "精華躍動"
+    },
+    {
+        "source": "Arcane Shift",
+        "target": "奧術躍遷"
+    },
+    {
+        "source": "Trueshot Barrage",
+        "target": "精準彈幕"
+    },
+    {
+        "source": "Rising Spell Force",
+        "target": "咒能高漲"
+    },
+    {
+        "source": "Spectral Fiddlesticks",
+        "target": "幽魂嘆息 費德提克"
+    },
+    {
+        "source": "Union Jack Fiddlesticks",
+        "target": "英倫萬歲！ 費德提克"
+    },
+    {
+        "source": "Bandito Fiddlesticks",
+        "target": "荒野鏢客 費德提克"
+    },
+    {
+        "source": "Pumpkinhead Fiddlesticks",
+        "target": "萬聖稻草人 費德提克"
+    },
+    {
+        "source": "Fiddle Me Timbers",
+        "target": "失意海賊 費德提克"
+    },
+    {
+        "source": "Surprise Party Fiddlesticks",
+        "target": "派對稻草人 費德提克"
+    },
+    {
+        "source": "Dark Candy Fiddlesticks",
+        "target": "惡影糖果 費德提克"
+    },
+    {
+        "source": "Risen Fiddlesticks",
+        "target": "砂皇督軍 費德提克"
+    },
+    {
+        "source": "Praetorian Fiddlesticks",
+        "target": "禁衛軍甲 費德提克"
+    },
+    {
+        "source": "Star Nemesis Fiddlesticks",
+        "target": "弒星者 費德提克"
+    },
+    {
+        "source": "Terrify",
+        "target": "恐懼"
+    },
+    {
+        "source": "Bountiful Harvest",
+        "target": "豐收之魘"
+    },
+    {
+        "source": "Reap",
+        "target": "駭懼收割"
+    },
+    {
+        "source": "Crowstorm",
+        "target": "群鴉風暴"
+    },
+    {
+        "source": "A Harmless Scarecrow",
+        "target": "無害稻草人"
+    },
+    {
+        "source": "Royal Guard Fiora",
+        "target": "皇家守衛 菲歐拉"
+    },
+    {
+        "source": "Nightraven Fiora",
+        "target": "夜鴉魔劍 菲歐拉"
+    },
+    {
+        "source": "Headmistress Fiora",
+        "target": "性感教師 菲歐拉"
+    },
+    {
+        "source": "PROJECT: Fiora",
+        "target": "菁英計畫：菲歐拉"
+    },
+    {
+        "source": "Pool Party Fiora",
+        "target": "泳池狂歡 菲歐拉"
+    },
+    {
+        "source": "Soaring Sword Fiora",
+        "target": "劍仙：承影 菲歐拉"
+    },
+    {
+        "source": "Heartpiercer Fiora",
+        "target": "甜心刺客 菲歐拉"
+    },
+    {
+        "source": "iG Fiora",
+        "target": "iG 菲歐拉 "
+    },
+    {
+        "source": "Pulsefire Fiora",
+        "target": "脈衝火焰 菲歐拉"
+    },
+    {
+        "source": "Lunar Beast Fiora",
+        "target": "牛年特戰隊 菲歐拉"
+    },
+    {
+        "source": "Prestige Lunar Beast Fiora",
+        "target": "尊爵不凡 牛年特戰隊 菲歐拉"
+    },
+    {
+        "source": "Bewitching Fiora",
+        "target": "紫劍魔女 菲歐拉"
+    },
+    {
+        "source": "Faerie Court Fiora",
+        "target": "妖精宮殿 菲歐拉"
+    },
+    {
+        "source": "Lunge",
+        "target": "移形之體"
+    },
+    {
+        "source": "Riposte",
+        "target": "斗轉之力"
+    },
+    {
+        "source": "Bladework",
+        "target": "迅雷之技"
+    },
+    {
+        "source": "Grand Challenge",
+        "target": "頂尖對決"
+    },
+    {
+        "source": "Duelist's Dance",
+        "target": "不屈鬥魂"
+    },
+    {
+        "source": "Atlantean Fizz",
+        "target": "亞特蘭遺孤 飛斯"
+    },
+    {
+        "source": "Tundra Fizz",
+        "target": "破冰殺人鯨 飛斯"
+    },
+    {
+        "source": "Fisherman Fizz",
+        "target": "黃金傳說 飛斯"
+    },
+    {
+        "source": "Void Fizz",
+        "target": "虛空使者 飛斯"
+    },
+    {
+        "source": "Cottontail Fizz",
+        "target": "復活兔 飛斯"
+    },
+    {
+        "source": "Super Galaxy Fizz",
+        "target": "星際特攻 飛斯"
+    },
+    {
+        "source": "Omega Squad Fizz",
+        "target": "戰爭機器 飛斯"
+    },
+    {
+        "source": "Fuzz Fizz",
+        "target": "毛小孩 飛斯"
+    },
+    {
+        "source": "Prestige Fuzz Fizz",
+        "target": "尊爵不凡 毛小孩 飛斯"
+    },
+    {
+        "source": "Little Devil Fizz",
+        "target": "小惡魔 飛斯"
+    },
+    {
+        "source": "Prestige Fuzz Fizz (2022)",
+        "target": "尊爵不凡 毛小孩 飛斯｜2022"
+    },
+    {
+        "source": "Astronaut Fizz",
+        "target": "太空約德爾人 飛斯"
+    },
+    {
+        "source": "Urchin Strike",
+        "target": "現撈海膽"
+    },
+    {
+        "source": "Seastone Trident",
+        "target": "海神三叉戟"
+    },
+    {
+        "source": "Playful / Trickster",
+        "target": "愛玩小飛 / 調皮小飛"
+    },
+    {
+        "source": "Chum the Waters",
+        "target": "海之霸主"
+    },
+    {
+        "source": "Nimble Fighter",
+        "target": "靈巧海族"
+    },
+    {
+        "source": "Enchanted Galio",
+        "target": "夜行神龍 加里歐"
+    },
+    {
+        "source": "Hextech Galio",
+        "target": "海克斯科技 加里歐"
+    },
+    {
+        "source": "Commando Galio",
+        "target": "魔鬼司令 加里歐"
+    },
+    {
+        "source": "Gatekeeper Galio",
+        "target": "惡魔守衛者 加里歐"
+    },
+    {
+        "source": "Debonair Galio",
+        "target": "決勝賭豪 加里歐"
+    },
+    {
+        "source": "Birdio",
+        "target": "醜不拉雞 加里歐"
+    },
+    {
+        "source": "Infernal Galio",
+        "target": "地獄火 加里歐"
+    },
+    {
+        "source": "Dragon Guardian Galio",
+        "target": "龍族守護者 加里歐"
+    },
+    {
+        "source": "Mythmaker Galio",
+        "target": "剪紙仙靈 加里歐"
+    },
+    {
+        "source": "Winds of War",
+        "target": "征戰風暴"
+    },
+    {
+        "source": "Shield of Durand",
+        "target": "杜蘭德之盾"
+    },
+    {
+        "source": "Justice Punch",
+        "target": "光榮制裁"
+    },
+    {
+        "source": "Hero's Entrance",
+        "target": "英靈之門"
+    },
+    {
+        "source": "Colossal Smash",
+        "target": "護國意志"
+    },
+    {
+        "source": "Spooky Gangplank",
+        "target": "幽靈船長 剛普朗克"
+    },
+    {
+        "source": "Minuteman Gangplank",
+        "target": "反抗軍 剛普朗克"
+    },
+    {
+        "source": "Sailor Gangplank",
+        "target": "大力水手 剛普朗克"
+    },
+    {
+        "source": "Toy Soldier Gangplank",
+        "target": "玩具海盜 剛普朗克"
+    },
+    {
+        "source": "Special Forces Gangplank",
+        "target": "海豹突擊隊 剛普朗克"
+    },
+    {
+        "source": "Sultan Gangplank",
+        "target": "征服者 剛普朗克"
+    },
+    {
+        "source": "Captain Gangplank",
+        "target": "海賊船長 剛普朗克"
+    },
+    {
+        "source": "Dreadnova Gangplank",
+        "target": "星際戰將 剛普朗克"
+    },
+    {
+        "source": "Pool Party Gangplank",
+        "target": "泳池狂歡 剛普朗克"
+    },
+    {
+        "source": "FPX Gangplank",
+        "target": "FPX 剛普朗克"
+    },
+    {
+        "source": "Gangplank the Betrayer",
+        "target": "背叛者 剛普朗克"
+    },
+    {
+        "source": "Parrrley",
+        "target": "槍火談判"
+    },
+    {
+        "source": "Remove Scurvy",
+        "target": "壞血症療法"
+    },
+    {
+        "source": "Powder Keg",
+        "target": "火藥桶"
+    },
+    {
+        "source": "Cannon Barrage",
+        "target": "加農炮幕"
+    },
+    {
+        "source": "Trial by Fire",
+        "target": "烈火審判"
+    },
+    {
+        "source": "Sanguine Garen",
+        "target": "戰場王者 蓋倫"
+    },
+    {
+        "source": "Desert Trooper Garen",
+        "target": "沙漠騎兵 蓋倫"
+    },
+    {
+        "source": "Commando Garen",
+        "target": "魔鬼司令  蓋倫"
+    },
+    {
+        "source": "Dreadknight Garen",
+        "target": "死靈騎士 蓋倫"
+    },
+    {
+        "source": "Rugged Garen",
+        "target": "森林遊俠 蓋倫"
+    },
+    {
+        "source": "Steel Legion Garen",
+        "target": "鋼鐵軍團 蓋倫"
+    },
+    {
+        "source": "Rogue Admiral Garen",
+        "target": "海賊大將 蓋倫"
+    },
+    {
+        "source": "Warring Kingdoms Garen",
+        "target": "蓋世絕倫 孫權"
+    },
+    {
+        "source": "God-King Garen",
+        "target": "聖獅戰神 蓋倫"
+    },
+    {
+        "source": "Demacia Vice Garen",
+        "target": "蒂瑪西亞反派 蓋倫"
+    },
+    {
+        "source": "Mecha Kingdoms Garen",
+        "target": "機甲帝國 蓋倫"
+    },
+    {
+        "source": "Prestige Mecha Kingdoms Garen",
+        "target": "尊爵不凡 機甲帝國 蓋倫"
+    },
+    {
+        "source": "Battle Academia Garen",
+        "target": "戰爭學院 蓋倫"
+    },
+    {
+        "source": "Mythmaker Garen",
+        "target": "剪紙仙靈 蓋倫"
+    },
+    {
+        "source": "Decisive Strike",
+        "target": "致命打擊"
+    },
+    {
+        "source": "Courage",
+        "target": "勇氣"
+    },
+    {
+        "source": "Judgment",
+        "target": "審判"
+    },
+    {
+        "source": "Demacian Justice",
+        "target": "蒂瑪西亞制裁"
+    },
+    {
+        "source": "Perseverance",
+        "target": "堅韌"
+    },
+    {
+        "source": "Dino Gnar",
+        "target": "抱抱龍 吶兒"
+    },
+    {
+        "source": "Gentleman Gnar",
+        "target": "毛毛仕紳 吶兒"
+    },
+    {
+        "source": "Snow Day Gnar",
+        "target": "霜降使者 吶兒"
+    },
+    {
+        "source": "El León Gnar",
+        "target": "雄獅筋肉人 吶兒"
+    },
+    {
+        "source": "Super Galaxy Gnar",
+        "target": "星際特攻 吶兒"
+    },
+    {
+        "source": "SSG Gnar",
+        "target": "SSG 吶兒"
+    },
+    {
+        "source": "Astronaut Gnar",
+        "target": "太空約德爾人 吶兒"
+    },
+    {
+        "source": "Elderwood Gnar",
+        "target": "神木精靈 吶兒"
+    },
+    {
+        "source": "La Ilusión Gnar",
+        "target": "幻靈夜總會 吶兒"
+    },
+    {
+        "source": "Boomerang Throw / Boulder Toss",
+        "target": "骨頭迴力鏢／巨岩拋擲"
+    },
+    {
+        "source": "Hyper / Wallop",
+        "target": "野獸本能／原始衝撞"
+    },
+    {
+        "source": "Hop / Crunch",
+        "target": "吶兒跳跳／重磅輾壓"
+    },
+    {
+        "source": "GNAR!",
+        "target": "狂嘯猛擊！"
+    },
+    {
+        "source": "Rage Gene",
+        "target": "狂怒基因"
+    },
+    {
+        "source": "Scuba Gragas",
+        "target": "深潛蛙人 古拉格斯"
+    },
+    {
+        "source": "Hillbilly Gragas",
+        "target": "鄉村農夫 古拉格斯"
+    },
+    {
+        "source": "Santa Gragas",
+        "target": "聖誕老人 古拉格斯"
+    },
+    {
+        "source": "Gragas, Esq.",
+        "target": "烈酒富豪 古拉格斯"
+    },
+    {
+        "source": "Vandal Gragas",
+        "target": "哈雷酒王 古拉格斯"
+    },
+    {
+        "source": "Oktoberfest Gragas",
+        "target": "慕尼黑啤酒節 古拉格斯"
+    },
+    {
+        "source": "Superfan Gragas",
+        "target": "瘋狂粉絲 古拉格斯"
+    },
+    {
+        "source": "Fnatic Gragas",
+        "target": "Fnatic 古拉格斯"
+    },
+    {
+        "source": "Gragas Caskbreaker",
+        "target": "爆桶騎士 古拉格斯"
+    },
+    {
+        "source": "Arctic Ops Gragas",
+        "target": "雪嶺突襲 古拉格斯"
+    },
+    {
+        "source": "Warden Gragas",
+        "target": "無情審判 古拉格斯"
+    },
+    {
+        "source": "Space Groove Gragas",
+        "target": "太空律動 古拉格斯"
+    },
+    {
+        "source": "Barrel Roll",
+        "target": "滾動酒桶"
+    },
+    {
+        "source": "Drunken Rage",
+        "target": "醉酒狂暴"
+    },
+    {
+        "source": "Body Slam",
+        "target": "肉彈衝擊"
+    },
+    {
+        "source": "Explosive Cask",
+        "target": "爆破酒桶"
+    },
+    {
+        "source": "Happy Hour",
+        "target": "歡樂時光"
+    },
+    {
+        "source": "Hired Gun Graves",
+        "target": "戰鬥傭兵 葛雷夫"
+    },
+    {
+        "source": "Jailbreak Graves",
+        "target": "越獄槍手 葛雷夫"
+    },
+    {
+        "source": "Crime City Graves",
+        "target": "罪惡城市 葛雷夫"
+    },
+    {
+        "source": "Riot Graves",
+        "target": "鎮暴部隊 葛雷夫"
+    },
+    {
+        "source": "Pool Party Graves",
+        "target": "泳池狂歡 葛雷夫"
+    },
+    {
+        "source": "Cutthroat Graves",
+        "target": "黑街殺手 葛雷夫"
+    },
+    {
+        "source": "Snow Day Graves",
+        "target": "霜降使者 葛雷夫"
+    },
+    {
+        "source": "Victorious Graves",
+        "target": "戰爭英雄 葛雷夫"
+    },
+    {
+        "source": "Praetorian Graves",
+        "target": "禁衛軍甲 葛雷夫"
+    },
+    {
+        "source": "Battle Professor Graves",
+        "target": "戰爭院導 葛雷夫"
+    },
+    {
+        "source": "Sentinel Graves",
+        "target": "光之哨兵 葛雷夫"
+    },
+    {
+        "source": "EDG Graves",
+        "target": "EDG 葛雷夫"
+    },
+    {
+        "source": "End of the Line",
+        "target": "人在江湖"
+    },
+    {
+        "source": "Smoke Screen",
+        "target": "隻手遮天"
+    },
+    {
+        "source": "Quickdraw",
+        "target": "猛龍過江"
+    },
+    {
+        "source": "Collateral Damage",
+        "target": "龍爭虎鬥"
+    },
+    {
+        "source": "New Destiny",
+        "target": "命運"
+    },
+    {
+        "source": "Space Groove Gwen",
+        "target": "太空律動 關"
+    },
+    {
+        "source": "Cafe Cuties Gwen",
+        "target": "咖啡廳甜心 關"
+    },
+    {
+        "source": "Soul Fighter Gwen",
+        "target": "戰魂鬥士 關"
+    },
+    {
+        "source": "Snip Snip!",
+        "target": "剪剪！"
+    },
+    {
+        "source": "Hallowed Mist",
+        "target": "聖霧絲縷"
+    },
+    {
+        "source": "Skip 'n Slash",
+        "target": "剪步如飛"
+    },
+    {
+        "source": "Needlework",
+        "target": "飛針走線"
+    },
+    {
+        "source": "A Thousand Cuts",
+        "target": "千刀萬剮"
+    },
+    {
+        "source": "Blood Knight Hecarim",
+        "target": "血瘟騎士 赫克林"
+    },
+    {
+        "source": "Reaper Hecarim",
+        "target": "索魂使者 赫克林"
+    },
+    {
+        "source": "Headless Hecarim",
+        "target": "斷頭死騎 赫克林"
+    },
+    {
+        "source": "Arcade Hecarim",
+        "target": "彩虹小馬 赫克林"
+    },
+    {
+        "source": "Elderwood Hecarim",
+        "target": "神木精靈 赫克林"
+    },
+    {
+        "source": "Worldbreaker Hecarim",
+        "target": "文明末日 赫克林"
+    },
+    {
+        "source": "Lancer Zero Hecarim",
+        "target": "零式聖騎 赫克林"
+    },
+    {
+        "source": "High Noon Hecarim",
+        "target": "西域牛仔 赫克林"
+    },
+    {
+        "source": "Cosmic Charger Hecarim",
+        "target": "星河人馬 赫克林"
+    },
+    {
+        "source": "Arcana Hecarim",
+        "target": "戰車 赫克林"
+    },
+    {
+        "source": "Rampage",
+        "target": "逸騎刃擊"
+    },
+    {
+        "source": "Spirit of Dread",
+        "target": "靈魂恐懼"
+    },
+    {
+        "source": "Devastating Charge",
+        "target": "毀滅衝刺"
+    },
+    {
+        "source": "Onslaught of Shadows",
+        "target": "暗影的逆襲"
+    },
+    {
+        "source": "Warpath",
+        "target": "刃馬合一"
+    },
+    {
+        "source": "Alien Invader Heimerdinger",
+        "target": "外星入侵者 漢默丁格"
+    },
+    {
+        "source": "Blast Zone Heimerdinger",
+        "target": "拆彈專家 漢默丁格"
+    },
+    {
+        "source": "Piltover Customs Heimerdinger",
+        "target": "改機天才 漢默丁格"
+    },
+    {
+        "source": "Snowmerdinger",
+        "target": "雪默丁格"
+    },
+    {
+        "source": "Hazmat Heimerdinger",
+        "target": "生化小小兵 漢默丁格"
+    },
+    {
+        "source": "Dragon Trainer Heimerdinger",
+        "target": "馴龍高手 漢默丁格"
+    },
+    {
+        "source": "Pool Party Heimerdinger",
+        "target": "泳池狂歡 漢默丁格"
+    },
+    {
+        "source": "Heimerstinger",
+        "target": "漢默叮格"
+    },
+    {
+        "source": "H-28 G Evolution Turret",
+        "target": "H-28 G 進化砲臺"
+    },
+    {
+        "source": "Hextech Micro-Rockets",
+        "target": "高科技微型火箭"
+    },
+    {
+        "source": "CH-2 Electron Storm Grenade",
+        "target": "CH-2 暴風手雷"
+    },
+    {
+        "source": "UPGRADE!!!",
+        "target": "升級！！！"
+    },
+    {
+        "source": "Hextech Affinity",
+        "target": "海克斯親合性"
+    },
+    {
+        "source": "Void Bringer Illaoi",
+        "target": "虛空使者 伊羅旖"
+    },
+    {
+        "source": "Resistance Illaoi",
+        "target": "鋼鐵叛軍 伊羅旖"
+    },
+    {
+        "source": "Cosmic Invoker Illaoi",
+        "target": "星河水瓶 伊羅旖"
+    },
+    {
+        "source": "Snow Moon Illaoi",
+        "target": "雪月祭司 伊羅旖"
+    },
+    {
+        "source": "Tentacle Smash",
+        "target": "鞭笞觸手"
+    },
+    {
+        "source": "Harsh Lesson",
+        "target": "嚴酷考驗"
+    },
+    {
+        "source": "Test of Spirit",
+        "target": "祖靈之試"
+    },
+    {
+        "source": "Leap of Faith",
+        "target": "虔信一躍"
+    },
+    {
+        "source": "Prophet of an Elder God",
+        "target": "遠古預言"
+    },
+    {
+        "source": "Nightblade Irelia",
+        "target": "臥虎藏龍 伊瑞莉雅"
+    },
+    {
+        "source": "Aviator Irelia",
+        "target": "領航員 伊瑞莉雅"
+    },
+    {
+        "source": "Infiltrator Irelia",
+        "target": "御劍俠者 伊瑞莉雅"
+    },
+    {
+        "source": "Frostblade Irelia",
+        "target": "霜寒劍心 伊瑞莉雅"
+    },
+    {
+        "source": "Order of the Lotus Irelia",
+        "target": "詠夏芙蓉 伊瑞莉雅"
+    },
+    {
+        "source": "Divine Sword Irelia",
+        "target": "劍仙：懸翦 伊瑞莉雅"
+    },
+    {
+        "source": "iG Irelia",
+        "target": "iG 伊瑞莉雅"
+    },
+    {
+        "source": "PROJECT: Irelia",
+        "target": "菁英計畫：伊瑞莉雅"
+    },
+    {
+        "source": "Prestige PROJECT: Irelia",
+        "target": "尊爵不凡 菁英計畫：伊瑞莉雅"
+    },
+    {
+        "source": "High Noon Irelia",
+        "target": "西域牛仔 伊瑞莉雅"
+    },
+    {
+        "source": "Sentinel Irelia",
+        "target": "光之哨兵 伊瑞莉雅"
+    },
+    {
+        "source": "Prestige PROJECT: Irelia (2022)",
+        "target": "尊爵不凡 菁英計畫：伊瑞莉雅｜2022"
+    },
+    {
+        "source": "Mythmaker Irelia",
+        "target": "剪紙仙靈 伊瑞莉雅"
+    },
+    {
+        "source": "Bladesurge",
+        "target": "利刃衝擊"
+    },
+    {
+        "source": "Defiant Dance",
+        "target": "不屈祕舞"
+    },
+    {
+        "source": "Flawless Duet",
+        "target": "無瑕重刃"
+    },
+    {
+        "source": "Vanguard's Edge",
+        "target": "護劍化形"
+    },
+    {
+        "source": "Ionian Fervor",
+        "target": "愛歐尼亞狂熱"
+    },
+    {
+        "source": "Candy King Ivern",
+        "target": "甜點國王 埃爾文"
+    },
+    {
+        "source": "Dunkmaster Ivern",
+        "target": "灌籃高手 埃爾文"
+    },
+    {
+        "source": "Old God Ivern",
+        "target": "古神 埃爾文"
+    },
+    {
+        "source": "Astronaut Ivern",
+        "target": "太空樹人 埃爾文"
+    },
+    {
+        "source": "Rootcaller",
+        "target": "盤根束縛"
+    },
+    {
+        "source": "Brushmaker",
+        "target": "茂林春生"
+    },
+    {
+        "source": "Triggerseed",
+        "target": "守護種子"
+    },
+    {
+        "source": "Daisy!",
+        "target": "黛西！"
+    },
+    {
+        "source": "Friend of the Forest",
+        "target": "森林之友"
+    },
+    {
+        "source": "Tempest Janna",
+        "target": "暴風雨女神 珍娜"
+    },
+    {
+        "source": "Hextech Janna",
+        "target": "海克斯科技 珍娜"
+    },
+    {
+        "source": "Frost Queen Janna",
+        "target": "霜之女王 珍娜"
+    },
+    {
+        "source": "Victorious Janna",
+        "target": "戰爭英雄 珍娜"
+    },
+    {
+        "source": "Forecast Janna",
+        "target": "氣象主播 珍娜"
+    },
+    {
+        "source": "Fnatic Janna",
+        "target": "Fnatic 珍娜"
+    },
+    {
+        "source": "Star Guardian Janna",
+        "target": "星光戰士 珍娜"
+    },
+    {
+        "source": "Sacred Sword Janna",
+        "target": "劍仙：驚鯢 珍娜"
+    },
+    {
+        "source": "Bewitching Janna",
+        "target": "惑月女巫 珍娜"
+    },
+    {
+        "source": "Guardian of the Sands Janna",
+        "target": "砂皇護衛 珍娜"
+    },
+    {
+        "source": "Battle Queen Janna",
+        "target": "戰爭女皇 珍娜"
+    },
+    {
+        "source": "Crystal Rose Janna",
+        "target": "水晶薔薇 珍娜"
+    },
+    {
+        "source": "Cyber Halo Janna",
+        "target": "科技星環 珍娜"
+    },
+    {
+        "source": "Prestige Cyber Halo Janna",
+        "target": "尊爵不凡 科技星環 珍娜"
+    },
+    {
+        "source": "Howling Gale",
+        "target": "颶風呼嘯"
+    },
+    {
+        "source": "Zephyr",
+        "target": "和風守護"
+    },
+    {
+        "source": "Eye Of The Storm",
+        "target": "風暴之眼"
+    },
+    {
+        "source": "Monsoon",
+        "target": "復甦季風"
+    },
+    {
+        "source": "Tailwind",
+        "target": "順風而行"
+    },
+    {
+        "source": "Commando Jarvan IV",
+        "target": "魔鬼司令 嘉文四世"
+    },
+    {
+        "source": "Dragonslayer Jarvan IV",
+        "target": "弒龍者 嘉文四世"
+    },
+    {
+        "source": "Darkforge Jarvan IV",
+        "target": "黑暗龍甲 嘉文四世"
+    },
+    {
+        "source": "Victorious Jarvan IV",
+        "target": "戰爭英雄 嘉文四世"
+    },
+    {
+        "source": "Warring Kingdoms Jarvan IV",
+        "target": "戰神呂布 嘉文四世"
+    },
+    {
+        "source": "Fnatic Jarvan IV",
+        "target": "Fnatic 嘉文四世"
+    },
+    {
+        "source": "Dark Star Jarvan IV",
+        "target": "幽冥煞星 嘉文四世"
+    },
+    {
+        "source": "SSG Jarvan IV",
+        "target": "SSG 嘉文四世"
+    },
+    {
+        "source": "Hextech Jarvan IV",
+        "target": "海克斯科技 嘉文四世"
+    },
+    {
+        "source": "Pool Party Jarvan IV",
+        "target": "泳池狂歡 嘉文四世"
+    },
+    {
+        "source": "Lunar Beast Jarvan IV",
+        "target": "牛年特戰隊 嘉文四世"
+    },
+    {
+        "source": "Worlds 2021 Jarvan IV",
+        "target": "2021 世界大賽 嘉文四世"
+    },
+    {
+        "source": "Nightbringer Jarvan IV",
+        "target": "闇夜使者 嘉文四世"
+    },
+    {
+        "source": "Dragon Strike",
+        "target": "滅龍一擊"
+    },
+    {
+        "source": "Golden Aegis",
+        "target": "光盾庇護"
+    },
+    {
+        "source": "Demacian Standard",
+        "target": "帝國戰旗"
+    },
+    {
+        "source": "Cataclysm",
+        "target": "浩劫降臨"
+    },
+    {
+        "source": "Martial Cadence",
+        "target": "戰爭律動"
+    },
+    {
+        "source": "The Mighty Jax",
+        "target": "曲棍球員 賈克斯"
+    },
+    {
+        "source": "Vandal Jax",
+        "target": "破壞狂 賈克斯"
+    },
+    {
+        "source": "Angler Jax",
+        "target": "釣魚宗師 賈克斯"
+    },
+    {
+        "source": "PAX Jax",
+        "target": "武俠隱者 賈克斯"
+    },
+    {
+        "source": "Jaximus",
+        "target": "神鬼戰士 賈克斯"
+    },
+    {
+        "source": "Temple Jax",
+        "target": "方天畫戟 賈克斯"
+    },
+    {
+        "source": "Nemesis Jax",
+        "target": "巴龍之子 賈克斯"
+    },
+    {
+        "source": "SKT T1 Jax",
+        "target": "SKT T1 賈克斯"
+    },
+    {
+        "source": "Warden Jax",
+        "target": "無情審判 賈克斯"
+    },
+    {
+        "source": "God Staff Jax",
+        "target": "霸世神杖 賈克斯"
+    },
+    {
+        "source": "Mecha Kingdoms Jax",
+        "target": "機甲帝國 賈克斯"
+    },
+    {
+        "source": "Conqueror Jax",
+        "target": "征服霸者 賈克斯"
+    },
+    {
+        "source": "Prestige Conqueror Jax",
+        "target": "尊爵不凡 征服霸者 賈克斯"
+    },
+    {
+        "source": "Empyrean Jax",
+        "target": "宇宙幻焰 賈克斯"
+    },
+    {
+        "source": "Leap Strike",
+        "target": "跳斬"
+    },
+    {
+        "source": "Empower",
+        "target": "蓄力一擊"
+    },
+    {
+        "source": "Counter Strike",
+        "target": "反擊風暴"
+    },
+    {
+        "source": "Grandmaster-at-Arms",
+        "target": "武器宗師"
+    },
+    {
+        "source": "Relentless Assault",
+        "target": "無情突擊"
+    },
+    {
+        "source": "Full Metal Jayce",
+        "target": "重武裝 杰西"
+    },
+    {
+        "source": "Debonair Jayce",
+        "target": "決勝賭豪 杰西"
+    },
+    {
+        "source": "Forsaken Jayce",
+        "target": "被遺忘者 杰西"
+    },
+    {
+        "source": "Jayce Brighthammer",
+        "target": "光明錘士 杰西"
+    },
+    {
+        "source": "Battle Academia Jayce",
+        "target": "戰爭學院 杰西"
+    },
+    {
+        "source": "Resistance Jayce",
+        "target": "鋼鐵叛軍 杰西"
+    },
+    {
+        "source": "Arcane Jayce",
+        "target": "奧術發明家 杰西"
+    },
+    {
+        "source": "Zenith Games Jayce",
+        "target": "頂尖對決 杰西"
+    },
+    {
+        "source": "To the Skies! / Shock Blast",
+        "target": "浩瀚無垠／電磁脈衝"
+    },
+    {
+        "source": "Lightning Field / Hyper Charge",
+        "target": "離子領域／超頻導體"
+    },
+    {
+        "source": "Thundering Blow / Acceleration Gate",
+        "target": "風馳電掣／中子加速裝置"
+    },
+    {
+        "source": "Mercury Cannon / Mercury Hammer",
+        "target": "水星加農／水星戰鎚"
+    },
+    {
+        "source": "Hextech Capacitor",
+        "target": "海克斯電容器"
+    },
+    {
+        "source": "High Noon Jhin",
+        "target": "殺無赦 燼"
+    },
+    {
+        "source": "Blood Moon Jhin",
+        "target": "血月低語 燼"
+    },
+    {
+        "source": "SKT T1 Jhin",
+        "target": "SKT T1 燼"
+    },
+    {
+        "source": "PROJECT: Jhin",
+        "target": "菁英計畫：燼"
+    },
+    {
+        "source": "Dark Cosmic Jhin",
+        "target": "幽冥煞星 燼"
+    },
+    {
+        "source": "Shan Hai Scrolls Jhin",
+        "target": "山海卷軸 燼"
+    },
+    {
+        "source": "DWG Jhin",
+        "target": "DWG 燼"
+    },
+    {
+        "source": "Empyrean Jhin",
+        "target": "宇宙幻焰 燼"
+    },
+    {
+        "source": "Soul Fighter Jhin",
+        "target": "戰魂鬥士 燼"
+    },
+    {
+        "source": "Dark Cosmic Erasure Jhin",
+        "target": "幽冥煞星 殲滅者 燼"
+    },
+    {
+        "source": "Dancing Grenade",
+        "target": "狂舞手雷"
+    },
+    {
+        "source": "Deadly Flourish",
+        "target": "致命伏筆"
+    },
+    {
+        "source": "Captive Audience",
+        "target": "魔幻時刻"
+    },
+    {
+        "source": "Curtain Call",
+        "target": "華麗謝幕"
+    },
+    {
+        "source": "Whisper",
+        "target": "低語"
+    },
+    {
+        "source": "Crime City Jinx",
+        "target": "罪惡城市 吉茵珂絲"
+    },
+    {
+        "source": "Firecracker Jinx",
+        "target": "砲聲龍龍 吉茵珂絲"
+    },
+    {
+        "source": "Zombie Slayer Jinx",
+        "target": "除屍姬 吉茵珂絲"
+    },
+    {
+        "source": "Star Guardian Jinx",
+        "target": "星光戰士 吉茵珂絲"
+    },
+    {
+        "source": "Ambitious Elf Jinx",
+        "target": "搗蛋妖精 吉茵珂絲"
+    },
+    {
+        "source": "Odyssey Jinx",
+        "target": "奧德賽 吉茵珂絲"
+    },
+    {
+        "source": "PROJECT: Jinx",
+        "target": "菁英計畫：吉茵珂絲"
+    },
+    {
+        "source": "Heartseeker Jinx",
+        "target": "愛情獵人 吉茵珂絲"
+    },
+    {
+        "source": "Arcane Jinx",
+        "target": "奧術狂女 吉茵珂絲"
+    },
+    {
+        "source": "Battle Cat Jinx",
+        "target": "戰鬥貓女 吉茵珂絲"
+    },
+    {
+        "source": "Prestige Battle Cat Jinx",
+        "target": "尊爵不凡 戰鬥貓女 吉茵珂絲"
+    },
+    {
+        "source": "Switcheroo!",
+        "target": "鬼靈精怪！"
+    },
+    {
+        "source": "Zap!",
+        "target": "咻咻！"
+    },
+    {
+        "source": "Flame Chompers!",
+        "target": "咬咬手榴彈！"
+    },
+    {
+        "source": "Super Mega Death Rocket!",
+        "target": "超威能死亡火箭！"
+    },
+    {
+        "source": "Get Excited!",
+        "target": "狂躁！"
+    },
+    {
+        "source": "Bullet Angel Kai'Sa",
+        "target": "機動天使 凱莎"
+    },
+    {
+        "source": "K/DA Kai'Sa",
+        "target": "K/DA 凱莎"
+    },
+    {
+        "source": "Prestige K/DA Kai'Sa",
+        "target": "尊爵不凡 K/DA 凱莎"
+    },
+    {
+        "source": "iG Kai'Sa",
+        "target": "iG 凱莎"
+    },
+    {
+        "source": "Arcade Kai'Sa",
+        "target": "電玩女神 凱莎"
+    },
+    {
+        "source": "K/DA ALL OUT Kai'Sa",
+        "target": "K/DA ALL OUT 凱莎"
+    },
+    {
+        "source": "Prestige K/DA ALL OUT Kai'Sa",
+        "target": "尊爵不凡 K/DA ALL OUT 凱莎"
+    },
+    {
+        "source": "Lagoon Dragon Kai'Sa",
+        "target": "潟藍水龍 凱莎"
+    },
+    {
+        "source": "Prestige K/DA Kai'Sa (2022)",
+        "target": "尊爵不凡 K/DA 凱莎｜2022"
+    },
+    {
+        "source": "Star Guardian Kai'Sa",
+        "target": "星光戰士 凱莎"
+    },
+    {
+        "source": "Inkshadow Kai'Sa",
+        "target": "墨影戰士 凱莎"
+    },
+    {
+        "source": "Icathian Rain",
+        "target": "伊卡西亞魔雨"
+    },
+    {
+        "source": "Void Seeker",
+        "target": "虛空探索者"
+    },
+    {
+        "source": "Supercharge",
+        "target": "極速充能"
+    },
+    {
+        "source": "Killer Instinct",
+        "target": "殺手本能"
+    },
+    {
+        "source": "Second Skin",
+        "target": "二階蟲甲"
+    },
+    {
+        "source": "Blood Moon Kalista",
+        "target": "血月幽魂 克黎思妲"
+    },
+    {
+        "source": "Championship Kalista",
+        "target": "永恆榮耀 克黎思妲"
+    },
+    {
+        "source": "SKT T1 Kalista",
+        "target": "SKT T1 克黎思妲"
+    },
+    {
+        "source": "Marauder Kalista",
+        "target": "劫掠血矛 克黎思妲"
+    },
+    {
+        "source": "Faerie Court Kalista",
+        "target": "妖精宮殿 克黎思妲"
+    },
+    {
+        "source": "Pierce",
+        "target": "赦罪穿刺"
+    },
+    {
+        "source": "Sentinel",
+        "target": "憎靈守衛"
+    },
+    {
+        "source": "Rend",
+        "target": "痛苦撕扯"
+    },
+    {
+        "source": "Fate's Call",
+        "target": "命運呼喚"
+    },
+    {
+        "source": "Martial Poise",
+        "target": "好戰突進"
+    },
+    {
+        "source": "Sun Goddess Karma",
+        "target": "太陽女神 卡瑪"
+    },
+    {
+        "source": "Sakura Karma",
+        "target": "櫻花舞伎 卡瑪"
+    },
+    {
+        "source": "Traditional Karma",
+        "target": "元祖 卡瑪"
+    },
+    {
+        "source": "Order of the Lotus Karma",
+        "target": "詠夏芙蓉 卡瑪"
+    },
+    {
+        "source": "Warden Karma",
+        "target": "無情審判 卡瑪"
+    },
+    {
+        "source": "Winter Wonder Karma",
+        "target": "凜冬奇蹟 卡瑪"
+    },
+    {
+        "source": "Conqueror Karma",
+        "target": "征服霸者 卡瑪"
+    },
+    {
+        "source": "Dark Star Karma",
+        "target": "幽冥煞星 卡瑪"
+    },
+    {
+        "source": "Dawnbringer Karma",
+        "target": "黎明使者 卡瑪"
+    },
+    {
+        "source": "Odyssey Karma",
+        "target": "奧德賽 卡瑪"
+    },
+    {
+        "source": "Ruined Karma",
+        "target": "殞落魂啟者 卡瑪"
+    },
+    {
+        "source": "Tranquility Dragon Karma",
+        "target": "祥和睿龍 卡瑪"
+    },
+    {
+        "source": "Faerie Queen Karma",
+        "target": "妖精女皇 卡瑪"
+    },
+    {
+        "source": "Inner Flame",
+        "target": "輪迴怒火"
+    },
+    {
+        "source": "Focused Resolve",
+        "target": "特化鏈結"
+    },
+    {
+        "source": "Inspire",
+        "target": "靈能啟示"
+    },
+    {
+        "source": "Mantra",
+        "target": "真言符印"
+    },
+    {
+        "source": "Gathering Fire",
+        "target": "炎靈融合"
+    },
+    {
+        "source": "Phantom Karthus",
+        "target": "歌劇魅影 卡爾瑟斯"
+    },
+    {
+        "source": "Statue of Karthus",
+        "target": "自由死神 卡爾瑟斯"
+    },
+    {
+        "source": "Grim Reaper Karthus",
+        "target": "冷酷死神 卡爾瑟斯"
+    },
+    {
+        "source": "Pentakill Karthus",
+        "target": "殺五社 卡爾瑟斯"
+    },
+    {
+        "source": "Fnatic Karthus",
+        "target": "Fnatic 卡爾瑟斯"
+    },
+    {
+        "source": "Karthus Lightsbane",
+        "target": "邪光術士 卡爾瑟斯"
+    },
+    {
+        "source": "Infernal Karthus",
+        "target": "地獄火 卡爾瑟斯"
+    },
+    {
+        "source": "Pentakill III: Lost Chapter Karthus",
+        "target": "殺五社 III：失落之章 卡爾瑟斯"
+    },
+    {
+        "source": "Elderwood Karthus",
+        "target": "神木精靈 卡爾瑟斯"
+    },
+    {
+        "source": "Lay Waste",
+        "target": "荒蕪"
+    },
+    {
+        "source": "Wall of Pain",
+        "target": "痛苦之牆"
+    },
+    {
+        "source": "Defile",
+        "target": "汙染"
+    },
+    {
+        "source": "Requiem",
+        "target": "安魂曲"
+    },
+    {
+        "source": "Death Defied",
+        "target": "無視死亡！"
+    },
+    {
+        "source": "Festival Kassadin",
+        "target": "狂歡節 卡薩丁"
+    },
+    {
+        "source": "Deep One Kassadin",
+        "target": "海底兩萬哩 卡薩丁"
+    },
+    {
+        "source": "Pre-Void Kassadin",
+        "target": "虛空前世 卡薩丁"
+    },
+    {
+        "source": "Harbinger Kassadin",
+        "target": "虛空魔甲 卡薩丁"
+    },
+    {
+        "source": "Cosmic Reaver Kassadin",
+        "target": "銀河至尊 卡薩丁"
+    },
+    {
+        "source": "Count Kassadin",
+        "target": "吸血魔爵 卡薩丁"
+    },
+    {
+        "source": "Hextech Kassadin",
+        "target": "海克斯科技 卡薩丁"
+    },
+    {
+        "source": "Shockblade Kassadin",
+        "target": "衝擊利刃 卡薩丁"
+    },
+    {
+        "source": "Null Sphere",
+        "target": "虛無法球"
+    },
+    {
+        "source": "Nether Blade",
+        "target": "虛空之刃"
+    },
+    {
+        "source": "Force Pulse",
+        "target": "能量脈衝"
+    },
+    {
+        "source": "Riftwalk",
+        "target": "虛空行走"
+    },
+    {
+        "source": "Void Stone",
+        "target": "虛空之石"
+    },
+    {
+        "source": "Mercenary Katarina",
+        "target": "賞金刺客 卡特蓮娜"
+    },
+    {
+        "source": "Red Card Katarina",
+        "target": "紅牌！！ 卡特蓮娜"
+    },
+    {
+        "source": "Bilgewater Katarina",
+        "target": "海賊魅影 卡特蓮娜"
+    },
+    {
+        "source": "Kitty Cat Katarina",
+        "target": "貓女 卡特蓮娜"
+    },
+    {
+        "source": "High Command Katarina",
+        "target": "諾克薩斯指揮官 卡特蓮娜"
+    },
+    {
+        "source": "Sandstorm Katarina",
+        "target": "沙漠風暴 卡特蓮娜"
+    },
+    {
+        "source": "Slay Belle Katarina",
+        "target": "金戈貝兒 卡特蓮娜"
+    },
+    {
+        "source": "Warring Kingdoms Katarina",
+        "target": "戰國武姬 卡特蓮娜"
+    },
+    {
+        "source": "PROJECT: Katarina",
+        "target": "菁英計畫：卡特蓮娜"
+    },
+    {
+        "source": "Death Sworn Katarina",
+        "target": "死誓 卡特蓮娜"
+    },
+    {
+        "source": "Battle Academia Katarina",
+        "target": "戰爭學院 卡特蓮娜"
+    },
+    {
+        "source": "Blood Moon Katarina",
+        "target": "血月紅蓮 卡特蓮娜"
+    },
+    {
+        "source": "Battle Queen Katarina",
+        "target": "戰爭女皇 卡特蓮娜"
+    },
+    {
+        "source": "High Noon Katarina",
+        "target": "西域牛仔 卡特蓮娜"
+    },
+    {
+        "source": "Faerie Court Katarina",
+        "target": "妖精宮殿 卡特蓮娜"
+    },
+    {
+        "source": "Prestige Faerie Court Katarina",
+        "target": "尊爵不凡 妖精宮殿 卡特蓮娜"
+    },
+    {
+        "source": "Bouncing Blade",
+        "target": "彈射利刃"
+    },
+    {
+        "source": "Preparation",
+        "target": "備戰"
+    },
+    {
+        "source": "Shunpo",
+        "target": "瞬步"
+    },
+    {
+        "source": "Death Lotus",
+        "target": "死亡蓮花"
+    },
+    {
+        "source": "Voracity",
+        "target": "貪婪"
+    },
+    {
+        "source": "Silver Kayle",
+        "target": "銀白審判 凱爾"
+    },
+    {
+        "source": "Viridian Kayle",
+        "target": "闇之裁決 凱爾"
+    },
+    {
+        "source": "Transcended Kayle",
+        "target": "大天使長 凱爾"
+    },
+    {
+        "source": "Battleborn Kayle",
+        "target": "戰鬥天使 凱爾"
+    },
+    {
+        "source": "Judgment Kayle",
+        "target": "大審判長 凱爾"
+    },
+    {
+        "source": "Aether Wing Kayle",
+        "target": "蒼穹之翼 凱爾"
+    },
+    {
+        "source": "Riot Kayle",
+        "target": "鎮暴部隊 凱爾"
+    },
+    {
+        "source": "Iron Inquisitor Kayle",
+        "target": "鐵衛審判 凱爾"
+    },
+    {
+        "source": "Pentakill Kayle",
+        "target": "殺五社 凱爾"
+    },
+    {
+        "source": "PsyOps Kayle",
+        "target": "靈戰特工 凱爾"
+    },
+    {
+        "source": "Dragonslayer Kayle",
+        "target": "弒龍劍士 凱爾"
+    },
+    {
+        "source": "Pentakill III: Lost Chapter Kayle",
+        "target": "殺五社 III：失落之章 凱爾"
+    },
+    {
+        "source": "Sun-Eater Kayle",
+        "target": "食日者 凱爾"
+    },
+    {
+        "source": "Immortal Journey Kayle",
+        "target": "劍仙：灼見 凱爾"
+    },
+    {
+        "source": "Radiant Blast",
+        "target": "聖光衝擊波"
+    },
+    {
+        "source": "Celestial Blessing",
+        "target": "天賜聖典"
+    },
+    {
+        "source": "Starfire Spellblade",
+        "target": "星火熾刃"
+    },
+    {
+        "source": "Divine Judgment",
+        "target": "聖劍審判"
+    },
+    {
+        "source": "Divine Ascent",
+        "target": "聖域之梯"
+    },
+    {
+        "source": "Soulhunter Kayn",
+        "target": "闇魂獵人 慨影"
+    },
+    {
+        "source": "Odyssey Kayn",
+        "target": "奧德賽 慨影"
+    },
+    {
+        "source": "Nightbringer Kayn",
+        "target": "闇夜使者 慨影"
+    },
+    {
+        "source": "Prestige Nightbringer Kayn",
+        "target": "尊爵不凡 闇夜使者 慨影"
+    },
+    {
+        "source": "Snow Moon Kayn",
+        "target": "雪月魔兵 慨影"
+    },
+    {
+        "source": "Reaping Slash",
+        "target": "獵魂斬"
+    },
+    {
+        "source": "Blade's Reach",
+        "target": "散華刃"
+    },
+    {
+        "source": "Shadow Step",
+        "target": "夜叉行"
+    },
+    {
+        "source": "Umbral Trespass",
+        "target": "伏影滅"
+    },
+    {
+        "source": "The Darkin Scythe",
+        "target": "冥血罪鐮"
+    },
+    {
+        "source": "Deadly Kennen",
+        "target": "紅色彗星 凱能"
+    },
+    {
+        "source": "Swamp Master Kennen",
+        "target": "銀色閃電 凱能"
+    },
+    {
+        "source": "Karate Kennen",
+        "target": "小子難纏 凱能"
+    },
+    {
+        "source": "Kennen M.D.",
+        "target": "內科醫生 凱能"
+    },
+    {
+        "source": "Arctic Ops Kennen",
+        "target": "雪嶺突襲 凱能"
+    },
+    {
+        "source": "Blood Moon Kennen",
+        "target": "血月舞忍 凱能"
+    },
+    {
+        "source": "Super Kennen",
+        "target": "閃能"
+    },
+    {
+        "source": "Infernal Kennen",
+        "target": "地獄火 凱能"
+    },
+    {
+        "source": "DWG Kennen",
+        "target": "DWG 凱能"
+    },
+    {
+        "source": "Astronaut Kennen",
+        "target": "太空約德爾人 凱能"
+    },
+    {
+        "source": "Thundering Shuriken",
+        "target": "雷電手裡劍"
+    },
+    {
+        "source": "Electrical Surge",
+        "target": "電能釋放"
+    },
+    {
+        "source": "Lightning Rush",
+        "target": "閃電衝擊"
+    },
+    {
+        "source": "Slicing Maelstrom",
+        "target": "雷霆風暴"
+    },
+    {
+        "source": "Mark of the Storm",
+        "target": "風暴印記"
+    },
+    {
+        "source": "Mecha Kha'Zix",
+        "target": "機甲騎士 卡力斯"
+    },
+    {
+        "source": "Guardian of the Sands Kha'Zix",
+        "target": "砂皇護衛 卡力斯 "
+    },
+    {
+        "source": "Death Blossom Kha'Zix",
+        "target": "致命血蓮 卡力斯"
+    },
+    {
+        "source": "Dark Star Kha'Zix",
+        "target": "幽冥煞星 卡力斯"
+    },
+    {
+        "source": "Championship Kha'Zix",
+        "target": "永恆榮耀 卡力斯"
+    },
+    {
+        "source": "Odyssey Kha'Zix",
+        "target": "奧德賽 卡力斯"
+    },
+    {
+        "source": "Lunar Guardian Kha'Zix",
+        "target": "玄天衛士 卡力斯"
+    },
+    {
+        "source": "Taste Their Fear",
+        "target": "孤獨的恐懼"
+    },
+    {
+        "source": "Void Spike",
+        "target": "虛空尖刺"
+    },
+    {
+        "source": "Leap",
+        "target": "掠翅飛躍"
+    },
+    {
+        "source": "Void Assault",
+        "target": "虛空突襲"
+    },
+    {
+        "source": "Unseen Threat",
+        "target": "暗影殺機"
+    },
+    {
+        "source": "Shadowfire Kindred",
+        "target": "影焰狼魂 鏡爪"
+    },
+    {
+        "source": "Super Galaxy Kindred",
+        "target": "星際特攻 鏡爪"
+    },
+    {
+        "source": "Spirit Blossom Kindred",
+        "target": "靈花祭 鏡爪"
+    },
+    {
+        "source": "Porcelain Kindred",
+        "target": "青花瓷 鏡爪"
+    },
+    {
+        "source": "Woof and Lamb Kindred",
+        "target": "貓狗大戰 鏡爪"
+    },
+    {
+        "source": "DRX Kindred",
+        "target": "DRX 鏡爪"
+    },
+    {
+        "source": "Dance of Arrows",
+        "target": "舞動箭矢"
+    },
+    {
+        "source": "Wolf's Frenzy",
+        "target": "魔狼狂熱"
+    },
+    {
+        "source": "Mounting Dread",
+        "target": "恐懼蔓延"
+    },
+    {
+        "source": "Lamb's Respite",
+        "target": "神羊喘息"
+    },
+    {
+        "source": "Mark of the Kindred",
+        "target": "鏡爪印記"
+    },
+    {
+        "source": "Sir Kled",
+        "target": "秋可波爵士 克雷德"
+    },
+    {
+        "source": "Count Kledula",
+        "target": "克雷德古拉伯爵"
+    },
+    {
+        "source": "Marauder Kled",
+        "target": "劫掠狂斧 克雷德"
+    },
+    {
+        "source": "Kibble-Head Kled",
+        "target": "狗糧騎士 克雷德"
+    },
+    {
+        "source": "Bear Trap on a Rope",
+        "target": "飛射夾夾"
+    },
+    {
+        "source": "Violent Tendencies",
+        "target": "生性暴戾"
+    },
+    {
+        "source": "Jousting",
+        "target": "比武角逐"
+    },
+    {
+        "source": "Chaaaaaaaarge!!!",
+        "target": "衝啊！！！"
+    },
+    {
+        "source": "Skaarl, the Cowardly Lizard",
+        "target": "膽小的小嘎"
+    },
+    {
+        "source": "Caterpillar Kog'Maw",
+        "target": "摩斯拉 寇格魔"
+    },
+    {
+        "source": "Sonoran Kog'Maw",
+        "target": "索諾拉沙蟲 寇格魔"
+    },
+    {
+        "source": "Monarch Kog'Maw",
+        "target": "蝶斯拉 寇格魔"
+    },
+    {
+        "source": "Reindeer Kog'Maw",
+        "target": "聖誕馴鹿 寇格魔"
+    },
+    {
+        "source": "Lion Dance Kog'Maw",
+        "target": "大嘴年獸 寇格魔"
+    },
+    {
+        "source": "Deep Sea Kog'Maw",
+        "target": "魚斯拉 寇格魔"
+    },
+    {
+        "source": "Jurassic Kog'Maw",
+        "target": "侏羅紀 寇格魔"
+    },
+    {
+        "source": "Battlecast Kog'Maw",
+        "target": "狂派機甲 寇格魔"
+    },
+    {
+        "source": "Pug'Maw",
+        "target": "狗格魔"
+    },
+    {
+        "source": "Hextech Kog'Maw",
+        "target": "海克斯科技 寇格魔"
+    },
+    {
+        "source": "Arcanist Kog'Maw",
+        "target": "奧術萌獸 寇格魔"
+    },
+    {
+        "source": "Bee'Maw",
+        "target": "口蜜腹箭 寇格蜜"
+    },
+    {
+        "source": "Zap'Maw",
+        "target": "電擊格魔"
+    },
+    {
+        "source": "Shan Hai Scrolls Kog'Maw",
+        "target": "山海卷軸 寇格魔"
+    },
+    {
+        "source": "Caustic Spittle",
+        "target": "腐蝕唾液"
+    },
+    {
+        "source": "Bio-Arcane Barrage",
+        "target": "生化彈幕"
+    },
+    {
+        "source": "Void Ooze",
+        "target": "虛空淤泥"
+    },
+    {
+        "source": "Living Artillery",
+        "target": "生化巨炮"
+    },
+    {
+        "source": "Icathian Surprise",
+        "target": "來自伊卡西亞的驚喜"
+    },
+    {
+        "source": "Empyrean K'Sante",
+        "target": "宇宙幻焰 卡桑帝"
+    },
+    {
+        "source": "Prestige Empyrean K'Sante",
+        "target": "尊爵不凡 宇宙幻焰 卡桑帝"
+    },
+    {
+        "source": "Ntofo Strikes",
+        "target": "恩屠浮強擊"
+    },
+    {
+        "source": "Path Maker",
+        "target": "開山闢路"
+    },
+    {
+        "source": "Footwork",
+        "target": "精熟腳步"
+    },
+    {
+        "source": "All Out",
+        "target": "拼死一搏"
+    },
+    {
+        "source": "Dauntless Instinct",
+        "target": "無畏本能"
+    },
+    {
+        "source": "Wicked LeBlanc",
+        "target": "101忠狗 勒布朗"
+    },
+    {
+        "source": "Prestigious LeBlanc",
+        "target": "社會名流 勒布朗"
+    },
+    {
+        "source": "Mistletoe LeBlanc",
+        "target": "聖誕詐欺師 勒布朗"
+    },
+    {
+        "source": "Ravenborn LeBlanc",
+        "target": "闇鴉夜后 勒布朗"
+    },
+    {
+        "source": "Elderwood LeBlanc",
+        "target": "花仙精靈 勒布朗"
+    },
+    {
+        "source": "Program LeBlanc",
+        "target": "人工智慧 勒布朗"
+    },
+    {
+        "source": "iG LeBlanc",
+        "target": "iG 勒布朗"
+    },
+    {
+        "source": "Coven LeBlanc",
+        "target": "女巫集會 勒布朗"
+    },
+    {
+        "source": "Championship LeBlanc",
+        "target": "永恆榮耀 勒布朗"
+    },
+    {
+        "source": "Prestige Coven LeBlanc",
+        "target": "尊爵不凡 女巫集會 勒布朗"
+    },
+    {
+        "source": "Debonair LeBlanc",
+        "target": "決勝賭豪 勒布朗"
+    },
+    {
+        "source": "Bewitching LeBlanc",
+        "target": "幻影魔女 勒布朗"
+    },
+    {
+        "source": "Sigil of Malice",
+        "target": "惡意印記"
+    },
+    {
+        "source": "Distortion",
+        "target": "移行瞬影"
+    },
+    {
+        "source": "Ethereal Chains",
+        "target": "幻影鎖鍊"
+    },
+    {
+        "source": "Mimic",
+        "target": "模仿"
+    },
+    {
+        "source": "Mirror Image",
+        "target": "鏡像"
+    },
+    {
+        "source": "Traditional Lee Sin",
+        "target": "傳說武聖 李星"
+    },
+    {
+        "source": "Acolyte Lee Sin",
+        "target": "召喚學徒 李星"
+    },
+    {
+        "source": "Dragon Fist Lee Sin",
+        "target": "龍的傳人 李星"
+    },
+    {
+        "source": "Muay Thai Lee Sin",
+        "target": "拳霸 李星"
+    },
+    {
+        "source": "Pool Party Lee Sin",
+        "target": "泳池狂歡 李星"
+    },
+    {
+        "source": "SKT T1 Lee Sin",
+        "target": "SKT T1 李星"
+    },
+    {
+        "source": "Knockout Lee Sin",
+        "target": "絕命拳師 李星"
+    },
+    {
+        "source": "God Fist Lee Sin",
+        "target": "霸世神拳 李星"
+    },
+    {
+        "source": "Playmaker Lee Sin",
+        "target": "足球大炮 李星"
+    },
+    {
+        "source": "Nightbringer Lee Sin",
+        "target": "闇夜使者 李星"
+    },
+    {
+        "source": "Prestige Nightbringer Lee Sin",
+        "target": "尊爵不凡 闇夜使者 李星"
+    },
+    {
+        "source": "FPX Lee Sin",
+        "target": "FPX 李星"
+    },
+    {
+        "source": "Storm Dragon Lee Sin",
+        "target": "風暴聖龍 李星"
+    },
+    {
+        "source": "Prestige Nightbringer Lee Sin (2022)",
+        "target": "尊爵不凡 闇夜使者 李星｜2022"
+    },
+    {
+        "source": "Zenith Games Lee Sin",
+        "target": "頂尖對決 李星"
+    },
+    {
+        "source": "Sonic Wave / Resonating Strike",
+        "target": "虎嘯龍吟 ／ 震驚百里"
+    },
+    {
+        "source": "Safeguard / Iron Will",
+        "target": "鐵璧金身 ／ 易筋洗髓"
+    },
+    {
+        "source": "Tempest / Cripple",
+        "target": "狂風暴雨 ／ 分筋錯骨"
+    },
+    {
+        "source": "Dragon's Rage",
+        "target": "神龍擺尾"
+    },
+    {
+        "source": "Flurry",
+        "target": "亂舞"
+    },
+    {
+        "source": "Valkyrie Leona",
+        "target": "光之女武神 雷歐娜"
+    },
+    {
+        "source": "Defender Leona",
+        "target": "烈陽守護者 雷歐娜"
+    },
+    {
+        "source": "Iron Solari Leona",
+        "target": "日輪聖騎 雷歐娜"
+    },
+    {
+        "source": "Pool Party Leona",
+        "target": "泳池狂歡 雷歐娜"
+    },
+    {
+        "source": "PROJECT: Leona",
+        "target": "菁英計畫：雷歐娜"
+    },
+    {
+        "source": "Barbecue Leona",
+        "target": "炙烤廚娘 雷歐娜"
+    },
+    {
+        "source": "Solar Eclipse Leona",
+        "target": "日蝕使者 雷歐娜"
+    },
+    {
+        "source": "Lunar Eclipse Leona",
+        "target": "月蝕使者 雷歐娜"
+    },
+    {
+        "source": "Mecha Kingdoms Leona",
+        "target": "機甲帝國 雷歐娜"
+    },
+    {
+        "source": "Battle Academia Leona",
+        "target": "戰爭學院 雷歐娜"
+    },
+    {
+        "source": "DWG Leona",
+        "target": "DWG 雷歐娜"
+    },
+    {
+        "source": "Prestige Battle Academia Leona",
+        "target": "尊爵不凡 戰爭學院 雷歐娜"
+    },
+    {
+        "source": "Debonair Leona",
+        "target": "決勝賭豪 雷歐娜"
+    },
+    {
+        "source": "High Noon Leona",
+        "target": "西域牛仔 雷歐娜"
+    },
+    {
+        "source": "Crystalis Motus Leona",
+        "target": "水晶幻界 雷歐娜"
+    },
+    {
+        "source": "Shield of Daybreak",
+        "target": "拂曉盾擊"
+    },
+    {
+        "source": "Eclipse",
+        "target": "日蝕"
+    },
+    {
+        "source": "Zenith Blade",
+        "target": "太陽聖劍"
+    },
+    {
+        "source": "Solar Flare",
+        "target": "日輪聖芒"
+    },
+    {
+        "source": "Sunlight",
+        "target": "烈陽之力"
+    },
+    {
+        "source": "Spirit Blossom Lillia",
+        "target": "靈花祭 莉莉亞"
+    },
+    {
+        "source": "Nightbringer Lillia",
+        "target": "闇夜使者 莉莉亞"
+    },
+    {
+        "source": "Shan Hai Scrolls Lillia",
+        "target": "山海卷軸 莉莉亞"
+    },
+    {
+        "source": "Blooming Blows",
+        "target": "盛綻之舞"
+    },
+    {
+        "source": "Watch Out! Eep!",
+        "target": "拽柯之擊"
+    },
+    {
+        "source": "Swirlseed",
+        "target": "飛旋種籽"
+    },
+    {
+        "source": "Lilting Lullaby",
+        "target": "柔沉夢謠"
+    },
+    {
+        "source": "Dream-Laden Bough",
+        "target": "夢沉枝枒"
+    },
+    {
+        "source": "Bloodstone Lissandra",
+        "target": "血之祈舞 麗珊卓"
+    },
+    {
+        "source": "Blade Queen Lissandra",
+        "target": "刀鋒女王 麗珊卓"
+    },
+    {
+        "source": "Program Lissandra",
+        "target": "人工智慧 麗珊卓"
+    },
+    {
+        "source": "Coven Lissandra",
+        "target": "女巫集會 麗珊卓"
+    },
+    {
+        "source": "Dark Cosmic Lissandra",
+        "target": "幽冥煞星 麗珊卓"
+    },
+    {
+        "source": "Porcelain Lissandra",
+        "target": "青花瓷 麗珊卓"
+    },
+    {
+        "source": "Prestige Porcelain Lissandra",
+        "target": "尊爵不凡 青花瓷 麗珊卓"
+    },
+    {
+        "source": "Space Groove Lissandra",
+        "target": "太空律動 麗珊卓"
+    },
+    {
+        "source": "Ice Shard",
+        "target": "幽影碎冰"
+    },
+    {
+        "source": "Ring of Frost",
+        "target": "暴雪結界"
+    },
+    {
+        "source": "Glacial Path",
+        "target": "急速冰刺"
+    },
+    {
+        "source": "Frozen Tomb",
+        "target": "永凍墳地"
+    },
+    {
+        "source": "Iceborn Subjugation",
+        "target": "寒霜霸權"
+    },
+    {
+        "source": "Hired Gun Lucian",
+        "target": "戰鬥傭兵 路西恩"
+    },
+    {
+        "source": "Striker Lucian",
+        "target": "足球先生 路西恩"
+    },
+    {
+        "source": "PROJECT: Lucian",
+        "target": "菁英計畫：路西恩"
+    },
+    {
+        "source": "Heartseeker Lucian",
+        "target": "愛情獵人 路西恩"
+    },
+    {
+        "source": "High Noon Lucian",
+        "target": "西域牛仔 路西恩"
+    },
+    {
+        "source": "Demacia Vice Lucian",
+        "target": "蒂瑪西亞反派 路西恩"
+    },
+    {
+        "source": "Pulsefire Lucian",
+        "target": "脈衝火焰 路西恩"
+    },
+    {
+        "source": "Prestige Pulsefire Lucian",
+        "target": "尊爵不凡 脈衝火焰 路西恩"
+    },
+    {
+        "source": "Victorious Lucian",
+        "target": "戰爭英雄 路西恩"
+    },
+    {
+        "source": "Arcana Lucian",
+        "target": "正義 路西恩"
+    },
+    {
+        "source": "Strike Paladin Lucian",
+        "target": "特戰聖騎 路西恩"
+    },
+    {
+        "source": "Piercing Light",
+        "target": "鋒芒貫穿"
+    },
+    {
+        "source": "Ardent Blaze",
+        "target": "烈炎鐵血"
+    },
+    {
+        "source": "Relentless Pursuit",
+        "target": "冷酷進擊"
+    },
+    {
+        "source": "The Culling",
+        "target": "赤色屠戮"
+    },
+    {
+        "source": "Lightslinger",
+        "target": "光之獵手"
+    },
+    {
+        "source": "Bittersweet Lulu",
+        "target": "甜點魔法使 露璐"
+    },
+    {
+        "source": "Wicked Lulu",
+        "target": "黑貓魔法使 露璐"
+    },
+    {
+        "source": "Dragon Trainer Lulu",
+        "target": "馴龍高手 露璐"
+    },
+    {
+        "source": "Winter Wonder Lulu",
+        "target": "普羅雪精靈 露璐"
+    },
+    {
+        "source": "Pool Party Lulu",
+        "target": "泳池狂歡 露璐"
+    },
+    {
+        "source": "Star Guardian Lulu",
+        "target": "星光戰士 露璐"
+    },
+    {
+        "source": "Cosmic Enchantress Lulu",
+        "target": "星河精靈 露璐"
+    },
+    {
+        "source": "Pajama Guardian Lulu",
+        "target": "星光睡衣趴 露璐"
+    },
+    {
+        "source": "Space Groove Lulu",
+        "target": "太空律動 露璐"
+    },
+    {
+        "source": "Prestige Space Groove Lulu",
+        "target": "尊爵不凡 太空律動 露璐"
+    },
+    {
+        "source": "Monster Tamer Lulu",
+        "target": "寶貝訓練家 露璐"
+    },
+    {
+        "source": "Glitterlance",
+        "target": "閃耀雙重奏"
+    },
+    {
+        "source": "Whimsy",
+        "target": "幻想曲"
+    },
+    {
+        "source": "Help, Pix!",
+        "target": "帥啊小皮！"
+    },
+    {
+        "source": "Wild Growth",
+        "target": "究極鍊化"
+    },
+    {
+        "source": "Pix, Faerie Companion",
+        "target": "皮克斯, 守護妖精"
+    },
+    {
+        "source": "Sorceress Lux",
+        "target": "魔法少女 拉克絲"
+    },
+    {
+        "source": "Spellthief Lux",
+        "target": "法術盜賊 拉克絲"
+    },
+    {
+        "source": "Commando Lux",
+        "target": "魔鬼司令 拉克絲"
+    },
+    {
+        "source": "Imperial Lux",
+        "target": "皇家守衛 拉克絲"
+    },
+    {
+        "source": "Steel Legion Lux",
+        "target": "鋼鐵軍團 拉克絲"
+    },
+    {
+        "source": "Star Guardian Lux",
+        "target": "星光戰士 拉克絲"
+    },
+    {
+        "source": "Elementalist Lux",
+        "target": "元素幻化使 拉克絲"
+    },
+    {
+        "source": "Lunar Empress Lux",
+        "target": "玄天真女 拉克絲"
+    },
+    {
+        "source": "Pajama Guardian Lux",
+        "target": "星光睡衣趴 拉克絲"
+    },
+    {
+        "source": "Battle Academia Lux",
+        "target": "戰爭學院 拉克絲"
+    },
+    {
+        "source": "Prestige Battle Academia Lux",
+        "target": "尊爵不凡 戰爭學院 拉克絲"
+    },
+    {
+        "source": "Dark Cosmic Lux",
+        "target": "幽冥煞星 拉克絲"
+    },
+    {
+        "source": "Cosmic Lux",
+        "target": "星河少女 拉克絲"
+    },
+    {
+        "source": "Space Groove Lux",
+        "target": "太空律動 拉克絲"
+    },
+    {
+        "source": "Porcelain Lux",
+        "target": "青花瓷 拉克絲"
+    },
+    {
+        "source": "Soul Fighter Lux",
+        "target": "戰魂鬥士 拉克絲"
+    },
+    {
+        "source": "Prestige Battle Academia Lux (2022)",
+        "target": "尊爵不凡 戰爭學院 拉克絲｜2022"
+    },
+    {
+        "source": "Prestige Porcelain Lux",
+        "target": "尊爵不凡 青花瓷 拉克絲"
+    },
+    {
+        "source": "Empyrean Lux",
+        "target": "宇宙幻焰 拉克絲"
+    },
+    {
+        "source": "Light Binding",
+        "target": "光明束縛"
+    },
+    {
+        "source": "Prismatic Barrier",
+        "target": "稜光障壁"
+    },
+    {
+        "source": "Lucent Singularity",
+        "target": "光明異點"
+    },
+    {
+        "source": "Final Spark",
+        "target": "終極閃光"
+    },
+    {
+        "source": "Illumination",
+        "target": "光芒四射"
+    },
+    {
+        "source": "Shamrock Malphite",
+        "target": "三葉草 墨菲特"
+    },
+    {
+        "source": "Coral Reef Malphite",
+        "target": "珊瑚礁 墨菲特"
+    },
+    {
+        "source": "Marble Malphite",
+        "target": "花崗岩 墨菲特"
+    },
+    {
+        "source": "Obsidian Malphite",
+        "target": "熔岩巨獸 墨菲特"
+    },
+    {
+        "source": "Glacial Malphite",
+        "target": "冰河時代 墨菲特"
+    },
+    {
+        "source": "Mecha Malphite",
+        "target": "機甲神盾 墨菲特"
+    },
+    {
+        "source": "Ironside Malphite",
+        "target": "大船頭 墨菲特"
+    },
+    {
+        "source": "Odyssey Malphite",
+        "target": "奧德賽 墨菲特"
+    },
+    {
+        "source": "Dark Star Malphite",
+        "target": "幽冥煞星 墨菲特"
+    },
+    {
+        "source": "Prestige Dark Star Malphite",
+        "target": "尊爵不凡 幽冥煞星 墨菲特"
+    },
+    {
+        "source": "FPX Malphite",
+        "target": "FPX 墨菲特"
+    },
+    {
+        "source": "Old God Malphite",
+        "target": "古神 墨菲特"
+    },
+    {
+        "source": "Lunar Guardian Malphite",
+        "target": "玄天衛士 墨菲特"
+    },
+    {
+        "source": "Seismic Shard",
+        "target": "地震碎片"
+    },
+    {
+        "source": "Thunderclap",
+        "target": "震雷之擊"
+    },
+    {
+        "source": "Ground Slam",
+        "target": "大地震顫"
+    },
+    {
+        "source": "Unstoppable Force",
+        "target": "勢不可擋"
+    },
+    {
+        "source": "Granite Shield",
+        "target": "花崗岩護盾"
+    },
+    {
+        "source": "Vizier Malzahar",
+        "target": "黑暗王子 馬爾札哈"
+    },
+    {
+        "source": "Shadow Prince Malzahar",
+        "target": "波斯王子 馬爾札哈"
+    },
+    {
+        "source": "Djinn Malzahar",
+        "target": "神燈精靈 馬爾札哈"
+    },
+    {
+        "source": "Overlord Malzahar",
+        "target": "萬物至尊 馬爾札哈"
+    },
+    {
+        "source": "Snow Day Malzahar",
+        "target": "霜降使者 馬爾札哈"
+    },
+    {
+        "source": "Battle Boss Malzahar",
+        "target": "戰鬥魔王 馬爾札哈"
+    },
+    {
+        "source": "Hextech Malzahar",
+        "target": "海克斯科技 馬爾札哈"
+    },
+    {
+        "source": "Worldbreaker Malzahar",
+        "target": "文明末日 馬爾札哈"
+    },
+    {
+        "source": "Beezahar",
+        "target": "蜂起雲湧 馬爾螫哈"
+    },
+    {
+        "source": "Debonair Malzahar",
+        "target": "決勝賭豪 馬爾札哈"
+    },
+    {
+        "source": "Three Honors Malzahar",
+        "target": "三重榮譽 馬爾札哈"
+    },
+    {
+        "source": "Call of the Void",
+        "target": "虛空召喚  "
+    },
+    {
+        "source": "Void Swarm",
+        "target": "召喚虛靈"
+    },
+    {
+        "source": "Malefic Visions",
+        "target": "煞星幻象"
+    },
+    {
+        "source": "Nether Grasp",
+        "target": "冥府之握"
+    },
+    {
+        "source": "Void Shift",
+        "target": "虛空象限"
+    },
+    {
+        "source": "Charred Maokai",
+        "target": "熔岩炬木 茂凱"
+    },
+    {
+        "source": "Totemic Maokai",
+        "target": "圖騰樹人 茂凱"
+    },
+    {
+        "source": "Festive Maokai",
+        "target": "聖誕樹人 茂凱"
+    },
+    {
+        "source": "Haunted Maokai",
+        "target": "鬼影幢幢 茂凱"
+    },
+    {
+        "source": "Goalkeeper Maokai",
+        "target": "神樹守門員 茂凱"
+    },
+    {
+        "source": "Meowkai",
+        "target": "喵凱"
+    },
+    {
+        "source": "Victorious Maokai",
+        "target": "戰爭英雄 茂凱"
+    },
+    {
+        "source": "Worldbreaker Maokai",
+        "target": "文明末日 茂凱"
+    },
+    {
+        "source": "Astronaut Maokai",
+        "target": "太空樹人 茂凱"
+    },
+    {
+        "source": "DRX Maokai",
+        "target": "DRX 茂凱"
+    },
+    {
+        "source": "Bramble Smash",
+        "target": "荊棘摧殘"
+    },
+    {
+        "source": "Twisted Advance",
+        "target": "飛葉遁影"
+    },
+    {
+        "source": "Sapling Toss",
+        "target": "扭曲樹精"
+    },
+    {
+        "source": "Nature's Grasp",
+        "target": "詭林之握"
+    },
+    {
+        "source": "Sap Magic",
+        "target": "魔法樹液"
+    },
+    {
+        "source": "Assassin Master Yi",
+        "target": "復仇刺客 易大師"
+    },
+    {
+        "source": "Chosen Master Yi",
+        "target": "天選者 易大師"
+    },
+    {
+        "source": "Ionia Master Yi",
+        "target": "愛歐尼亞 易大師"
+    },
+    {
+        "source": "Samurai Yi",
+        "target": "武士精神 易大師"
+    },
+    {
+        "source": "Headhunter Master Yi",
+        "target": "終極戰士 易大師"
+    },
+    {
+        "source": "PROJECT: Yi",
+        "target": "菁英計畫：易大師"
+    },
+    {
+        "source": "Cosmic Blade Master Yi",
+        "target": "銀河劍尊 易大師"
+    },
+    {
+        "source": "Eternal Sword Yi",
+        "target": "劍仙：辟邪 易大師"
+    },
+    {
+        "source": "Snow Man Yi",
+        "target": "聖誕雪人 易大師"
+    },
+    {
+        "source": "Blood Moon Master Yi",
+        "target": "血月劍痴 易大師"
+    },
+    {
+        "source": "PsyOps Master Yi",
+        "target": "靈戰特工 易大師"
+    },
+    {
+        "source": "Debonair Master Yi",
+        "target": "決勝賭豪 易大師"
+    },
+    {
+        "source": "Spirit Blossom Master Yi",
+        "target": "靈花祭 易大師"
+    },
+    {
+        "source": "Prestige Spirit Blossom Master Yi",
+        "target": "尊爵不凡 靈花祭 易大師"
+    },
+    {
+        "source": "Inkshadow Master Yi",
+        "target": "墨影戰士 易大師"
+    },
+    {
+        "source": "Alpha Strike",
+        "target": "先聲奪人"
+    },
+    {
+        "source": "Meditate",
+        "target": "冥想"
+    },
+    {
+        "source": "Wuju Style",
+        "target": "無極劍道"
+    },
+    {
+        "source": "Highlander",
+        "target": "高原血統"
+    },
+    {
+        "source": "Double Strike",
+        "target": "雙重打擊"
+    },
+    {
+        "source": "Faerie Court Milio",
+        "target": "妖精宮殿 米里歐"
+    },
+    {
+        "source": "Ultra Mega Fire Kick",
+        "target": "究極火焰球"
+    },
+    {
+        "source": "Cozy Campfire",
+        "target": "舒適營火"
+    },
+    {
+        "source": "Warm Hugs",
+        "target": "溫暖擁抱"
+    },
+    {
+        "source": "Breath of Life",
+        "target": "賦生燄息"
+    },
+    {
+        "source": "Fired Up!",
+        "target": "爐火餘溫"
+    },
+    {
+        "source": "Cowgirl Miss Fortune",
+        "target": "雙槍牛仔 好運姐"
+    },
+    {
+        "source": "Waterloo Miss Fortune",
+        "target": "拿破崙情婦 好運姐"
+    },
+    {
+        "source": "Secret Agent Miss Fortune",
+        "target": "特工女郎 好運姐"
+    },
+    {
+        "source": "Candy Cane Miss Fortune",
+        "target": "俏麗糖果娘 好運姐"
+    },
+    {
+        "source": "Road Warrior Miss Fortune",
+        "target": "末世神槍 好運姐"
+    },
+    {
+        "source": "Crime City Miss Fortune",
+        "target": "罪惡城市 好運姐"
+    },
+    {
+        "source": "Arcade Miss Fortune",
+        "target": "電玩女神 好運姐"
+    },
+    {
+        "source": "Captain Fortune",
+        "target": "海賊船長 好運姐"
+    },
+    {
+        "source": "Pool Party Miss Fortune",
+        "target": "泳池狂歡 好運姐"
+    },
+    {
+        "source": "Star Guardian Miss Fortune",
+        "target": "星光戰士 好運姐"
+    },
+    {
+        "source": "Gun Goddess Miss Fortune",
+        "target": "重槍女武神 好運姐"
+    },
+    {
+        "source": "Pajama Guardian Miss Fortune",
+        "target": "星光睡衣趴 好運姐"
+    },
+    {
+        "source": "Bewitching Miss Fortune",
+        "target": "惑邪女巫 好運姐"
+    },
+    {
+        "source": "Prestige Bewitching Miss Fortune",
+        "target": "尊爵不凡 惑邪女巫 好運姐"
+    },
+    {
+        "source": "Ruined Miss Fortune",
+        "target": "殞落神槍 好運姐"
+    },
+    {
+        "source": "Battle Bunny Miss Fortune",
+        "target": "戰鬥兔女郎 好運姐"
+    },
+    {
+        "source": "Prestige Bewitching Miss Fortune (2022)",
+        "target": "尊爵不凡 惑邪女巫 好運姐｜2022"
+    },
+    {
+        "source": "Broken Covenant Miss Fortune",
+        "target": "破碎盟約 好運姐"
+    },
+    {
+        "source": "Prestige Broken Covenant Miss Fortune",
+        "target": "尊爵不凡 破碎盟約 好運姐"
+    },
+    {
+        "source": "Double Up",
+        "target": "彈射"
+    },
+    {
+        "source": "Strut",
+        "target": "趾高氣揚"
+    },
+    {
+        "source": "Make It Rain",
+        "target": "槍林彈雨"
+    },
+    {
+        "source": "Bullet Time",
+        "target": "彈幕 "
+    },
+    {
+        "source": "Love Tap",
+        "target": "愛的拍拍"
+    },
+    {
+        "source": "Volcanic Wukong",
+        "target": "火焰猴王 悟空"
+    },
+    {
+        "source": "General Wukong",
+        "target": "如來佛祖玉皇大帝觀音菩薩指定取西經特派使者花果山水簾洞美猴王齊天大聖 悟空"
+    },
+    {
+        "source": "Jade Dragon Wukong",
+        "target": "神龍聖玉 悟空"
+    },
+    {
+        "source": "Underworld Wukong",
+        "target": "異界獵手 悟空"
+    },
+    {
+        "source": "Radiant Wukong",
+        "target": "鬥戰勝佛 悟空"
+    },
+    {
+        "source": "Lancer Stratus Wukong",
+        "target": "白雲聖騎 悟空"
+    },
+    {
+        "source": "Battle Academia Wukong",
+        "target": "戰爭學院 悟空"
+    },
+    {
+        "source": "Elderwood Wukong",
+        "target": "神木精靈 悟空"
+    },
+    {
+        "source": "Crushing Blow",
+        "target": "定海神兵"
+    },
+    {
+        "source": "Warrior Trickster",
+        "target": "分身術"
+    },
+    {
+        "source": "Nimbus Strike",
+        "target": "筋斗突擊"
+    },
+    {
+        "source": "Cyclone",
+        "target": "無極風暴"
+    },
+    {
+        "source": "Stone Skin",
+        "target": "仙山石猴"
+    },
+    {
+        "source": "Dragon Knight Mordekaiser",
+        "target": "龍騎士 魔鬥凱薩"
+    },
+    {
+        "source": "Infernal Mordekaiser",
+        "target": "地獄火 魔鬥凱薩"
+    },
+    {
+        "source": "Pentakill Mordekaiser",
+        "target": "殺五社  魔鬥凱薩"
+    },
+    {
+        "source": "Lord Mordekaiser",
+        "target": "魔域戰神 魔鬥凱薩"
+    },
+    {
+        "source": "King of Clubs Mordekaiser",
+        "target": "梅花國王 魔鬥凱薩"
+    },
+    {
+        "source": "Dark Star Mordekaiser",
+        "target": "幽冥煞星 魔鬥凱薩"
+    },
+    {
+        "source": "PROJECT: Mordekaiser",
+        "target": "菁英計畫：魔鬥凱薩"
+    },
+    {
+        "source": "Pentakill III: Lost Chapter Mordekaiser",
+        "target": "殺五社 III：失落之章 魔鬥凱薩"
+    },
+    {
+        "source": "High Noon Mordekaiser",
+        "target": "西域牛仔 魔鬥凱薩"
+    },
+    {
+        "source": "Ashen Graveknight Mordekaiser",
+        "target": "死灰墓騎 魔鬥凱薩"
+    },
+    {
+        "source": "Obliterate",
+        "target": "泯殺"
+    },
+    {
+        "source": "Indestructible",
+        "target": "不滅之軀"
+    },
+    {
+        "source": "Death's Grasp",
+        "target": "死之爪"
+    },
+    {
+        "source": "Realm of Death",
+        "target": "死亡領域"
+    },
+    {
+        "source": "Darkness Rise",
+        "target": "暗崛"
+    },
+    {
+        "source": "Exiled Morgana",
+        "target": "放逐天使 魔甘娜"
+    },
+    {
+        "source": "Sinful Succulence Morgana",
+        "target": "烘焙天使 魔甘娜"
+    },
+    {
+        "source": "Blade Mistress Morgana",
+        "target": "刀鋒女王 魔甘娜"
+    },
+    {
+        "source": "Blackthorn Morgana",
+        "target": "漆黑荊棘 魔甘娜"
+    },
+    {
+        "source": "Ghost Bride Morgana",
+        "target": "幽殤新娘 魔甘娜"
+    },
+    {
+        "source": "Victorious Morgana",
+        "target": "戰爭英雄 魔甘娜"
+    },
+    {
+        "source": "Lunar Wraith Morgana",
+        "target": "釉月倩影 魔甘娜"
+    },
+    {
+        "source": "Bewitching Morgana",
+        "target": "靈藥魔女 魔甘娜"
+    },
+    {
+        "source": "Majestic Empress Morgana",
+        "target": "劍仙：純鈞 魔甘娜"
+    },
+    {
+        "source": "Coven Morgana",
+        "target": "女巫集會 魔甘娜"
+    },
+    {
+        "source": "Dawnbringer Morgana",
+        "target": "黎明使者 魔甘娜"
+    },
+    {
+        "source": "Prestige Bewitching Morgana",
+        "target": "尊爵不凡 靈藥魔女 魔甘娜"
+    },
+    {
+        "source": "Star Nemesis Morgana",
+        "target": "弒星者 魔甘娜"
+    },
+    {
+        "source": "Snow Moon Morgana",
+        "target": "雪月天使 魔甘娜"
+    },
+    {
+        "source": "Dark Binding",
+        "target": "暗影禁錮"
+    },
+    {
+        "source": "Tormented Shadow",
+        "target": "痛苦腐蝕"
+    },
+    {
+        "source": "Black Shield",
+        "target": "黑暗之盾"
+    },
+    {
+        "source": "Soul Shackles",
+        "target": "靈魂枷鎖"
+    },
+    {
+        "source": "Soul Siphon",
+        "target": "靈魂虹吸"
+    },
+    {
+        "source": "Soul Fighter Naafiri",
+        "target": "戰魂鬥士 娜菲芮"
+    },
+    {
+        "source": "Darkin Daggers",
+        "target": "冥血匕首"
+    },
+    {
+        "source": "Hounds' Pursuit",
+        "target": "尋血獵犬"
+    },
+    {
+        "source": "Eviscerate",
+        "target": "開膛破肚"
+    },
+    {
+        "source": "The Call of the Pack",
+        "target": "獵犬嚎殺"
+    },
+    {
+        "source": "We Are More",
+        "target": "眾犬吠聲"
+    },
+    {
+        "source": "Koi Nami",
+        "target": "白星錦鯉 娜米"
+    },
+    {
+        "source": "River Spirit Nami",
+        "target": "幻海魅音 娜米"
+    },
+    {
+        "source": "Urf the Nami-tee",
+        "target": "阿福之音 娜米"
+    },
+    {
+        "source": "Deep Sea Nami",
+        "target": "深海妖姬 娜米"
+    },
+    {
+        "source": "SKT T1 Nami",
+        "target": "SKT T1 娜米"
+    },
+    {
+        "source": "Program Nami",
+        "target": "人工智慧 娜米"
+    },
+    {
+        "source": "Splendid Staff Nami",
+        "target": "劍仙：龍淵 娜米"
+    },
+    {
+        "source": "Cosmic Destiny Nami",
+        "target": "星河雙魚 娜米"
+    },
+    {
+        "source": "Bewitching Nami",
+        "target": "魅海魔女 娜米"
+    },
+    {
+        "source": "Space Groove Nami",
+        "target": "太空律動 娜米"
+    },
+    {
+        "source": "Prestige Space Groove Nami",
+        "target": "尊爵不凡 太空律動 娜米"
+    },
+    {
+        "source": "Aqua Prison",
+        "target": "禁錮水牢"
+    },
+    {
+        "source": "Ebb and Flow",
+        "target": "跳躍水柱"
+    },
+    {
+        "source": "Tidecaller's Blessing",
+        "target": "深海恩賜"
+    },
+    {
+        "source": "Tidal Wave",
+        "target": "驚滔駭浪"
+    },
+    {
+        "source": "Surging Tides",
+        "target": "疾速波濤"
+    },
+    {
+        "source": "Galactic Nasus",
+        "target": "星際之門 納瑟斯"
+    },
+    {
+        "source": "Pharaoh Nasus",
+        "target": "法老王朝 納瑟斯"
+    },
+    {
+        "source": "Dreadknight Nasus",
+        "target": "恐懼騎士 納瑟斯"
+    },
+    {
+        "source": "Riot K-9 Nasus",
+        "target": "鎮暴警犬 納瑟斯"
+    },
+    {
+        "source": "Infernal Nasus",
+        "target": "地獄火 納瑟斯"
+    },
+    {
+        "source": "Archduke Nasus",
+        "target": "大公爵 納瑟斯"
+    },
+    {
+        "source": "Worldbreaker Nasus",
+        "target": "文明末日 納瑟斯"
+    },
+    {
+        "source": "Lunar Guardian Nasus",
+        "target": "玄天衛士 納瑟斯"
+    },
+    {
+        "source": "Battlecast Nasus",
+        "target": "狂派機甲 納瑟斯"
+    },
+    {
+        "source": "Space Groove Nasus",
+        "target": "太空律動 納瑟斯"
+    },
+    {
+        "source": "Armored Titan Nasus",
+        "target": "重裝泰坦 納瑟斯"
+    },
+    {
+        "source": "Nightbringer Nasus",
+        "target": "闇夜使者 納瑟斯"
+    },
+    {
+        "source": "Siphoning Strike",
+        "target": "虹吸打擊 "
+    },
+    {
+        "source": "Wither",
+        "target": "枯萎"
+    },
+    {
+        "source": "Spirit Fire",
+        "target": "靈魂烈焰"
+    },
+    {
+        "source": "Fury of the Sands",
+        "target": "死神降臨"
+    },
+    {
+        "source": "Soul Eater",
+        "target": "食魂者"
+    },
+    {
+        "source": "Abyssal Nautilus",
+        "target": "怒濤巨人 納帝魯斯"
+    },
+    {
+        "source": "Subterranean Nautilus",
+        "target": "地底巨人 納帝魯斯"
+    },
+    {
+        "source": "AstroNautilus",
+        "target": "月球漫步 納帝魯斯"
+    },
+    {
+        "source": "Warden Nautilus",
+        "target": "無情審判 納帝魯斯"
+    },
+    {
+        "source": "Worldbreaker Nautilus",
+        "target": "文明末日 納帝魯斯"
+    },
+    {
+        "source": "Conqueror Nautilus",
+        "target": "征服霸者 納帝魯斯"
+    },
+    {
+        "source": "Shan Hai Scrolls Nautilus",
+        "target": "山海卷軸 納帝魯斯"
+    },
+    {
+        "source": "Fright Night Nautilus",
+        "target": "午夜驚魂 納帝魯斯"
+    },
+    {
+        "source": "Cosmic Paladin Nautilus",
+        "target": "星河聖騎 納帝魯斯"
+    },
+    {
+        "source": "Dredge Line",
+        "target": "深淵鐵錨"
+    },
+    {
+        "source": "Titan's Wrath",
+        "target": "巨人之怒"
+    },
+    {
+        "source": "Riptide",
+        "target": "鋼鐵怒濤"
+    },
+    {
+        "source": "Depth Charge",
+        "target": "潛航衝擊"
+    },
+    {
+        "source": "Staggering Blow",
+        "target": "沉重打擊"
+    },
+    {
+        "source": "Winter Wonder Neeko",
+        "target": "凜冬奇蹟 妮可"
+    },
+    {
+        "source": "Star Guardian Neeko",
+        "target": "星光戰士 妮可"
+    },
+    {
+        "source": "Prestige Star Guardian Neeko",
+        "target": "尊爵不凡 星光戰士 妮可"
+    },
+    {
+        "source": "Shan Hai Scrolls Neeko",
+        "target": "山海卷軸 妮可"
+    },
+    {
+        "source": "Prestige Star Guardian Neeko (2022)",
+        "target": "尊爵不凡 星光戰士 妮可｜2022"
+    },
+    {
+        "source": "Bewitching Neeko",
+        "target": "變身魔女 妮可"
+    },
+    {
+        "source": "Street Demons Neeko",
+        "target": "街頭狂魔 妮可"
+    },
+    {
+        "source": "Blooming Burst",
+        "target": "爆裂艷花"
+    },
+    {
+        "source": "Shapesplitter",
+        "target": "擬態分裂"
+    },
+    {
+        "source": "Tangle-Barbs",
+        "target": "螺旋刺花"
+    },
+    {
+        "source": "Pop Blossom",
+        "target": "萬紫千紅"
+    },
+    {
+        "source": "Inherent Glamour",
+        "target": "原生模影"
+    },
+    {
+        "source": "Snow Bunny Nidalee",
+        "target": "雪地靈兔 奈德麗"
+    },
+    {
+        "source": "Leopard Nidalee",
+        "target": "叢林獵豹 奈德麗"
+    },
+    {
+        "source": "French Maid Nidalee",
+        "target": "法國女僕 奈德麗"
+    },
+    {
+        "source": "Pharaoh Nidalee",
+        "target": "埃及豔后 奈德麗"
+    },
+    {
+        "source": "Bewitching Nidalee",
+        "target": "魔法靈貓 奈德麗"
+    },
+    {
+        "source": "Headhunter Nidalee",
+        "target": "獵頭者 奈德麗"
+    },
+    {
+        "source": "Warring Kingdoms Nidalee",
+        "target": "新春豹喜 奈德麗"
+    },
+    {
+        "source": "Challenger Nidalee",
+        "target": "傳說啟程 奈德麗"
+    },
+    {
+        "source": "Super Galaxy Nidalee",
+        "target": "星際特攻 奈德麗"
+    },
+    {
+        "source": "Dawnbringer Nidalee",
+        "target": "黎明使者 奈德麗"
+    },
+    {
+        "source": "Cosmic Huntress Nidalee",
+        "target": "星河天獅 奈德麗"
+    },
+    {
+        "source": "DWG Nidalee",
+        "target": "DWG 奈德麗"
+    },
+    {
+        "source": "Ocean Song Nidalee",
+        "target": "海洋之歌 奈德麗"
+    },
+    {
+        "source": "Kittalee",
+        "target": "喵德麗"
+    },
+    {
+        "source": "La Ilusión Nidalee",
+        "target": "幻靈夜總會 奈德麗"
+    },
+    {
+        "source": "Javelin Toss / Takedown",
+        "target": "標槍投擲 ／ 擊倒"
+    },
+    {
+        "source": "Bushwhack / Pounce",
+        "target": "叢林伏擊 ／ 猛撲"
+    },
+    {
+        "source": "Primal Surge / Swipe",
+        "target": "野性奔騰 ／ 揮擊"
+    },
+    {
+        "source": "Aspect Of The Cougar",
+        "target": "美洲獅"
+    },
+    {
+        "source": "Prowl",
+        "target": "穿梭"
+    },
+    {
+        "source": "Star Guardian Nilah",
+        "target": "星光戰士 淣菈"
+    },
+    {
+        "source": "Formless Blade",
+        "target": "百變之刃"
+    },
+    {
+        "source": "Jubilant Veil",
+        "target": "歡躍面紗"
+    },
+    {
+        "source": "Slipstream",
+        "target": "湍流淩步"
+    },
+    {
+        "source": "Apotheosis",
+        "target": "神之禮讚"
+    },
+    {
+        "source": "Joy Unending",
+        "target": "樂無止境"
+    },
+    {
+        "source": "Frozen Terror Nocturne",
+        "target": "寒恐 夜曲"
+    },
+    {
+        "source": "Void Nocturne",
+        "target": "虛空 夜曲"
+    },
+    {
+        "source": "Ravager Nocturne",
+        "target": "業火 夜曲"
+    },
+    {
+        "source": "Haunting Nocturne",
+        "target": "恐怖鬼屋 夜曲"
+    },
+    {
+        "source": "Eternum Nocturne",
+        "target": "烈影戰神 夜曲"
+    },
+    {
+        "source": "Cursed Revenant Nocturne",
+        "target": "詛咒怨靈 夜曲"
+    },
+    {
+        "source": "Old God Nocturne",
+        "target": "古神 夜曲"
+    },
+    {
+        "source": "Hextech Nocturne",
+        "target": "海克斯科技 夜曲"
+    },
+    {
+        "source": "Broken Covenant Nocturne",
+        "target": "破碎盟約 夜曲"
+    },
+    {
+        "source": "Duskbringer",
+        "target": "黃昏渠道"
+    },
+    {
+        "source": "Shroud of Darkness",
+        "target": "夜幕庇護"
+    },
+    {
+        "source": "Unspeakable Horror",
+        "target": "深宵斷魂"
+    },
+    {
+        "source": "Paranoia",
+        "target": "無盡夢魘"
+    },
+    {
+        "source": "Umbra Blades",
+        "target": "闇影幽刃"
+    },
+    {
+        "source": "Sasquatch Nunu & Willump",
+        "target": "荒野巨獸 努努和威朗普"
+    },
+    {
+        "source": "Workshop Nunu & Willump",
+        "target": "聖誕狂歡 努努和威朗普"
+    },
+    {
+        "source": "Grungy Nunu & Willump",
+        "target": "雪怪電力公司 努努和威朗普"
+    },
+    {
+        "source": "Nunu & Willump Bot",
+        "target": "怒伯機器人 努努和威朗普"
+    },
+    {
+        "source": "Demolisher Nunu & Willump",
+        "target": "鐵甲雪人 努努和威朗普"
+    },
+    {
+        "source": "TPA Nunu & Willump",
+        "target": "臺灣隊長  密使努努和威朗普"
+    },
+    {
+        "source": "Zombie Nunu & Willump",
+        "target": "屍魂肉破 努努和威朗普"
+    },
+    {
+        "source": "Papercraft Nunu & Willump",
+        "target": "紙玩偶 努努和威朗普"
+    },
+    {
+        "source": "Space Groove Nunu & Willump",
+        "target": "太空律動 努努和威朗普"
+    },
+    {
+        "source": "Nunu & Beelump",
+        "target": "努努和嗡朗普"
+    },
+    {
+        "source": "Cosmic Paladins Nunu & Willump",
+        "target": "星河聖騎 努努和威朗普"
+    },
+    {
+        "source": "Consume",
+        "target": "吞噬"
+    },
+    {
+        "source": "Biggest Snowball Ever!",
+        "target": "巨無霸雪球！"
+    },
+    {
+        "source": "Snowball Barrage",
+        "target": "雪球連擊"
+    },
+    {
+        "source": "Absolute Zero",
+        "target": "絕對零度"
+    },
+    {
+        "source": "Call of the Freljord",
+        "target": "弗雷爾卓德之喚"
+    },
+    {
+        "source": "Forsaken Olaf",
+        "target": "被遺忘者 歐拉夫"
+    },
+    {
+        "source": "Glacial Olaf",
+        "target": "冰河時代 歐拉夫"
+    },
+    {
+        "source": "Brolaf",
+        "target": "哥拉夫"
+    },
+    {
+        "source": "Pentakill Olaf",
+        "target": "殺五社 歐拉夫"
+    },
+    {
+        "source": "Marauder Olaf",
+        "target": "劫掠飛斧 歐拉夫"
+    },
+    {
+        "source": "Butcher Olaf",
+        "target": "粗魯肉販 歐拉夫"
+    },
+    {
+        "source": "SKT T1 Olaf",
+        "target": "SKT T1 歐拉夫"
+    },
+    {
+        "source": "Dragonslayer Olaf",
+        "target": "弒龍戰士 歐拉夫"
+    },
+    {
+        "source": "Sentinel Olaf",
+        "target": "光之哨兵 歐拉夫"
+    },
+    {
+        "source": "Pentakill III: Lost Chapter Olaf",
+        "target": "殺五社 III：失落之章 歐拉夫"
+    },
+    {
+        "source": "Undertow",
+        "target": "逆流投擲"
+    },
+    {
+        "source": "Tough It Out",
+        "target": "堅持到底"
+    },
+    {
+        "source": "Reckless Swing",
+        "target": "魯莽揮擊"
+    },
+    {
+        "source": "Ragnarok",
+        "target": "諸神黃昏"
+    },
+    {
+        "source": "Berserker Rage",
+        "target": "狂戰之怒"
+    },
+    {
+        "source": "Gothic Orianna",
+        "target": "哥德魔偶 奧莉安娜"
+    },
+    {
+        "source": "Sewn Chaos Orianna",
+        "target": "巫毒娃娃 奧莉安娜"
+    },
+    {
+        "source": "Bladecraft Orianna",
+        "target": "刺客舞者 奧莉安娜"
+    },
+    {
+        "source": "TPA Orianna",
+        "target": "中路野獸 玩具安娜"
+    },
+    {
+        "source": "Winter Wonder Orianna",
+        "target": "普羅雪精靈 奧莉安娜"
+    },
+    {
+        "source": "Heartseeker Orianna",
+        "target": "球愛獵人 奧莉安娜"
+    },
+    {
+        "source": "Dark Star Orianna",
+        "target": "幽冥煞星 奧莉安娜"
+    },
+    {
+        "source": "Victorious Orianna",
+        "target": "戰爭英雄 奧莉安娜"
+    },
+    {
+        "source": "Pool Party Orianna",
+        "target": "泳池狂歡 奧莉安娜"
+    },
+    {
+        "source": "Orbeeanna",
+        "target": "奧蜜安娜"
+    },
+    {
+        "source": "Star Guardian Orianna",
+        "target": "星光戰士 奧莉安娜"
+    },
+    {
+        "source": "Command: Attack",
+        "target": "指令：貫穿"
+    },
+    {
+        "source": "Command: Dissonance",
+        "target": "指令：失衡"
+    },
+    {
+        "source": "Command: Protect",
+        "target": "指令：守護"
+    },
+    {
+        "source": "Command: Shockwave",
+        "target": "終極指令：脈衝"
+    },
+    {
+        "source": "Clockwork Windup",
+        "target": "魔法發條"
+    },
+    {
+        "source": "Thunder Lord Ornn",
+        "target": "雷霆至尊  鄂爾"
+    },
+    {
+        "source": "Elderwood Ornn",
+        "target": "神木精靈 鄂爾"
+    },
+    {
+        "source": "Space Groove Ornn",
+        "target": "太空律動 鄂爾"
+    },
+    {
+        "source": "Volcanic Rupture",
+        "target": "火山脈動"
+    },
+    {
+        "source": "Bellows Breath",
+        "target": "熾焰吹息"
+    },
+    {
+        "source": "Searing Charge",
+        "target": "熔岩俯衝"
+    },
+    {
+        "source": "Call of the Forge God",
+        "target": "鑄火者的呼喚"
+    },
+    {
+        "source": "Living Forge",
+        "target": "活火爐"
+    },
+    {
+        "source": "Myrmidon Pantheon",
+        "target": "戰神忠僕 潘森"
+    },
+    {
+        "source": "Ruthless Pantheon",
+        "target": "荒土無情 潘森"
+    },
+    {
+        "source": "Perseus Pantheon",
+        "target": "珀爾修斯 潘森"
+    },
+    {
+        "source": "Full Metal Pantheon",
+        "target": "鐵甲勇士 潘森"
+    },
+    {
+        "source": "Glaive Warrior Pantheon",
+        "target": "寬刃巨劍 潘森"
+    },
+    {
+        "source": "Dragonslayer Pantheon",
+        "target": "弒龍壯士 潘森"
+    },
+    {
+        "source": "Zombie Slayer Pantheon",
+        "target": "除屍肌 潘森"
+    },
+    {
+        "source": "Baker Pantheon",
+        "target": "烘焙達人 潘森"
+    },
+    {
+        "source": "Pulsefire Pantheon",
+        "target": "脈衝火焰 潘森"
+    },
+    {
+        "source": "Ruined Pantheon",
+        "target": "殞落之矛 潘森"
+    },
+    {
+        "source": "Prestige Ascended Pantheon",
+        "target": "尊爵不凡 飛升之矛 潘森"
+    },
+    {
+        "source": "Ashen Conqueror Pantheon",
+        "target": "死灰征服者 潘森"
+    },
+    {
+        "source": "Comet Spear",
+        "target": "彗星戰矛"
+    },
+    {
+        "source": "Shield Vault",
+        "target": "盾之躍擊"
+    },
+    {
+        "source": "Aegis Assault",
+        "target": "聖盾猛襲"
+    },
+    {
+        "source": "Grand Starfall",
+        "target": "星殞衝擊"
+    },
+    {
+        "source": "Mortal Will",
+        "target": "凡人堅志"
+    },
+    {
+        "source": "Noxus Poppy",
+        "target": "諾克薩斯 波比"
+    },
+    {
+        "source": "Lollipoppy",
+        "target": "甜點精靈 波比"
+    },
+    {
+        "source": "Blacksmith Poppy",
+        "target": "打鐵宗師 波比"
+    },
+    {
+        "source": "Ragdoll Poppy",
+        "target": "聖誕玩偶 波比"
+    },
+    {
+        "source": "Battle Regalia Poppy",
+        "target": "聖潔騎士 波比"
+    },
+    {
+        "source": "Scarlet Hammer Poppy",
+        "target": "血色戰錘 波比"
+    },
+    {
+        "source": "Star Guardian Poppy",
+        "target": "星光戰士 波比"
+    },
+    {
+        "source": "Snow Fawn Poppy",
+        "target": "鈴鐺雪鹿 波比"
+    },
+    {
+        "source": "Hextech Poppy",
+        "target": "海克斯科技 波比"
+    },
+    {
+        "source": "Astronaut Poppy",
+        "target": "太空約德爾人 波比"
+    },
+    {
+        "source": "Bewitching Poppy",
+        "target": "聖槌魔女 波比"
+    },
+    {
+        "source": "Hammer Shock",
+        "target": "戰槌衝擊"
+    },
+    {
+        "source": "Steadfast Presence",
+        "target": "堅定不移"
+    },
+    {
+        "source": "Heroic Charge",
+        "target": "英勇衝鋒"
+    },
+    {
+        "source": "Keeper's Verdict",
+        "target": "守護者裁決"
+    },
+    {
+        "source": "Iron Ambassador",
+        "target": "鋼鐵使者"
+    },
+    {
+        "source": "Sand Wraith Pyke",
+        "target": "殺漠鬼影 派克"
+    },
+    {
+        "source": "Blood Moon Pyke",
+        "target": "血月幽影 派克"
+    },
+    {
+        "source": "PROJECT: Pyke",
+        "target": "菁英計畫：派克"
+    },
+    {
+        "source": "PsyOps Pyke",
+        "target": "靈戰特工 派克"
+    },
+    {
+        "source": "Sentinel Pyke",
+        "target": "光之哨兵 派克"
+    },
+    {
+        "source": "Ashen Knight Pyke",
+        "target": "死灰騎士 派克"
+    },
+    {
+        "source": "Empyrean Pyke",
+        "target": "宇宙幻焰 派克"
+    },
+    {
+        "source": "Soul Fighter Pyke",
+        "target": "戰魂鬥士 派克"
+    },
+    {
+        "source": "Prestige Soul Fighter Pyke",
+        "target": "尊爵不凡 戰魂鬥士 派克"
+    },
+    {
+        "source": "Bone Skewer",
+        "target": "刺骨串叉"
+    },
+    {
+        "source": "Ghostwater Dive",
+        "target": "幽海深潛"
+    },
+    {
+        "source": "Phantom Undertow",
+        "target": "溺流鬼影"
+    },
+    {
+        "source": "Death From Below",
+        "target": "汪洋死域"
+    },
+    {
+        "source": "Gift of the Drowned Ones",
+        "target": "血港淹禮"
+    },
+    {
+        "source": "Battle Boss Qiyana",
+        "target": "二次元女魔 姬亞娜"
+    },
+    {
+        "source": "True Damage Qiyana",
+        "target": "True Damage 姬亞娜"
+    },
+    {
+        "source": "Prestige True Damage Qiyana",
+        "target": "尊爵不凡 True Damage 姬亞娜"
+    },
+    {
+        "source": "Battle Queen Qiyana",
+        "target": "戰爭女皇 姬亞娜"
+    },
+    {
+        "source": "Shockblade Qiyana",
+        "target": "衝擊利刃 姬亞娜"
+    },
+    {
+        "source": "Prestige True Damage Qiyana (2022)",
+        "target": "尊爵不凡 True Damage 姬亞娜｜2022"
+    },
+    {
+        "source": "Lunar Empress Qiyana",
+        "target": "玄天女皇 姬亞娜"
+    },
+    {
+        "source": "La Ilusión Qiyana",
+        "target": "幻靈夜總會 姬亞娜"
+    },
+    {
+        "source": "Elemental Wrath / Edge of Ixtal",
+        "target": "元素之怒 / 伊克斯塔爾迴旋刀"
+    },
+    {
+        "source": "Terrashape",
+        "target": "元素之形"
+    },
+    {
+        "source": "Audacity",
+        "target": "勇往直前"
+    },
+    {
+        "source": "Supreme Display of Talent",
+        "target": "大顯身手"
+    },
+    {
+        "source": "Royal Privilege",
+        "target": "皇家特權"
+    },
+    {
+        "source": "Phoenix Quinn",
+        "target": "鳳翼天翔 葵恩"
+    },
+    {
+        "source": "Woad Scout Quinn",
+        "target": "北境獵手 葵恩"
+    },
+    {
+        "source": "Corsair Quinn",
+        "target": "大海賊 葵恩"
+    },
+    {
+        "source": "Heartseeker Quinn",
+        "target": "愛情獵人 葵恩"
+    },
+    {
+        "source": "Warden Quinn",
+        "target": "無情審判 葵恩"
+    },
+    {
+        "source": "Star Guardian Quinn",
+        "target": "星光戰士 葵恩"
+    },
+    {
+        "source": "Blinding Assault",
+        "target": "飛鷹突擊"
+    },
+    {
+        "source": "Heightened Senses",
+        "target": "強化感知"
+    },
+    {
+        "source": "Vault",
+        "target": "完美奇襲"
+    },
+    {
+        "source": "Behind Enemy Lines",
+        "target": "絕命殺戮"
+    },
+    {
+        "source": "Harrier",
+        "target": "追獵印記"
+    },
+    {
+        "source": "Cosmic Dawn Rakan",
+        "target": "星河黎羽 銳空"
+    },
+    {
+        "source": "Sweetheart Rakan",
+        "target": "比翼甜心 銳空"
+    },
+    {
+        "source": "SSG Rakan",
+        "target": "SSG 銳空"
+    },
+    {
+        "source": "iG Rakan",
+        "target": "iG 銳空"
+    },
+    {
+        "source": "Star Guardian Rakan",
+        "target": "星光戰士 銳空"
+    },
+    {
+        "source": "Elderwood Rakan",
+        "target": "神木精靈 銳空"
+    },
+    {
+        "source": "Arcana Rakan",
+        "target": "戀人 銳空"
+    },
+    {
+        "source": "Broken Covenant Rakan",
+        "target": "破碎盟約 銳空"
+    },
+    {
+        "source": "Gleaming Quill",
+        "target": "癒光飛翎"
+    },
+    {
+        "source": "Grand Entrance",
+        "target": "盛大登場"
+    },
+    {
+        "source": "Battle Dance",
+        "target": "戰鬥舞踊"
+    },
+    {
+        "source": "The Quickness",
+        "target": "迷心迅步"
+    },
+    {
+        "source": "Fey Feathers",
+        "target": "奇異羽篷"
+    },
+    {
+        "source": "King Rammus",
+        "target": "王者庫巴 拉姆斯"
+    },
+    {
+        "source": "Chrome Rammus",
+        "target": "鉻金鎧甲 拉姆斯"
+    },
+    {
+        "source": "Molten Rammus",
+        "target": "熔岩裝甲 拉姆斯"
+    },
+    {
+        "source": "Freljord Rammus",
+        "target": "急凍冰甲 拉姆斯"
+    },
+    {
+        "source": "Ninja Rammus",
+        "target": "卡哇邦嘎 拉姆斯"
+    },
+    {
+        "source": "Full Metal Rammus",
+        "target": "重武裝 拉姆斯"
+    },
+    {
+        "source": "Guardian of the Sands Rammus",
+        "target": "砂皇護衛 拉姆斯"
+    },
+    {
+        "source": "Sweeper Rammus",
+        "target": "足球本人 拉姆斯"
+    },
+    {
+        "source": "Hextech Rammus",
+        "target": "海克斯科技 拉姆斯"
+    },
+    {
+        "source": "Astronaut Rammus",
+        "target": "太空龍龜 拉姆斯"
+    },
+    {
+        "source": "Powerball",
+        "target": "動力衝刺"
+    },
+    {
+        "source": "Defensive Ball Curl",
+        "target": "尖刺防禦"
+    },
+    {
+        "source": "Frenzying Taunt",
+        "target": "披甲怒嘲"
+    },
+    {
+        "source": "Soaring Slam",
+        "target": "飛天動地"
+    },
+    {
+        "source": "Spiked Shell",
+        "target": "錐刺甲殼"
+    },
+    {
+        "source": "Eternum Rek'Sai",
+        "target": "渾沌戰神 雷珂煞"
+    },
+    {
+        "source": "Pool Party Rek'Sai",
+        "target": "泳池狂歡 雷珂煞"
+    },
+    {
+        "source": "Blackfrost Rek'Sai",
+        "target": "黯雪霜爪 雷珂煞"
+    },
+    {
+        "source": "Elderwood Rek'Sai",
+        "target": "神木精靈 雷珂煞"
+    },
+    {
+        "source": "Queen's Wrath / Prey Seeker",
+        "target": "女王之怒/尋找獵物"
+    },
+    {
+        "source": "Burrow / Un-burrow",
+        "target": "深掘/猛襲"
+    },
+    {
+        "source": "Furious Bite / Tunnel",
+        "target": "狂食/翻山"
+    },
+    {
+        "source": "Void Rush",
+        "target": "虛空疾行"
+    },
+    {
+        "source": "Fury of the Xer'Sai",
+        "target": "憤怒沙蟲"
+    },
+    {
+        "source": "Battle Queen Rell",
+        "target": "戰爭女皇 銳兒"
+    },
+    {
+        "source": "Star Guardian Rell",
+        "target": "星光戰士 銳兒"
+    },
+    {
+        "source": "Shattering Strike",
+        "target": "鐵碎之擊"
+    },
+    {
+        "source": "Ferromancy: Crash Down",
+        "target": "馭鐵之術：解構"
+    },
+    {
+        "source": "Full Tilt",
+        "target": "全速突進"
+    },
+    {
+        "source": "Magnet Storm",
+        "target": "磁能風暴"
+    },
+    {
+        "source": "Break the Mold",
+        "target": "破鑄者"
+    },
+    {
+        "source": "Admiral Glasc",
+        "target": "艦隊司令 格萊斯克"
+    },
+    {
+        "source": "Fright Night Renata Glasc",
+        "target": "午夜驚魂 睿娜妲．格萊斯克"
+    },
+    {
+        "source": "La Ilusión Renata Glasc",
+        "target": "幻靈夜總會 睿娜妲．格萊斯克"
+    },
+    {
+        "source": "Prestige La Ilusión Renata Glasc",
+        "target": "尊爵不凡 幻靈夜總會 睿娜妲．格萊斯克"
+    },
+    {
+        "source": "Handshake",
+        "target": "霸道手腕"
+    },
+    {
+        "source": "Bailout",
+        "target": "急難救助"
+    },
+    {
+        "source": "Loyalty Program",
+        "target": "有酬必報"
+    },
+    {
+        "source": "Hostile Takeover",
+        "target": "惡意收購"
+    },
+    {
+        "source": "Leverage",
+        "target": "唯利是圖"
+    },
+    {
+        "source": "Galactic Renekton",
+        "target": "銀河暴君 雷尼克頓"
+    },
+    {
+        "source": "Outback Renekton",
+        "target": "鱷魚先生 雷尼克頓"
+    },
+    {
+        "source": "Bloodfury Renekton",
+        "target": "怒火血鱷 雷尼克頓"
+    },
+    {
+        "source": "Rune Wars Renekton",
+        "target": "符文戰士 雷尼克頓"
+    },
+    {
+        "source": "Scorched Earth Renekton",
+        "target": "滅世焦土 雷尼克頓"
+    },
+    {
+        "source": "Pool Party Renekton",
+        "target": "泳池狂歡 雷尼克頓"
+    },
+    {
+        "source": "Prehistoric Renekton",
+        "target": "史前狂鱷 雷尼克頓"
+    },
+    {
+        "source": "SKT T1 Renekton",
+        "target": "SKT T1 雷尼克頓"
+    },
+    {
+        "source": "Renektoy",
+        "target": "樂尼高頓"
+    },
+    {
+        "source": "Hextech Renekton",
+        "target": "海克斯科技 雷尼克頓"
+    },
+    {
+        "source": "Blackfrost Renekton",
+        "target": "黯雪凜牙 雷尼克頓"
+    },
+    {
+        "source": "PROJECT: Renekton",
+        "target": "菁英計畫：雷尼克頓"
+    },
+    {
+        "source": "Dawnbringer Renekton",
+        "target": "黎明使者 雷尼克頓"
+    },
+    {
+        "source": "Cull the Meek",
+        "target": "弱肉強食"
+    },
+    {
+        "source": "Ruthless Predator",
+        "target": "庖丁解牛"
+    },
+    {
+        "source": "Slice and Dice",
+        "target": "大切八塊"
+    },
+    {
+        "source": "Dominus",
+        "target": "君臨天下"
+    },
+    {
+        "source": "Reign of Anger",
+        "target": "怒不可遏"
+    },
+    {
+        "source": "Headhunter Rengar",
+        "target": "獵頭者 雷葛爾"
+    },
+    {
+        "source": "Night Hunter Rengar",
+        "target": "暗影潛行 雷葛爾"
+    },
+    {
+        "source": "SSW Rengar",
+        "target": "SSW 雷葛爾"
+    },
+    {
+        "source": "Mecha Rengar",
+        "target": "機甲迅獅 雷葛爾"
+    },
+    {
+        "source": "Pretty Kitty Rengar",
+        "target": "喵葛爾"
+    },
+    {
+        "source": "Guardian of the Sands Rengar",
+        "target": "砂皇護衛 雷葛爾"
+    },
+    {
+        "source": "Sentinel Rengar",
+        "target": "光之哨兵 雷葛爾"
+    },
+    {
+        "source": "Street Demons Rengar",
+        "target": "街頭狂魔 雷葛爾"
+    },
+    {
+        "source": "Savagery",
+        "target": "兇殘打擊"
+    },
+    {
+        "source": "Battle Roar",
+        "target": "怒獅戰吼"
+    },
+    {
+        "source": "Bola Strike",
+        "target": "狩獵拋繩"
+    },
+    {
+        "source": "Thrill of the Hunt",
+        "target": "血性獵殺"
+    },
+    {
+        "source": "Unseen Predator",
+        "target": "潛行怒獅"
+    },
+    {
+        "source": "Redeemed Riven",
+        "target": "破刃英豪 雷玟"
+    },
+    {
+        "source": "Crimson Elite Riven",
+        "target": "血色殺手 雷玟"
+    },
+    {
+        "source": "Battle Bunny Riven",
+        "target": "戰鬥兔女郎 雷玟"
+    },
+    {
+        "source": "Championship Riven",
+        "target": "永恆榮耀 雷玟"
+    },
+    {
+        "source": "Dragonblade Riven",
+        "target": "巾幗女將 雷玟"
+    },
+    {
+        "source": "Arcade Riven",
+        "target": "電玩女神 雷玟"
+    },
+    {
+        "source": "Championship Riven 2016",
+        "target": "2016 永恆榮耀 雷玟"
+    },
+    {
+        "source": "Dawnbringer Riven",
+        "target": "黎明使者 雷玟"
+    },
+    {
+        "source": "Pulsefire Riven",
+        "target": "脈衝火焰 雷玟"
+    },
+    {
+        "source": "Valiant Sword Riven",
+        "target": "劍仙：真剛 雷玟"
+    },
+    {
+        "source": "Prestige Valiant Sword Riven",
+        "target": "尊爵不凡 劍仙：真剛 雷玟"
+    },
+    {
+        "source": "Spirit Blossom Riven",
+        "target": "靈花祭 雷玟"
+    },
+    {
+        "source": "Sentinel Riven",
+        "target": "光之哨兵 雷玟"
+    },
+    {
+        "source": "Battle Bunny Prime Riven",
+        "target": "究極戰鬥兔女郎 雷玟"
+    },
+    {
+        "source": "Prestige Valiant Sword Riven (2022)",
+        "target": "尊爵不凡 劍仙：真剛 雷玟｜2022"
+    },
+    {
+        "source": "Broken Covenant Riven",
+        "target": "破碎盟約 雷玟"
+    },
+    {
+        "source": "Broken Wings",
+        "target": "斷罪之翼"
+    },
+    {
+        "source": "Ki Burst",
+        "target": "符文衝擊"
+    },
+    {
+        "source": "Valor",
+        "target": "勇者無敵"
+    },
+    {
+        "source": "Blade of the Exile",
+        "target": "放逐之刃"
+    },
+    {
+        "source": "Runic Blade",
+        "target": "符文破刃"
+    },
+    {
+        "source": "Rumble in the Jungle",
+        "target": "叢林機兵 藍寶"
+    },
+    {
+        "source": "Bilgerat Rumble",
+        "target": "海賊機兵 藍寶"
+    },
+    {
+        "source": "Super Galaxy Rumble",
+        "target": "SGRB-貳零壹式"
+    },
+    {
+        "source": "Badlands Baron Rumble",
+        "target": "荒原男爵 藍寶"
+    },
+    {
+        "source": "Space Groove Rumble",
+        "target": "太空律動 藍寶"
+    },
+    {
+        "source": "Flamespitter",
+        "target": "火焰噴射器"
+    },
+    {
+        "source": "Scrap Shield",
+        "target": "鐵屑電磁盾"
+    },
+    {
+        "source": "Electro Harpoon",
+        "target": "高壓電魚叉"
+    },
+    {
+        "source": "The Equalizer",
+        "target": "等離子飛彈"
+    },
+    {
+        "source": "Junkyard Titan",
+        "target": "泰坦熱能"
+    },
+    {
+        "source": "Young Ryze",
+        "target": "年輕法師 雷茲"
+    },
+    {
+        "source": "Tribal Ryze",
+        "target": "部落精神 雷茲"
+    },
+    {
+        "source": "Uncle Ryze",
+        "target": "美國大叔 雷茲"
+    },
+    {
+        "source": "Triumphant Ryze",
+        "target": "守護者雕像 雷茲"
+    },
+    {
+        "source": "Professor Ryze",
+        "target": "魔法教授 雷茲"
+    },
+    {
+        "source": "Zombie Ryze",
+        "target": "活人禁區 雷茲"
+    },
+    {
+        "source": "Dark Crystal Ryze",
+        "target": "地獄法師 雷茲"
+    },
+    {
+        "source": "Pirate Ryze",
+        "target": "海賊重炮手 雷茲"
+    },
+    {
+        "source": "Ryze Whitebeard",
+        "target": "白鬍法師 雷茲"
+    },
+    {
+        "source": "SKT T1 Ryze",
+        "target": "SKT T1 雷茲"
+    },
+    {
+        "source": "Championship Ryze",
+        "target": "永恆榮耀 雷茲"
+    },
+    {
+        "source": "Guardian of the Sands Ryze",
+        "target": "砂皇護衛 雷茲"
+    },
+    {
+        "source": "Arcana Ryze",
+        "target": "隱士 雷茲"
+    },
+    {
+        "source": "Overload",
+        "target": "超負荷"
+    },
+    {
+        "source": "Rune Prison",
+        "target": "符文禁錮"
+    },
+    {
+        "source": "Spell Flux",
+        "target": "法術湧動"
+    },
+    {
+        "source": "Realm Warp",
+        "target": "扭轉之境"
+    },
+    {
+        "source": "Arcane Mastery",
+        "target": "奧術專精"
+    },
+    {
+        "source": "PsyOps Samira",
+        "target": "靈戰特工 煞蜜拉"
+    },
+    {
+        "source": "Space Groove Samira",
+        "target": "太空律動 煞蜜拉"
+    },
+    {
+        "source": "High Noon Samira",
+        "target": "西域牛仔 煞蜜拉"
+    },
+    {
+        "source": "Soul Fighter Samira",
+        "target": "戰魂鬥士 煞蜜拉"
+    },
+    {
+        "source": "Flair",
+        "target": "狂戰本能"
+    },
+    {
+        "source": "Blade Whirl",
+        "target": "劍刃風暴"
+    },
+    {
+        "source": "Wild Rush",
+        "target": "狂野突進"
+    },
+    {
+        "source": "Inferno Trigger",
+        "target": "地獄火狂襲"
+    },
+    {
+        "source": "Daredevil Impulse",
+        "target": "敢死風采"
+    },
+    {
+        "source": "Sabretusk Sejuani",
+        "target": "劍牙猛騎 史瓦妮"
+    },
+    {
+        "source": "Darkrider Sejuani",
+        "target": "黑暗騎士 史瓦妮"
+    },
+    {
+        "source": "Traditional Sejuani",
+        "target": "元祖 史瓦妮"
+    },
+    {
+        "source": "Bear Cavalry Sejuani",
+        "target": "紅軍鐵騎 史瓦妮"
+    },
+    {
+        "source": "Poro Rider Sejuani",
+        "target": "普羅騎士 史瓦妮"
+    },
+    {
+        "source": "Beast Hunter Sejuani",
+        "target": "獸魔獵人 史瓦妮"
+    },
+    {
+        "source": "Sejuani Dawnchaser",
+        "target": "黎明獵人 史瓦妮"
+    },
+    {
+        "source": "Firecracker Sejuani",
+        "target": "金豬報喜 史瓦妮"
+    },
+    {
+        "source": "Hextech Sejuani",
+        "target": "海克斯科技 史瓦妮"
+    },
+    {
+        "source": "PROJECT: Sejuani",
+        "target": "菁英計畫：史瓦妮"
+    },
+    {
+        "source": "Solar Eclipse Sejuani",
+        "target": "日蝕使者 史瓦妮"
+    },
+    {
+        "source": "Victorious Sejuani",
+        "target": "戰爭英雄 史瓦妮"
+    },
+    {
+        "source": "Arctic Assault",
+        "target": "極地衝刺"
+    },
+    {
+        "source": "Winter's Wrath",
+        "target": "凜冬狂怒"
+    },
+    {
+        "source": "Permafrost",
+        "target": "永恆凍土"
+    },
+    {
+        "source": "Glacial Prison",
+        "target": "冰河籠牢"
+    },
+    {
+        "source": "Fury of the North",
+        "target": "北境之怒"
+    },
+    {
+        "source": "True Damage Senna",
+        "target": "True Damage 姍娜"
+    },
+    {
+        "source": "Prestige True Damage Senna",
+        "target": "尊爵不凡 True Damage 姍娜"
+    },
+    {
+        "source": "High Noon Senna",
+        "target": "西域牛仔 姍娜"
+    },
+    {
+        "source": "PROJECT: Senna",
+        "target": "菁英計畫：姍娜"
+    },
+    {
+        "source": "Lunar Eclipse Senna",
+        "target": "月蝕使者 姍娜"
+    },
+    {
+        "source": "Prestige Lunar Eclipse Senna",
+        "target": "尊爵不凡 月蝕使者 姍娜"
+    },
+    {
+        "source": "Bewitching Senna",
+        "target": "聖槍魔女 姍娜"
+    },
+    {
+        "source": "Star Guardian Senna",
+        "target": "星光戰士 姍娜"
+    },
+    {
+        "source": "Piercing Darkness",
+        "target": "刺骨幽闇"
+    },
+    {
+        "source": "Last Embrace",
+        "target": "終末之擁"
+    },
+    {
+        "source": "Curse of the Black Mist",
+        "target": "黯霧詛咒"
+    },
+    {
+        "source": "Dawning Shadow",
+        "target": "黎明之影"
+    },
+    {
+        "source": "Absolution",
+        "target": "赦罪"
+    },
+    {
+        "source": "K/DA ALL OUT Seraphine Indie",
+        "target": "K/DA ALL OUT 瑟菈紛 獨立音樂"
+    },
+    {
+        "source": "K/DA ALL OUT Seraphine Rising Star",
+        "target": "K/DA ALL OUT 瑟菈紛 耀眼新星"
+    },
+    {
+        "source": "K/DA ALL OUT Seraphine Superstar",
+        "target": "K/DA ALL OUT 瑟菈紛 超級巨星"
+    },
+    {
+        "source": "Graceful Phoenix Seraphine",
+        "target": "娉婷女凰 瑟菈紛"
+    },
+    {
+        "source": "Ocean Song Seraphine",
+        "target": "海洋之歌 瑟菈紛"
+    },
+    {
+        "source": "Prestige Ocean Song Seraphine",
+        "target": "尊爵不凡 海洋之歌 瑟菈紛"
+    },
+    {
+        "source": "Faerie Court Seraphine",
+        "target": "妖精宮殿 瑟菈紛"
+    },
+    {
+        "source": "Star Guardian Seraphine",
+        "target": "星光戰士 瑟菈紛"
+    },
+    {
+        "source": "High Note",
+        "target": "樂音高亢"
+    },
+    {
+        "source": "Surround Sound",
+        "target": "繞樑歌聲"
+    },
+    {
+        "source": "Beat Drop",
+        "target": "迷人節奏"
+    },
+    {
+        "source": "Encore",
+        "target": "要不要來首安可曲"
+    },
+    {
+        "source": "Stage Presence",
+        "target": "耀眼星光"
+    },
+    {
+        "source": "Mecha Kingdoms Sett",
+        "target": "機甲帝國 賽特"
+    },
+    {
+        "source": "Obsidian Dragon Sett",
+        "target": "黑曜古龍 賽特"
+    },
+    {
+        "source": "Prestige Obsidian Dragon Sett",
+        "target": "尊爵不凡 黑曜古龍 賽特"
+    },
+    {
+        "source": "Pool Party Sett",
+        "target": "泳池狂歡 賽特"
+    },
+    {
+        "source": "Firecracker Sett",
+        "target": "虎躍龍騰 賽特"
+    },
+    {
+        "source": "Spirit Blossom Sett",
+        "target": "靈花祭 賽特"
+    },
+    {
+        "source": "Soul Fighter Sett",
+        "target": "戰魂鬥士 賽特"
+    },
+    {
+        "source": "Knuckle Down",
+        "target": "懾人猛拳"
+    },
+    {
+        "source": "Haymaker",
+        "target": "獸魂轟拳"
+    },
+    {
+        "source": "Facebreaker",
+        "target": "碎顱猛擊"
+    },
+    {
+        "source": "The Show Stopper",
+        "target": "嘆為觀止"
+    },
+    {
+        "source": "Pit Grit",
+        "target": "恆毅之泉"
+    },
+    {
+        "source": "Mad Hatter Shaco",
+        "target": "愛麗絲瘋狂帽匠 薩科"
+    },
+    {
+        "source": "Royal Shaco",
+        "target": "皇家小丑 薩科"
+    },
+    {
+        "source": "Nutcracko",
+        "target": "胡桃鉗 薩科"
+    },
+    {
+        "source": "Workshop Shaco",
+        "target": "報時魔偶 薩科"
+    },
+    {
+        "source": "Asylum Shaco",
+        "target": "瘋魔小丑 薩科"
+    },
+    {
+        "source": "Masked Shaco",
+        "target": "河回假面 薩科"
+    },
+    {
+        "source": "Wild Card Shaco",
+        "target": "命運鬼牌 薩科"
+    },
+    {
+        "source": "Dark Star Shaco",
+        "target": "幽冥煞星 薩科"
+    },
+    {
+        "source": "Arcanist Shaco",
+        "target": "奧術之罪 薩科"
+    },
+    {
+        "source": "Crime City Nightmare Shaco",
+        "target": "罪惡城市噩夢 薩科"
+    },
+    {
+        "source": "Winterblessed Shaco",
+        "target": "凜冬碎星 薩科"
+    },
+    {
+        "source": "Soul Fighter Shaco",
+        "target": "戰魂鬥士 薩科"
+    },
+    {
+        "source": "Prestige Soul Fighter Shaco",
+        "target": "尊爵不凡 戰魂鬥士 薩科"
+    },
+    {
+        "source": "Deceive",
+        "target": "欺詐魔術"
+    },
+    {
+        "source": "Jack In The Box",
+        "target": "驚嚇魔盒"
+    },
+    {
+        "source": "Two-Shiv Poison",
+        "target": "雙面毒刃"
+    },
+    {
+        "source": "Hallucinate",
+        "target": "幻象"
+    },
+    {
+        "source": "Backstab",
+        "target": "背刺"
+    },
+    {
+        "source": "Frozen Shen",
+        "target": "魔宮帝國 慎"
+    },
+    {
+        "source": "Yellow Jacket Shen",
+        "target": "黃金甲 慎"
+    },
+    {
+        "source": "Surgeon Shen",
+        "target": "外科醫生 慎"
+    },
+    {
+        "source": "Blood Moon Shen",
+        "target": "血月舞忍 慎"
+    },
+    {
+        "source": "Warlord Shen",
+        "target": "武士精神 慎"
+    },
+    {
+        "source": "TPA Shen",
+        "target": "上路帝王 慎丹利"
+    },
+    {
+        "source": "Pulsefire Shen",
+        "target": "脈衝火焰 慎"
+    },
+    {
+        "source": "Infernal Shen",
+        "target": "地獄火 慎"
+    },
+    {
+        "source": "PsyOps Shen",
+        "target": "靈戰特工 慎"
+    },
+    {
+        "source": "Shockblade Shen",
+        "target": "衝擊利刃 慎"
+    },
+    {
+        "source": "Ashen Guardian Shen",
+        "target": "死灰守護者 慎"
+    },
+    {
+        "source": "Twilight Assault",
+        "target": "暮光強襲"
+    },
+    {
+        "source": "Spirit's Refuge",
+        "target": "靈氣庇護"
+    },
+    {
+        "source": "Shadow Dash",
+        "target": "影襲"
+    },
+    {
+        "source": "Stand United",
+        "target": "並肩作戰"
+    },
+    {
+        "source": "Ki Barrier",
+        "target": "凝氣盾"
+    },
+    {
+        "source": "Ironscale Shyvana",
+        "target": "鐵龍公主 希瓦娜"
+    },
+    {
+        "source": "Boneclaw Shyvana",
+        "target": "骨龍巫女 希瓦娜"
+    },
+    {
+        "source": "Darkflame Shyvana",
+        "target": "煉獄黑火 希瓦娜"
+    },
+    {
+        "source": "Ice Drake Shyvana",
+        "target": "霜翼冰龍 希瓦娜"
+    },
+    {
+        "source": "Championship Shyvana",
+        "target": "永恆榮耀 希瓦娜"
+    },
+    {
+        "source": "Super Galaxy Shyvana",
+        "target": "星際特攻 希瓦娜"
+    },
+    {
+        "source": "Ruined Shyvana",
+        "target": "殞落龍裔 希瓦娜"
+    },
+    {
+        "source": "Immortal Journey Shyvana",
+        "target": "劍仙：蔚勇 希瓦娜"
+    },
+    {
+        "source": "Twin Bite",
+        "target": "雙龍聚首"
+    },
+    {
+        "source": "Burnout",
+        "target": "聖龍怒火"
+    },
+    {
+        "source": "Flame Breath",
+        "target": "龍之吐息"
+    },
+    {
+        "source": "Dragon's Descent",
+        "target": "真龍轉生"
+    },
+    {
+        "source": "Fury of the Dragonborn",
+        "target": "龍裔之怒"
+    },
+    {
+        "source": "Riot Squad Singed",
+        "target": "鎮暴部隊 辛吉德"
+    },
+    {
+        "source": "Hextech Singed",
+        "target": "海克斯科技 辛吉德"
+    },
+    {
+        "source": "Surfer Singed",
+        "target": "衝浪高手 辛吉德"
+    },
+    {
+        "source": "Mad Scientist Singed",
+        "target": "瘋狂科學家 辛吉德"
+    },
+    {
+        "source": "Augmented Singed",
+        "target": "劇毒機甲 辛吉德"
+    },
+    {
+        "source": "Snow Day Singed",
+        "target": "霜降使者 辛吉德"
+    },
+    {
+        "source": "SSW Singed",
+        "target": "SSW 辛吉德"
+    },
+    {
+        "source": "Black Scourge Singed",
+        "target": "暗黑災厄 辛吉德"
+    },
+    {
+        "source": "Beekeeper Singed",
+        "target": "蜂狂巢男 辛吉德"
+    },
+    {
+        "source": "Resistance Singed",
+        "target": "鋼鐵叛軍 辛吉德"
+    },
+    {
+        "source": "Astronaut Singed",
+        "target": "太空煉金術師 辛吉德"
+    },
+    {
+        "source": "Poison Trail",
+        "target": "劇毒蹤跡"
+    },
+    {
+        "source": "Mega Adhesive",
+        "target": "強力粘膠"
+    },
+    {
+        "source": "Fling",
+        "target": "過肩摔"
+    },
+    {
+        "source": "Insanity Potion",
+        "target": "瘋狂藥劑"
+    },
+    {
+        "source": "Noxious Slipstream",
+        "target": "毒氣推進"
+    },
+    {
+        "source": "Hextech Sion",
+        "target": "海克斯科技 賽恩"
+    },
+    {
+        "source": "Barbarian Sion",
+        "target": "蠻族戰士  賽恩"
+    },
+    {
+        "source": "Lumberjack Sion",
+        "target": "歡樂伐木工 賽恩"
+    },
+    {
+        "source": "Warmonger Sion",
+        "target": "戰爭惡魔 賽恩"
+    },
+    {
+        "source": "Mecha Zero Sion",
+        "target": "機甲特急 賽恩"
+    },
+    {
+        "source": "Worldbreaker Sion",
+        "target": "文明末日 賽恩"
+    },
+    {
+        "source": "Blackfrost Sion",
+        "target": "黯雪冽斧 賽恩 "
+    },
+    {
+        "source": "High Noon Sion",
+        "target": "西域牛仔 賽恩"
+    },
+    {
+        "source": "Cosmic Paladin Sion",
+        "target": "星河聖騎 賽恩"
+    },
+    {
+        "source": "Decimating Smash",
+        "target": "巨幅毀滅"
+    },
+    {
+        "source": "Soul Furnace",
+        "target": "魂魄熔爐"
+    },
+    {
+        "source": "Roar of the Slayer",
+        "target": "殺戮怒吼"
+    },
+    {
+        "source": "Unstoppable Onslaught",
+        "target": "猛烈狂擊"
+    },
+    {
+        "source": "Glory in Death",
+        "target": "光榮戰死"
+    },
+    {
+        "source": "Warrior Princess Sivir",
+        "target": "戰神公主 希維爾"
+    },
+    {
+        "source": "Spectacular Sivir",
+        "target": "神奇女俠 希維爾"
+    },
+    {
+        "source": "Huntress Sivir",
+        "target": "峽谷獵人 希維爾"
+    },
+    {
+        "source": "Bandit Sivir",
+        "target": "冰鋒盜賊 希維爾"
+    },
+    {
+        "source": "PAX Sivir",
+        "target": "光速戰記 希維爾"
+    },
+    {
+        "source": "Snowstorm Sivir",
+        "target": "冰暴裂風 希維爾"
+    },
+    {
+        "source": "Warden Sivir",
+        "target": "無情審判 希維爾"
+    },
+    {
+        "source": "Victorious Sivir",
+        "target": "戰爭英雄 希維爾"
+    },
+    {
+        "source": "Neo PAX Sivir",
+        "target": "光速戰記 X 希維爾"
+    },
+    {
+        "source": "Pizza Delivery Sivir",
+        "target": "披薩外送員 希維爾"
+    },
+    {
+        "source": "Blood Moon Sivir",
+        "target": "血月獵刃 希維爾"
+    },
+    {
+        "source": "Odyssey Sivir",
+        "target": "奧德賽 希維爾"
+    },
+    {
+        "source": "Cafe Cuties Sivir",
+        "target": "咖啡廳甜心 希維爾"
+    },
+    {
+        "source": "Solar Eclipse Sivir",
+        "target": "日蝕使者 希維爾"
+    },
+    {
+        "source": "Mythmaker Sivir",
+        "target": "剪紙仙靈 希維爾"
+    },
+    {
+        "source": "Prestige Mythmaker Sivir",
+        "target": "尊爵不凡 剪紙仙靈 希維爾"
+    },
+    {
+        "source": "Boomerang Blade",
+        "target": "迴旋之刃"
+    },
+    {
+        "source": "Ricochet",
+        "target": "十字彈射"
+    },
+    {
+        "source": "Spell Shield",
+        "target": "法術護盾"
+    },
+    {
+        "source": "On The Hunt",
+        "target": "狩獵"
+    },
+    {
+        "source": "Fleet of Foot",
+        "target": "戰鬥動能"
+    },
+    {
+        "source": "Sandscourge Skarner",
+        "target": "沙漠魔獸 史加納"
+    },
+    {
+        "source": "Earthrune Skarner",
+        "target": "大地魔蠍 史加納"
+    },
+    {
+        "source": "Battlecast Alpha Skarner",
+        "target": "狂派機甲 史加納"
+    },
+    {
+        "source": "Guardian of the Sands Skarner",
+        "target": "砂皇護衛 史加納"
+    },
+    {
+        "source": "Cosmic Sting Skarner",
+        "target": "星河天蠍 史加納"
+    },
+    {
+        "source": "Crystal Slash",
+        "target": "水晶斬擊"
+    },
+    {
+        "source": "Crystalline Exoskeleton",
+        "target": "結晶骨骼"
+    },
+    {
+        "source": "Fracture",
+        "target": "水晶塵爆"
+    },
+    {
+        "source": "Impale",
+        "target": "蠍尾穿刺"
+    },
+    {
+        "source": "Crystal Spires",
+        "target": "水晶尖塔"
+    },
+    {
+        "source": "Muse Sona",
+        "target": "繆斯女神 索娜"
+    },
+    {
+        "source": "Pentakill Sona",
+        "target": "殺五社 索娜"
+    },
+    {
+        "source": "Silent Night Sona",
+        "target": "平安夜女神 索娜"
+    },
+    {
+        "source": "Guqin Sona",
+        "target": "龍宮仙女 索娜"
+    },
+    {
+        "source": "Arcade Sona",
+        "target": "電玩女神 索娜"
+    },
+    {
+        "source": "DJ Sona",
+        "target": "熱音 DJ 索娜"
+    },
+    {
+        "source": "Sweetheart Sona",
+        "target": "甜心琴人 索娜"
+    },
+    {
+        "source": "Odyssey Sona",
+        "target": "奧德賽 索娜"
+    },
+    {
+        "source": "PsyOps Sona",
+        "target": "靈戰特工 索娜"
+    },
+    {
+        "source": "Pentakill III: Lost Chapter Sona",
+        "target": "殺五社 III：失落之章 索娜"
+    },
+    {
+        "source": "Star Guardian Sona",
+        "target": "星光戰士 索娜"
+    },
+    {
+        "source": "Immortal Journey Sona",
+        "target": "劍仙：燦諧 索娜"
+    },
+    {
+        "source": "Prestige Immortal Journey Sona",
+        "target": "尊爵不凡 劍仙：燦諧 索娜"
+    },
+    {
+        "source": "Hymn of Valor",
+        "target": "英勇讚美詩"
+    },
+    {
+        "source": "Aria of Perseverance",
+        "target": "堅毅詠嘆調"
+    },
+    {
+        "source": "Song of Celerity",
+        "target": "迅捷奏鳴曲"
+    },
+    {
+        "source": "Crescendo",
+        "target": "狂舞終樂章"
+    },
+    {
+        "source": "Power Chord",
+        "target": "力量和絃"
+    },
+    {
+        "source": "Dryad Soraka",
+        "target": "森林女神 索拉卡"
+    },
+    {
+        "source": "Divine Soraka",
+        "target": "星空聖女 索拉卡"
+    },
+    {
+        "source": "Celestine Soraka",
+        "target": "祈月德拉妮 索拉卡"
+    },
+    {
+        "source": "Reaper Soraka",
+        "target": "開膛手 索拉卡"
+    },
+    {
+        "source": "Order of the Banana Soraka",
+        "target": "絕代香蕉 索拉卡"
+    },
+    {
+        "source": "Program Soraka",
+        "target": "人工智慧 索拉卡"
+    },
+    {
+        "source": "Star Guardian Soraka",
+        "target": "星光戰士 索拉卡"
+    },
+    {
+        "source": "Pajama Guardian Soraka",
+        "target": "星光睡衣趴 索拉卡"
+    },
+    {
+        "source": "Winter Wonder Soraka",
+        "target": "凜冬奇蹟 索拉卡"
+    },
+    {
+        "source": "Dawnbringer Soraka",
+        "target": "黎明使者 索拉卡"
+    },
+    {
+        "source": "Nightbringer Soraka",
+        "target": "闇夜使者 索拉卡"
+    },
+    {
+        "source": "Prestige Star Guardian Soraka",
+        "target": "尊爵不凡 星光戰士 索拉卡"
+    },
+    {
+        "source": "Cafe Cuties Soraka",
+        "target": "咖啡廳甜心 索拉卡"
+    },
+    {
+        "source": "Spirit Blossom Soraka",
+        "target": "靈花祭 索拉卡"
+    },
+    {
+        "source": "Immortal Journey Soraka",
+        "target": "劍仙：流觀 索拉卡"
+    },
+    {
+        "source": "Starcall",
+        "target": "殞星召喚"
+    },
+    {
+        "source": "Astral Infusion",
+        "target": "星之祝福"
+    },
+    {
+        "source": "Equinox",
+        "target": "寂靜星河"
+    },
+    {
+        "source": "Wish",
+        "target": "祈願"
+    },
+    {
+        "source": "Salvation",
+        "target": "群星指路"
+    },
+    {
+        "source": "Northern Front Swain",
+        "target": "北領前線 斯溫"
+    },
+    {
+        "source": "Bilgewater Swain",
+        "target": "海賊參謀 斯溫"
+    },
+    {
+        "source": "Tyrant Swain",
+        "target": "強權暴君 斯溫"
+    },
+    {
+        "source": "Dragon Master Swain",
+        "target": "喚龍魔君 斯溫"
+    },
+    {
+        "source": "Hextech Swain",
+        "target": "海克斯科技 斯溫"
+    },
+    {
+        "source": "Crystal Rose Swain",
+        "target": "水晶薔薇 斯溫"
+    },
+    {
+        "source": "Winterblessed Swain",
+        "target": "凜冬碎星 斯溫"
+    },
+    {
+        "source": "Death's Hand",
+        "target": "靈魂拷問"
+    },
+    {
+        "source": "Vision of Empire",
+        "target": "真知魔眼"
+    },
+    {
+        "source": "Nevermove",
+        "target": "影之爪"
+    },
+    {
+        "source": "Demonic Ascension",
+        "target": "魔君降生"
+    },
+    {
+        "source": "Ravenous Flock",
+        "target": "群鴉盛宴"
+    },
+    {
+        "source": "Lunar Wraith Sylas",
+        "target": "偃月狼君 賽勒斯"
+    },
+    {
+        "source": "Freljord Sylas",
+        "target": "弗雷爾卓德 賽勒斯"
+    },
+    {
+        "source": "PROJECT: Sylas",
+        "target": "菁英計畫：賽勒斯"
+    },
+    {
+        "source": "Prestige PROJECT: Sylas",
+        "target": "尊爵不凡 菁英計畫：賽勒斯"
+    },
+    {
+        "source": "Battle Wolf Sylas",
+        "target": "戰鬥狼男 賽勒斯"
+    },
+    {
+        "source": "Ashen Slayer Sylas",
+        "target": "死灰殺手 賽勒斯"
+    },
+    {
+        "source": "Chain Lash",
+        "target": "鍊斬"
+    },
+    {
+        "source": "Kingslayer",
+        "target": "弒君之道"
+    },
+    {
+        "source": "Abscond / Abduct",
+        "target": "逆罪突進 / 罪獄鍊罰"
+    },
+    {
+        "source": "Hijack",
+        "target": "盜技禁鍊"
+    },
+    {
+        "source": "Petricite Burst",
+        "target": "反魔法英石衝擊"
+    },
+    {
+        "source": "Justicar Syndra",
+        "target": "審判者 星朵拉"
+    },
+    {
+        "source": "Atlantean Syndra",
+        "target": "亞特蘭水巫 星朵拉"
+    },
+    {
+        "source": "Queen of Diamonds Syndra",
+        "target": "方塊皇后 星朵拉"
+    },
+    {
+        "source": "Snow Day Syndra",
+        "target": "霜降使者 星朵拉"
+    },
+    {
+        "source": "SKT T1 Syndra",
+        "target": "SKT T1 星朵拉"
+    },
+    {
+        "source": "Star Guardian Syndra",
+        "target": "星光戰士 星朵拉"
+    },
+    {
+        "source": "Pool Party Syndra",
+        "target": "泳池狂歡 星朵拉"
+    },
+    {
+        "source": "Withered Rose Syndra",
+        "target": "凋零薔薇 星朵拉"
+    },
+    {
+        "source": "Bewitching Syndra",
+        "target": "南瓜魔女 星朵拉"
+    },
+    {
+        "source": "Prestige Star Guardian Syndra",
+        "target": "尊爵不凡 星光戰士 星朵拉"
+    },
+    {
+        "source": "Spirit Blossom Syndra",
+        "target": "靈花祭 星朵拉"
+    },
+    {
+        "source": "Dark Sphere",
+        "target": "黑暗星體"
+    },
+    {
+        "source": "Force of Will",
+        "target": "意志之力"
+    },
+    {
+        "source": "Scatter the Weak",
+        "target": "虛弱潰散"
+    },
+    {
+        "source": "Unleashed Power",
+        "target": "超能解放"
+    },
+    {
+        "source": "Transcendent",
+        "target": "卓越"
+    },
+    {
+        "source": "Master Chef Tahm Kench",
+        "target": "特級廚師 貪啃奇"
+    },
+    {
+        "source": "Urf Kench",
+        "target": "焉知非福 貪啃奇"
+    },
+    {
+        "source": "Coin Emperor Tahm Kench",
+        "target": "財圓滾滾 貪啃奇"
+    },
+    {
+        "source": "Arcana Tahm Kench",
+        "target": "皇帝 貪啃奇"
+    },
+    {
+        "source": "High Noon Tahm Kench",
+        "target": "西域牛仔 貪啃奇"
+    },
+    {
+        "source": "Shan Hai Scrolls Tahm Kench",
+        "target": "山海卷軸 貪啃奇"
+    },
+    {
+        "source": "Tongue Lash",
+        "target": "毒舌"
+    },
+    {
+        "source": "Abyssal Dive",
+        "target": "遨遊深淵"
+    },
+    {
+        "source": "Thick Skin",
+        "target": "血多皮厚"
+    },
+    {
+        "source": "Devour",
+        "target": "大快朵頤"
+    },
+    {
+        "source": "An Acquired Taste",
+        "target": "品味獨到"
+    },
+    {
+        "source": "Freljord Taliyah",
+        "target": "急凍霜磐 塔莉雅"
+    },
+    {
+        "source": "SSG Taliyah",
+        "target": "SSG 塔莉雅"
+    },
+    {
+        "source": "Pool Party Taliyah",
+        "target": "泳池狂歡 塔莉雅"
+    },
+    {
+        "source": "Star Guardian Taliyah",
+        "target": "星光戰士 塔莉雅"
+    },
+    {
+        "source": "Crystalis Motus Taliyah",
+        "target": "水晶幻界 塔莉雅"
+    },
+    {
+        "source": "Threaded Volley",
+        "target": "旋舞飛岩"
+    },
+    {
+        "source": "Seismic Shove",
+        "target": "震地之擊"
+    },
+    {
+        "source": "Unraveled Earth",
+        "target": "碎裂地表"
+    },
+    {
+        "source": "Weaver's Wall",
+        "target": "編織者之牆"
+    },
+    {
+        "source": "Rock Surfing",
+        "target": "馭石之術"
+    },
+    {
+        "source": "Renegade Talon",
+        "target": "刺客教條 塔隆"
+    },
+    {
+        "source": "Crimson Elite Talon",
+        "target": "血色殺手 塔隆"
+    },
+    {
+        "source": "Dragonblade Talon",
+        "target": "銀龍殺手 塔隆"
+    },
+    {
+        "source": "SSW Talon",
+        "target": "SSW 塔隆"
+    },
+    {
+        "source": "Blood Moon Talon",
+        "target": "血月破刃 塔隆"
+    },
+    {
+        "source": "Enduring Sword Talon",
+        "target": "劍仙：般若 塔隆"
+    },
+    {
+        "source": "Talon Blackwood",
+        "target": "黯木刺客 塔隆"
+    },
+    {
+        "source": "Withered Rose Talon",
+        "target": "凋零薔薇 塔隆"
+    },
+    {
+        "source": "High Noon Talon",
+        "target": "西域牛仔 塔隆"
+    },
+    {
+        "source": "Prestige High Noon Talon",
+        "target": "尊爵不凡 西域牛仔 塔隆"
+    },
+    {
+        "source": "Noxian Diplomacy",
+        "target": "諾城王道"
+    },
+    {
+        "source": "Rake",
+        "target": "迴力匕首"
+    },
+    {
+        "source": "Assassin's Path",
+        "target": "刺客身法"
+    },
+    {
+        "source": "Shadow Assault",
+        "target": "暗影突襲"
+    },
+    {
+        "source": "Blade's End",
+        "target": "終焉殘刃"
+    },
+    {
+        "source": "Emerald Taric",
+        "target": "翡翠裝甲 塔里克"
+    },
+    {
+        "source": "Armor of the Fifth Age Taric",
+        "target": "金剛芭比 塔里克"
+    },
+    {
+        "source": "Bloodstone Taric",
+        "target": "血石戰甲 塔里克"
+    },
+    {
+        "source": "Pool Party Taric",
+        "target": "泳池狂歡 塔里克"
+    },
+    {
+        "source": "Taric Luminshield",
+        "target": "光輝聖盾 塔里克"
+    },
+    {
+        "source": "Space Groove Taric",
+        "target": "太空律動 塔里克"
+    },
+    {
+        "source": "Starlight's Touch",
+        "target": "星光之觸"
+    },
+    {
+        "source": "Bastion",
+        "target": "雙星壁壘"
+    },
+    {
+        "source": "Dazzle",
+        "target": "失能眩光"
+    },
+    {
+        "source": "Cosmic Radiance",
+        "target": "宇宙光彩"
+    },
+    {
+        "source": "Bravado",
+        "target": "智勇雙全"
+    },
+    {
+        "source": "Happy Elf Teemo",
+        "target": "聖誕妖精 提摩"
+    },
+    {
+        "source": "Recon Teemo",
+        "target": "斥候隊長 提摩"
+    },
+    {
+        "source": "Badger Teemo",
+        "target": "密林獵手 提摩"
+    },
+    {
+        "source": "Astronaut Teemo",
+        "target": "「約德爾人的一大步」"
+    },
+    {
+        "source": "Cottontail Teemo",
+        "target": "復活兔 提摩"
+    },
+    {
+        "source": "Super Teemo",
+        "target": "提摩超人"
+    },
+    {
+        "source": "Panda Teemo",
+        "target": "燒肉粽啊～燒肉粽～ 提摩"
+    },
+    {
+        "source": "Omega Squad Teemo",
+        "target": "戰爭機器 提摩"
+    },
+    {
+        "source": "Little Devil Teemo",
+        "target": "萬聖小惡摩"
+    },
+    {
+        "source": "Beemo",
+        "target": "蜂摩小太郎"
+    },
+    {
+        "source": "Spirit Blossom Teemo",
+        "target": "靈花祭 提摩"
+    },
+    {
+        "source": "Prestige Spirit Blossom Teemo",
+        "target": "尊爵不凡 靈花祭 提摩"
+    },
+    {
+        "source": "Firecracker Teemo",
+        "target": "虎歲承歡 提摩"
+    },
+    {
+        "source": "Space Groove Teemo",
+        "target": "太空律動 提摩"
+    },
+    {
+        "source": "Blinding Dart",
+        "target": "致盲吹箭"
+    },
+    {
+        "source": "Move Quick",
+        "target": "衝刺"
+    },
+    {
+        "source": "Toxic Shot",
+        "target": "劇毒射擊"
+    },
+    {
+        "source": "Noxious Trap",
+        "target": "毒性陷阱"
+    },
+    {
+        "source": "Guerrilla Warfare",
+        "target": "約德爾游擊隊"
+    },
+    {
+        "source": "Deep Terror Thresh",
+        "target": "惡靈恐懼 瑟雷西"
+    },
+    {
+        "source": "Championship Thresh",
+        "target": "永恆榮耀 瑟雷西"
+    },
+    {
+        "source": "Blood Moon Thresh",
+        "target": "血月鬼面 瑟雷西"
+    },
+    {
+        "source": "SSW Thresh",
+        "target": "SSW 瑟雷西"
+    },
+    {
+        "source": "Dark Star Thresh",
+        "target": "幽冥煞星 瑟雷西"
+    },
+    {
+        "source": "High Noon Thresh",
+        "target": "西域牛仔 瑟雷西"
+    },
+    {
+        "source": "Pulsefire Thresh",
+        "target": "脈衝火焰 瑟雷西"
+    },
+    {
+        "source": "Prestige Pulsefire Thresh",
+        "target": "尊爵不凡 脈衝火焰 瑟雷西"
+    },
+    {
+        "source": "FPX Thresh",
+        "target": "FPX 瑟雷西"
+    },
+    {
+        "source": "Spirit Blossom Thresh",
+        "target": "靈花祭 瑟雷西"
+    },
+    {
+        "source": "Unbound Thresh",
+        "target": "無拘無束 瑟雷西"
+    },
+    {
+        "source": "Steel Dragon Thresh",
+        "target": "灰鐵鋼龍 瑟雷西"
+    },
+    {
+        "source": "Prestige Pulsefire Thresh (2022)",
+        "target": "尊爵不凡 脈衝火焰 瑟雷西｜2022"
+    },
+    {
+        "source": "Lunar Emperor Thresh",
+        "target": "玄天大帝 瑟雷西"
+    },
+    {
+        "source": "Death Sentence",
+        "target": "死亡宣告"
+    },
+    {
+        "source": "Dark Passage",
+        "target": "鬼影燈籠"
+    },
+    {
+        "source": "Flay",
+        "target": "懾魂掃蕩"
+    },
+    {
+        "source": "The Box",
+        "target": "惡靈領域"
+    },
+    {
+        "source": "Damnation",
+        "target": "靈魂饗宴"
+    },
+    {
+        "source": "Riot Girl Tristana",
+        "target": "粉色蘿莉 崔絲塔娜"
+    },
+    {
+        "source": "Earnest Elf Tristana",
+        "target": "聖誕精靈 崔絲塔娜"
+    },
+    {
+        "source": "Firefighter Tristana",
+        "target": "烈火雄心 崔絲塔娜"
+    },
+    {
+        "source": "Guerilla Tristana",
+        "target": "第一滴血 崔絲塔娜"
+    },
+    {
+        "source": "Buccaneer Tristana",
+        "target": "獨眼海盜 崔絲塔娜"
+    },
+    {
+        "source": "Rocket Girl Tristana",
+        "target": "火箭女孩 崔絲塔娜"
+    },
+    {
+        "source": "Dragon Trainer Tristana",
+        "target": "馴龍高手 崔絲塔娜"
+    },
+    {
+        "source": "Bewitching Tristana",
+        "target": "見習女巫 崔絲塔娜"
+    },
+    {
+        "source": "Omega Squad Tristana",
+        "target": "戰爭機器 崔絲塔娜 "
+    },
+    {
+        "source": "Little Demon Tristana",
+        "target": "小小惡魔 崔絲塔娜 "
+    },
+    {
+        "source": "Pengu Cosplay Tristana",
+        "target": "我是鵝鵝騎士！ 崔絲塔娜"
+    },
+    {
+        "source": "Hextech Tristana",
+        "target": "海克斯科技 崔絲塔娜"
+    },
+    {
+        "source": "Firecracker Tristana",
+        "target": "福虎臨門 崔絲塔娜"
+    },
+    {
+        "source": "Spirit Blossom Tristana",
+        "target": "靈花祭 崔絲塔娜"
+    },
+    {
+        "source": "Rapid Fire",
+        "target": "急速射擊"
+    },
+    {
+        "source": "Rocket Jump",
+        "target": "火箭跳躍"
+    },
+    {
+        "source": "Explosive Charge",
+        "target": "爆炸射擊"
+    },
+    {
+        "source": "Buster Shot",
+        "target": "毀滅射擊"
+    },
+    {
+        "source": "Draw a Bead",
+        "target": "校準射擊"
+    },
+    {
+        "source": "Lil' Slugger Trundle",
+        "target": "第四棒打擊手 特朗德"
+    },
+    {
+        "source": "Junkyard Trundle",
+        "target": "垃圾巨人 特朗德"
+    },
+    {
+        "source": "Traditional Trundle",
+        "target": "元祖 特朗德"
+    },
+    {
+        "source": "Constable Trundle",
+        "target": "波力士大人 特朗德"
+    },
+    {
+        "source": "Worldbreaker Trundle",
+        "target": "文明末日 特朗德"
+    },
+    {
+        "source": "Dragonslayer Trundle",
+        "target": "弒龍勇士 特朗德"
+    },
+    {
+        "source": "Fright Night Trundle",
+        "target": "午夜驚魂 特朗德"
+    },
+    {
+        "source": "Chomp",
+        "target": "狂野撕咬"
+    },
+    {
+        "source": "Frozen Domain",
+        "target": "極凍領地"
+    },
+    {
+        "source": "Pillar of Ice",
+        "target": "狡詰冰柱"
+    },
+    {
+        "source": "Subjugate",
+        "target": "盛怒霸體"
+    },
+    {
+        "source": "King's Tribute",
+        "target": "帝王獻祭"
+    },
+    {
+        "source": "Highland Tryndamere",
+        "target": "高地勇士 泰達米爾"
+    },
+    {
+        "source": "King Tryndamere",
+        "target": "冰原王者 泰達米爾"
+    },
+    {
+        "source": "Viking Tryndamere",
+        "target": "維京蠻王 泰達米爾"
+    },
+    {
+        "source": "Demonblade Tryndamere",
+        "target": "魔劍蠻王 泰達米爾"
+    },
+    {
+        "source": "Sultan Tryndamere",
+        "target": "征服者 泰達米爾"
+    },
+    {
+        "source": "Warring Kingdoms Tryndamere",
+        "target": "武聖關雲長 泰達米爾"
+    },
+    {
+        "source": "Nightmare Tryndamere",
+        "target": "憤怒夢魘 泰達米爾"
+    },
+    {
+        "source": "Beast Hunter Tryndamere",
+        "target": "獸魔獵人 泰達米爾"
+    },
+    {
+        "source": "Chemtech Tryndamere",
+        "target": "生化戰士 泰達米爾"
+    },
+    {
+        "source": "Blood Moon Tryndamere",
+        "target": "血月狂刀 泰達米爾"
+    },
+    {
+        "source": "Nightbringer Tryndamere",
+        "target": "闇夜使者 泰達米爾"
+    },
+    {
+        "source": "Bloodlust",
+        "target": "嗜血殺戮"
+    },
+    {
+        "source": "Mocking Shout",
+        "target": "嘲諷"
+    },
+    {
+        "source": "Spinning Slash",
+        "target": "旋風斬"
+    },
+    {
+        "source": "Undying Rage",
+        "target": "無盡怒火"
+    },
+    {
+        "source": "Battle Fury",
+        "target": "戰鬥狂怒"
+    },
+    {
+        "source": "PAX Twisted Fate",
+        "target": "藍色憂鬱 逆命"
+    },
+    {
+        "source": "Jack of Hearts Twisted Fate",
+        "target": "紅桃傑克 逆命"
+    },
+    {
+        "source": "The Magnificent Twisted Fate",
+        "target": "魔幻卡牌 逆命"
+    },
+    {
+        "source": "Tango Twisted Fate",
+        "target": "探戈靈魂 逆命"
+    },
+    {
+        "source": "High Noon Twisted Fate",
+        "target": "德州撲克 逆命"
+    },
+    {
+        "source": "Musketeer Twisted Fate",
+        "target": "卡牌劍客 逆命"
+    },
+    {
+        "source": "Underworld Twisted Fate",
+        "target": "異界獵手 逆命"
+    },
+    {
+        "source": "Red Card Twisted Fate",
+        "target": "紅牌！！ 逆命"
+    },
+    {
+        "source": "Cutpurse Twisted Fate",
+        "target": "黑街竊賊 逆命"
+    },
+    {
+        "source": "Blood Moon Twisted Fate",
+        "target": "血月天機 逆命"
+    },
+    {
+        "source": "Pulsefire Twisted Fate",
+        "target": "脈衝火焰 逆命"
+    },
+    {
+        "source": "Odyssey Twisted Fate",
+        "target": "奧德賽 逆命"
+    },
+    {
+        "source": "DWG Twisted Fate",
+        "target": "DWG 逆命"
+    },
+    {
+        "source": "Crime City Nightmare Twisted Fate",
+        "target": "罪惡城市噩夢 逆命"
+    },
+    {
+        "source": "Space Groove Twisted Fate",
+        "target": "太空律動 逆命"
+    },
+    {
+        "source": "Wild Cards",
+        "target": "萬能牌"
+    },
+    {
+        "source": "Pick a Card",
+        "target": "選牌"
+    },
+    {
+        "source": "Stacked Deck",
+        "target": "卡牌騙術"
+    },
+    {
+        "source": "Destiny",
+        "target": "命運"
+    },
+    {
+        "source": "Loaded Dice",
+        "target": "灌鉛骰子"
+    },
+    {
+        "source": "Kingpin Twitch",
+        "target": "老鼠之王 圖奇"
+    },
+    {
+        "source": "Whistler Village Twitch",
+        "target": "北風凍原 圖奇"
+    },
+    {
+        "source": "Medieval Twitch",
+        "target": "中世紀盜賊 圖奇"
+    },
+    {
+        "source": "Crime City Twitch",
+        "target": "罪惡城市 圖奇"
+    },
+    {
+        "source": "Vandal Twitch",
+        "target": "野蠻龐克 圖奇"
+    },
+    {
+        "source": "Pickpocket Twitch",
+        "target": "妙手空空 圖奇"
+    },
+    {
+        "source": "SSW Twitch",
+        "target": "SSW 圖奇"
+    },
+    {
+        "source": "Omega Squad Twitch",
+        "target": "戰爭機器 圖奇"
+    },
+    {
+        "source": "Ice King Twitch",
+        "target": "冰霜之王 圖奇"
+    },
+    {
+        "source": "Twitch Shadowfoot",
+        "target": "影足神弩 圖奇"
+    },
+    {
+        "source": "Dragonslayer Twitch",
+        "target": "弒龍弩士 圖奇"
+    },
+    {
+        "source": "High Noon Twitch",
+        "target": "西域牛仔 圖奇"
+    },
+    {
+        "source": "Ambush",
+        "target": "潛伏"
+    },
+    {
+        "source": "Venom Cask",
+        "target": "虛弱之毒"
+    },
+    {
+        "source": "Contaminate",
+        "target": "毒性爆發"
+    },
+    {
+        "source": "Spray and Pray",
+        "target": "噴射，然後祈禱吧！"
+    },
+    {
+        "source": "Deadly Venom",
+        "target": "死亡毒液"
+    },
+    {
+        "source": "Black Belt Udyr",
+        "target": "黑帶高手 烏迪爾"
+    },
+    {
+        "source": "Primal Udyr",
+        "target": "百獸戰隊 烏迪爾"
+    },
+    {
+        "source": "Spirit Guard Udyr",
+        "target": "極獸霸魂 烏迪爾"
+    },
+    {
+        "source": "Definitely Not Udyr",
+        "target": "我不是烏迪爾"
+    },
+    {
+        "source": "Dragon Oracle Udyr",
+        "target": "神龍之諭 烏迪爾"
+    },
+    {
+        "source": "Inkshadow Udyr",
+        "target": "墨影戰士 烏迪爾"
+    },
+    {
+        "source": "Wilding Claw",
+        "target": "野蠻利爪"
+    },
+    {
+        "source": "Iron Mantle",
+        "target": "鋼筋鐵骨"
+    },
+    {
+        "source": "Blazing Stampede",
+        "target": "熾熱衝撞"
+    },
+    {
+        "source": "Wingborne Storm",
+        "target": "霜翼風暴"
+    },
+    {
+        "source": "Bridge Between",
+        "target": "人神一體"
+    },
+    {
+        "source": "Giant Enemy Crabgot",
+        "target": "深淵巨蟹 烏爾加特"
+    },
+    {
+        "source": "Butcher Urgot",
+        "target": "電鋸狂人 烏爾加特"
+    },
+    {
+        "source": "Battlecast Urgot",
+        "target": "全武裝機兵 烏爾加特"
+    },
+    {
+        "source": "High Noon Urgot",
+        "target": "西域牛仔 烏爾加特"
+    },
+    {
+        "source": "Pajama Guardian Cosplay Urgot",
+        "target": "我要參加星光睡衣趴！ 烏爾加特"
+    },
+    {
+        "source": "Fright Night Urgot",
+        "target": "午夜驚魂 烏爾加特"
+    },
+    {
+        "source": "Corrosive Charge",
+        "target": "酸性榴彈"
+    },
+    {
+        "source": "Purge",
+        "target": "殺戮射擊"
+    },
+    {
+        "source": "Disdain",
+        "target": "恐怖襲擊"
+    },
+    {
+        "source": "Fear Beyond Death",
+        "target": "索命虐殺"
+    },
+    {
+        "source": "Echoing Flames",
+        "target": "振盪火砲"
+    },
+    {
+        "source": "Blight Crystal Varus",
+        "target": "絕望結晶 法洛士"
+    },
+    {
+        "source": "Arclight Varus",
+        "target": "弧光獵人 法洛士 "
+    },
+    {
+        "source": "Arctic Ops Varus",
+        "target": "雪嶺突襲 法洛士"
+    },
+    {
+        "source": "Heartseeker Varus",
+        "target": "愛情獵人 法洛士"
+    },
+    {
+        "source": "Varus Swiftbolt",
+        "target": "迅捷獵人 法洛士"
+    },
+    {
+        "source": "Dark Star Varus",
+        "target": "幽冥煞星 法洛士"
+    },
+    {
+        "source": "Conqueror Varus",
+        "target": "征服霸者 法洛士"
+    },
+    {
+        "source": "Infernal Varus",
+        "target": "地獄火 法洛士"
+    },
+    {
+        "source": "PROJECT: Varus",
+        "target": "菁英計畫：法洛士"
+    },
+    {
+        "source": "Cosmic Hunter Varus",
+        "target": "星河獵戶 法洛士"
+    },
+    {
+        "source": "High Noon Varus",
+        "target": "西域牛仔 法洛士"
+    },
+    {
+        "source": "Snow Moon Varus",
+        "target": "雪月射手 法洛士"
+    },
+    {
+        "source": "Piercing Arrow",
+        "target": "破甲箭"
+    },
+    {
+        "source": "Blighted Quiver",
+        "target": "荒蕪箭袋"
+    },
+    {
+        "source": "Hail of Arrows",
+        "target": "腐敗箭雨"
+    },
+    {
+        "source": "Chain of Corruption",
+        "target": "墮落連鎖"
+    },
+    {
+        "source": "Living Vengeance",
+        "target": "復仇怒火"
+    },
+    {
+        "source": "Vindicator Vayne",
+        "target": "魔兵獵人 汎"
+    },
+    {
+        "source": "Aristocrat Vayne",
+        "target": "吸血鬼獵人 汎"
+    },
+    {
+        "source": "Dragonslayer Vayne",
+        "target": "弒龍獵人 汎"
+    },
+    {
+        "source": "Heartseeker Vayne",
+        "target": "愛情獵人 汎"
+    },
+    {
+        "source": "SKT T1 Vayne",
+        "target": "SKT T1 汎"
+    },
+    {
+        "source": "Arclight Vayne",
+        "target": "弧光獵人 汎"
+    },
+    {
+        "source": "Soulstealer Vayne",
+        "target": "竊魂獵人 汎"
+    },
+    {
+        "source": "PROJECT: Vayne",
+        "target": "菁英計畫：汎"
+    },
+    {
+        "source": "Firecracker Vayne",
+        "target": "豬汎順遂 汎"
+    },
+    {
+        "source": "Prestige Firecracker Vayne",
+        "target": "尊爵不凡 豬汎順遂 汎"
+    },
+    {
+        "source": "Spirit Blossom Vayne",
+        "target": "靈花祭 汎"
+    },
+    {
+        "source": "FPX Vayne",
+        "target": "FPX 汎"
+    },
+    {
+        "source": "Sentinel Vayne",
+        "target": "光之哨兵 汎"
+    },
+    {
+        "source": "Battle Bat Vayne",
+        "target": "戰鬥蝙蝠女 汎"
+    },
+    {
+        "source": "Prestige Firecracker Vayne (2022)",
+        "target": "尊爵不凡 豬汎順遂 汎｜2022"
+    },
+    {
+        "source": "Dawnbringer Vayne",
+        "target": "黎明使者 汎"
+    },
+    {
+        "source": "Tumble",
+        "target": "翻滾瞄準"
+    },
+    {
+        "source": "Silver Bolts",
+        "target": "神聖銀箭"
+    },
+    {
+        "source": "Condemn",
+        "target": "重型弩箭"
+    },
+    {
+        "source": "Final Hour",
+        "target": "死亡通緝"
+    },
+    {
+        "source": "Night Hunter",
+        "target": "夜之狩獵"
+    },
+    {
+        "source": "White Mage Veigar",
+        "target": "白魔導 維迦"
+    },
+    {
+        "source": "Curling Veigar",
+        "target": "冰壺選手 維迦"
+    },
+    {
+        "source": "Veigar Greybeard",
+        "target": "魔戒灰袍 維迦"
+    },
+    {
+        "source": "Leprechaun Veigar",
+        "target": "鬼精靈 維迦"
+    },
+    {
+        "source": "Baron Von Veigar",
+        "target": "機械男爵 維迦"
+    },
+    {
+        "source": "Superb Villain Veigar",
+        "target": "犯罪天才 維迦"
+    },
+    {
+        "source": "Bad Santa Veigar",
+        "target": "聖誕壞公公 維迦"
+    },
+    {
+        "source": "Final Boss Veigar",
+        "target": "終界魔王 維迦"
+    },
+    {
+        "source": "Omega Squad Veigar",
+        "target": "戰爭機器 維迦"
+    },
+    {
+        "source": "Elderwood Veigar",
+        "target": "神木精靈 維迦"
+    },
+    {
+        "source": "Furyhorn Cosplay Veigar",
+        "target": "我是怒角羊！ 維迦"
+    },
+    {
+        "source": "Astronaut Veigar",
+        "target": "太空約德爾人 維迦"
+    },
+    {
+        "source": "Monster Tamer Veigar",
+        "target": "寶貝訓練家 維迦"
+    },
+    {
+        "source": "Baleful Strike",
+        "target": "黑暗祭祀"
+    },
+    {
+        "source": "Dark Matter",
+        "target": "黑暗物質"
+    },
+    {
+        "source": "Event Horizon",
+        "target": "扭曲空間"
+    },
+    {
+        "source": "Primordial Burst",
+        "target": "能量爆裂"
+    },
+    {
+        "source": "Phenomenal Evil Power",
+        "target": "極度邪惡能量"
+    },
+    {
+        "source": "Battlecast Vel'Koz",
+        "target": "狂派機甲 威寇茲"
+    },
+    {
+        "source": "Arclight Vel'Koz",
+        "target": "聖堂星靈 威寇茲"
+    },
+    {
+        "source": "Definitely Not Vel'Koz",
+        "target": "我不是威寇茲"
+    },
+    {
+        "source": "Infernal Vel'Koz",
+        "target": "地獄火 威寇茲"
+    },
+    {
+        "source": "Blackfrost Vel'Koz",
+        "target": "黯雪魔眼 威寇茲"
+    },
+    {
+        "source": "Plasma Fission",
+        "target": "分裂電漿"
+    },
+    {
+        "source": "Void Rift",
+        "target": "虛空裂痕"
+    },
+    {
+        "source": "Tectonic Disruption",
+        "target": "反物質瓦解"
+    },
+    {
+        "source": "Life Form Disintegration Ray",
+        "target": "生化射線"
+    },
+    {
+        "source": "Organic Deconstruction",
+        "target": "結構毀滅"
+    },
+    {
+        "source": "Dawnbringer Vex",
+        "target": "黎明使者 薇可絲"
+    },
+    {
+        "source": "Empyrean Vex",
+        "target": "宇宙幻焰 薇可絲"
+    },
+    {
+        "source": "Mistral Bolt",
+        "target": "冷酷暗箭"
+    },
+    {
+        "source": "Personal Space",
+        "target": "個人舒適圈"
+    },
+    {
+        "source": "Looming Darkness",
+        "target": "闇黑迫近"
+    },
+    {
+        "source": "Shadow Surge",
+        "target": "飛影急襲"
+    },
+    {
+        "source": "Doom 'n Gloom",
+        "target": "無望厄障"
+    },
+    {
+        "source": "Neon Strike Vi",
+        "target": "炫彩狂襲 菲艾"
+    },
+    {
+        "source": "Officer Vi",
+        "target": "火爆警官 菲艾"
+    },
+    {
+        "source": "Debonair Vi",
+        "target": "決勝賭豪 菲艾"
+    },
+    {
+        "source": "Demon Vi",
+        "target": "地獄特警 菲艾"
+    },
+    {
+        "source": "Warring Kingdoms Vi",
+        "target": "鐵腕梟姬 孫尚香"
+    },
+    {
+        "source": "PROJECT: Vi",
+        "target": "菁英計畫：菲艾"
+    },
+    {
+        "source": "Heartbreaker Vi",
+        "target": "穿心拳婦 菲艾"
+    },
+    {
+        "source": "PsyOps Vi",
+        "target": "靈戰特工 菲艾"
+    },
+    {
+        "source": "Arcane Vi",
+        "target": "奧術刑警 菲艾"
+    },
+    {
+        "source": "Heartache Vi",
+        "target": "痛心情人 菲艾"
+    },
+    {
+        "source": "Vault Breaker",
+        "target": "蓄能衝擊"
+    },
+    {
+        "source": "Denting Blows",
+        "target": "三重極限"
+    },
+    {
+        "source": "Relentless Force",
+        "target": "粉碎震波"
+    },
+    {
+        "source": "Cease and Desist",
+        "target": "火瀑連擊"
+    },
+    {
+        "source": "Blast Shield",
+        "target": "爆破武裝"
+    },
+    {
+        "source": "Lunar Beast Viego",
+        "target": "牛年特戰隊 維爾戈"
+    },
+    {
+        "source": "Dissonance of Pentakill Viego",
+        "target": "殺五社異音 維爾戈"
+    },
+    {
+        "source": "EDG Viego",
+        "target": "EDG 維爾戈"
+    },
+    {
+        "source": "King Viego",
+        "target": "王者 維爾戈"
+    },
+    {
+        "source": "Soul Fighter Viego",
+        "target": "戰魂鬥士 維爾戈"
+    },
+    {
+        "source": "Blade of the Ruined King",
+        "target": "殞落王者之劍"
+    },
+    {
+        "source": "Spectral Maw",
+        "target": "冥魂之噬"
+    },
+    {
+        "source": "Harrowed Path",
+        "target": "幽影之徑"
+    },
+    {
+        "source": "Heartbreaker",
+        "target": "破心者"
+    },
+    {
+        "source": "Sovereign's Domination",
+        "target": "王權統御"
+    },
+    {
+        "source": "Full Machine Viktor",
+        "target": "完全機械使徒 維克特"
+    },
+    {
+        "source": "Prototype Viktor",
+        "target": "原型機械使徒 維克特"
+    },
+    {
+        "source": "Creator Viktor",
+        "target": "重裝狂徒 維克特"
+    },
+    {
+        "source": "Death Sworn Viktor",
+        "target": "死誓 維克特"
+    },
+    {
+        "source": "PsyOps Viktor",
+        "target": "靈戰特工 維克特"
+    },
+    {
+        "source": "High Noon Viktor",
+        "target": "西域牛仔 維克特"
+    },
+    {
+        "source": "Siphon Power",
+        "target": "能量守恆"
+    },
+    {
+        "source": "Gravity Field",
+        "target": "萬有引力產生裝置"
+    },
+    {
+        "source": "Death Ray",
+        "target": "死亡射線"
+    },
+    {
+        "source": "Chaos Storm",
+        "target": "渾沌風暴"
+    },
+    {
+        "source": "Glorious Evolution",
+        "target": "榮光進化"
+    },
+    {
+        "source": "Count Vladimir",
+        "target": "腥紅伯爵 弗拉迪米爾"
+    },
+    {
+        "source": "Marquis Vladimir",
+        "target": "血之侯爵 弗拉迪米爾"
+    },
+    {
+        "source": "Nosferatu Vladimir",
+        "target": "吸血鬼 弗拉迪米爾"
+    },
+    {
+        "source": "Vandal Vladimir",
+        "target": "惡靈戰警 弗拉迪米爾"
+    },
+    {
+        "source": "Blood Lord Vladimir",
+        "target": "血之魔王 弗拉迪米爾"
+    },
+    {
+        "source": "Soulstealer Vladimir",
+        "target": "竊魂術士 弗拉迪米爾"
+    },
+    {
+        "source": "Academy Vladimir",
+        "target": "菁英學院 弗拉迪米爾"
+    },
+    {
+        "source": "Dark Waters Vladimir",
+        "target": "幽黯死海 弗拉迪米爾"
+    },
+    {
+        "source": "Nightbringer Vladimir",
+        "target": "闇夜使者 弗拉迪米爾"
+    },
+    {
+        "source": "Cosmic Devourer Vladimir",
+        "target": "星河波江 弗拉迪米爾"
+    },
+    {
+        "source": "Cafe Cuties Vladimir",
+        "target": "咖啡廳執事 弗拉迪米爾"
+    },
+    {
+        "source": "Broken Covenant Vladimir",
+        "target": "破碎盟約 弗拉迪米爾"
+    },
+    {
+        "source": "Transfusion",
+        "target": "鮮血轉換"
+    },
+    {
+        "source": "Sanguine Pool",
+        "target": "血紅之池"
+    },
+    {
+        "source": "Tides of Blood",
+        "target": "血之潮汐"
+    },
+    {
+        "source": "Hemoplague",
+        "target": "血之瘟疫"
+    },
+    {
+        "source": "Crimson Pact",
+        "target": "血色契約"
+    },
+    {
+        "source": "Thunder Lord Volibear",
+        "target": "雷霆至尊 弗力貝爾"
+    },
+    {
+        "source": "Northern Storm Volibear",
+        "target": "北極風暴 弗力貝爾"
+    },
+    {
+        "source": "Runeguard Volibear",
+        "target": "符文護衛 弗力貝爾"
+    },
+    {
+        "source": "Captain Volibear",
+        "target": "波力士大人 弗力貝爾"
+    },
+    {
+        "source": "El Rayo Volibear",
+        "target": "雷霆筋肉人 弗力貝爾"
+    },
+    {
+        "source": "The Thousand-Pierced Bear",
+        "target": "千錘百鍊之熊"
+    },
+    {
+        "source": "Duality Dragon Volibear",
+        "target": "雙相古龍 弗力貝爾"
+    },
+    {
+        "source": "Prestige Duality Dragon Volibear",
+        "target": "尊爵不凡 雙相古龍 弗力貝爾"
+    },
+    {
+        "source": "Inkshadow Volibear",
+        "target": "墨影戰士 弗力貝爾"
+    },
+    {
+        "source": "Thundering Smash",
+        "target": "雷霆貫擊"
+    },
+    {
+        "source": "Frenzied Maul",
+        "target": "狂熊撕咬"
+    },
+    {
+        "source": "Sky Splitter",
+        "target": "蒼穹裂隙"
+    },
+    {
+        "source": "Stormbringer",
+        "target": "風暴使者"
+    },
+    {
+        "source": "The Relentless Storm",
+        "target": "無情風暴"
+    },
+    {
+        "source": "Grey Warwick",
+        "target": "灰影狼人 沃維克"
+    },
+    {
+        "source": "Urf the Manatee",
+        "target": "阿福之魂 沃維克"
+    },
+    {
+        "source": "Big Bad Warwick",
+        "target": "狼外婆 沃維克"
+    },
+    {
+        "source": "Tundra Hunter Warwick",
+        "target": "凍原獵手 沃維克"
+    },
+    {
+        "source": "Feral Warwick",
+        "target": "嗜血狂暴 沃維克"
+    },
+    {
+        "source": "Firefang Warwick",
+        "target": "火牙戰狼 沃維克"
+    },
+    {
+        "source": "Hyena Warwick",
+        "target": "豺狼精英 沃維克"
+    },
+    {
+        "source": "Marauder Warwick",
+        "target": "劫掠狂牙 沃維克"
+    },
+    {
+        "source": "Urfwick",
+        "target": "新・阿福之魂 沃維克"
+    },
+    {
+        "source": "Lunar Guardian Warwick",
+        "target": "玄天衛士 沃維克"
+    },
+    {
+        "source": "PROJECT: Warwick",
+        "target": "菁英計畫：沃維克"
+    },
+    {
+        "source": "Old God Warwick",
+        "target": "古神 沃維克 "
+    },
+    {
+        "source": "Winterblessed Warwick",
+        "target": "凜冬碎星 沃維克"
+    },
+    {
+        "source": "Prestige Winterblessed Warwick",
+        "target": "尊爵不凡 凜冬碎星 沃維克"
+    },
+    {
+        "source": "Jaws of the Beast",
+        "target": "猛獸狂顎"
+    },
+    {
+        "source": "Blood Hunt",
+        "target": "血跡獵蹤"
+    },
+    {
+        "source": "Primal Howl",
+        "target": "本能怒嚎"
+    },
+    {
+        "source": "Infinite Duress",
+        "target": "無盡束縛"
+    },
+    {
+        "source": "Eternal Hunger",
+        "target": "永恆飢渴"
+    },
+    {
+        "source": "Cosmic Dusk Xayah",
+        "target": "星河暮羽 剎雅"
+    },
+    {
+        "source": "Sweetheart Xayah",
+        "target": "比翼甜心 剎雅"
+    },
+    {
+        "source": "SSG Xayah",
+        "target": "SSG 剎雅"
+    },
+    {
+        "source": "Star Guardian Xayah",
+        "target": "星光戰士 剎雅"
+    },
+    {
+        "source": "Elderwood Xayah",
+        "target": "神木精靈 剎雅"
+    },
+    {
+        "source": "Brave Phoenix Xayah",
+        "target": "英勇飛凰 剎雅"
+    },
+    {
+        "source": "Prestige Brave Phoenix Xayah",
+        "target": "尊爵不凡 英勇飛凰 剎雅"
+    },
+    {
+        "source": "Arcana Xayah",
+        "target": "戀人 剎雅"
+    },
+    {
+        "source": "Broken Covenant Xayah",
+        "target": "破碎盟約 剎雅"
+    },
+    {
+        "source": "Double Daggers",
+        "target": "赤落連匕"
+    },
+    {
+        "source": "Deadly Plumage",
+        "target": "奪命疾翼"
+    },
+    {
+        "source": "Bladecaller",
+        "target": "漫天血刃"
+    },
+    {
+        "source": "Featherstorm",
+        "target": "驟羽暴風"
+    },
+    {
+        "source": "Clean Cuts",
+        "target": "一翦兩斷"
+    },
+    {
+        "source": "Runeborn Xerath",
+        "target": "符文魔導 齊勒斯"
+    },
+    {
+        "source": "Battlecast Xerath",
+        "target": "科技魔導 齊勒斯"
+    },
+    {
+        "source": "Scorched Earth Xerath",
+        "target": "滅世焦土 齊勒斯"
+    },
+    {
+        "source": "Guardian of the Sands Xerath",
+        "target": "砂漠魔導 齊勒斯"
+    },
+    {
+        "source": "Dark Star Xerath",
+        "target": "幽冥煞星 齊勒斯"
+    },
+    {
+        "source": "Arcana Xerath",
+        "target": "惡魔 齊勒斯"
+    },
+    {
+        "source": "Astronaut Xerath",
+        "target": "太空魔導 齊勒斯"
+    },
+    {
+        "source": "Arcanopulse",
+        "target": "祕術脈衝"
+    },
+    {
+        "source": "Eye of Destruction",
+        "target": "毀滅之眼"
+    },
+    {
+        "source": "Shocking Orb",
+        "target": "幻魔打擊"
+    },
+    {
+        "source": "Rite of the Arcane",
+        "target": "魔導祭典"
+    },
+    {
+        "source": "Mana Surge",
+        "target": "祕術強襲"
+    },
+    {
+        "source": "Commando Xin Zhao",
+        "target": "魔鬼司令 趙信"
+    },
+    {
+        "source": "Imperial Xin Zhao",
+        "target": "皇家守衛 趙信"
+    },
+    {
+        "source": "Viscero Xin Zhao",
+        "target": "角鬥士 趙信"
+    },
+    {
+        "source": "Winged Hussar Xin Zhao",
+        "target": "翼騎兵 趙信"
+    },
+    {
+        "source": "Warring Kingdoms Xin Zhao",
+        "target": "常山趙子龍 趙信"
+    },
+    {
+        "source": "Secret Agent Xin Zhao",
+        "target": "金牌特工 趙信"
+    },
+    {
+        "source": "Dragonslayer Xin Zhao",
+        "target": "弒龍鬥士 趙信 "
+    },
+    {
+        "source": "Cosmic Defender Xin Zhao",
+        "target": "星河戰士 趙信"
+    },
+    {
+        "source": "Marauder Xin Zhao",
+        "target": "劫掠魔槍 趙信"
+    },
+    {
+        "source": "Firecracker Xin Zhao",
+        "target": "銀虎賀歲 趙信"
+    },
+    {
+        "source": "Three Talon Strike",
+        "target": "三重爪擊"
+    },
+    {
+        "source": "Wind Becomes Lightning",
+        "target": "風雷迅馳"
+    },
+    {
+        "source": "Audacious Charge",
+        "target": "一騎當先"
+    },
+    {
+        "source": "Crescent Guard",
+        "target": "新月無雙"
+    },
+    {
+        "source": "Determination",
+        "target": "鬥戰決心"
+    },
+    {
+        "source": "High Noon Yasuo",
+        "target": "西域牛仔 犽宿"
+    },
+    {
+        "source": "PROJECT: Yasuo",
+        "target": "菁英計畫：犽宿"
+    },
+    {
+        "source": "Blood Moon Yasuo",
+        "target": "血月劍心 犽宿"
+    },
+    {
+        "source": "Nightbringer Yasuo",
+        "target": "闇夜使者 犽宿"
+    },
+    {
+        "source": "Odyssey Yasuo",
+        "target": "奧德賽 犽宿"
+    },
+    {
+        "source": "Battle Boss Yasuo",
+        "target": "戰鬥魔王 犽宿"
+    },
+    {
+        "source": "True Damage Yasuo",
+        "target": "True Damage 犽宿"
+    },
+    {
+        "source": "Prestige True Damage Yasuo",
+        "target": "尊爵不凡 True Damage 犽宿"
+    },
+    {
+        "source": "Spirit Blossom Yasuo",
+        "target": "靈花祭 犽宿"
+    },
+    {
+        "source": "Sea Dog Yasuo",
+        "target": "老練水手 犽宿"
+    },
+    {
+        "source": "Truth Dragon Yasuo",
+        "target": "絕劍真龍 犽宿"
+    },
+    {
+        "source": "Dream Dragon Yasuo",
+        "target": "幻劍神龍 犽宿"
+    },
+    {
+        "source": "Inkshadow Yasuo",
+        "target": "墨影戰士 犽宿"
+    },
+    {
+        "source": "Prestige Inkshadow Yasuo",
+        "target": "尊爵不凡 墨影戰士 犽宿"
+    },
+    {
+        "source": "Steel Tempest",
+        "target": "鋼鐵暴雪"
+    },
+    {
+        "source": "Wind Wall",
+        "target": "風牆鐵壁"
+    },
+    {
+        "source": "Sweeping Blade",
+        "target": "刃敵千軍"
+    },
+    {
+        "source": "Last Breath",
+        "target": "奪命氣息"
+    },
+    {
+        "source": "Way of the Wanderer",
+        "target": "浪人之道"
+    },
+    {
+        "source": "Spirit Blossom Yone",
+        "target": "靈花祭 犽凝"
+    },
+    {
+        "source": "Battle Academia Yone",
+        "target": "戰爭學院 犽凝"
+    },
+    {
+        "source": "Dawnbringer Yone",
+        "target": "黎明使者 犽凝"
+    },
+    {
+        "source": "Ocean Song Yone",
+        "target": "海洋之歌 犽凝"
+    },
+    {
+        "source": "Inkshadow Yone",
+        "target": "墨影戰士 犽凝"
+    },
+    {
+        "source": "Mortal Steel",
+        "target": "鋼鐵凡志"
+    },
+    {
+        "source": "Spirit Cleave",
+        "target": "滅魂斬"
+    },
+    {
+        "source": "Soul Unbound",
+        "target": "釋魂之刃"
+    },
+    {
+        "source": "Fate Sealed",
+        "target": "二刀流奧義 ─ 封‧命‧斬"
+    },
+    {
+        "source": "Way of the Hunter",
+        "target": "獵人之道"
+    },
+    {
+        "source": "Undertaker Yorick",
+        "target": "擺渡人 約瑞科"
+    },
+    {
+        "source": "Pentakill Yorick",
+        "target": "殺五社 約瑞科"
+    },
+    {
+        "source": "Arclight Yorick",
+        "target": "弧光牧者 約瑞科"
+    },
+    {
+        "source": "Meowrick",
+        "target": "喵瑞科"
+    },
+    {
+        "source": "Resistance Yorick",
+        "target": "鋼鐵叛軍 約瑞科"
+    },
+    {
+        "source": "Pentakill III: Lost Chapter Yorick",
+        "target": "殺五社 III：失落之章 約瑞科"
+    },
+    {
+        "source": "Spirit Blossom Yorick",
+        "target": "靈花祭 約瑞科"
+    },
+    {
+        "source": "Last Rites",
+        "target": "臨終葬儀"
+    },
+    {
+        "source": "Dark Procession",
+        "target": "黯影屍陣"
+    },
+    {
+        "source": "Mourning Mist",
+        "target": "悲鳴瘴霧"
+    },
+    {
+        "source": "Eulogy of the Isles",
+        "target": "荒島輓歌"
+    },
+    {
+        "source": "Shepherd of Souls",
+        "target": "亡魂牧人"
+    },
+    {
+        "source": "Battle Principal Yuumi",
+        "target": "戰爭院長 悠咪"
+    },
+    {
+        "source": "Heartseeker Yuumi",
+        "target": "尋愛萌喵 悠咪"
+    },
+    {
+        "source": "Yuubee",
+        "target": "蜜蜜花園 悠蜜"
+    },
+    {
+        "source": "Bewitching Yuumi",
+        "target": "萬聖靈貓 悠咪"
+    },
+    {
+        "source": "EDG Yuumi",
+        "target": "EDG 悠咪"
+    },
+    {
+        "source": "Shiba Yuumi",
+        "target": "可愛萌柴 悠咪"
+    },
+    {
+        "source": "Prowling Projectile",
+        "target": "奇幻圖騰"
+    },
+    {
+        "source": "You and Me!",
+        "target": "飛撲抱抱！"
+    },
+    {
+        "source": "Zoomies",
+        "target": "蹦蹦衝刺"
+    },
+    {
+        "source": "Final Chapter",
+        "target": "最終篇章"
+    },
+    {
+        "source": "Feline Friendship",
+        "target": "貓貓摯友"
+    },
+    {
+        "source": "Special Weapon Zac",
+        "target": "泥臭臭 札克"
+    },
+    {
+        "source": "Pool Party Zac",
+        "target": "泳池狂歡 札克"
+    },
+    {
+        "source": "SKT T1 Zac",
+        "target": "SKT T1 札克"
+    },
+    {
+        "source": "Battlecast Zac",
+        "target": "狂派機甲 札克"
+    },
+    {
+        "source": "Empyrean Zac",
+        "target": "宇宙幻焰 札克"
+    },
+    {
+        "source": "Stretching Strikes",
+        "target": "橡膠飛拳"
+    },
+    {
+        "source": "Unstable Matter",
+        "target": "自體爆破"
+    },
+    {
+        "source": "Elastic Slingshot",
+        "target": "必殺黏星"
+    },
+    {
+        "source": "Let's Bounce!",
+        "target": "活蹦亂跳！"
+    },
+    {
+        "source": "Cell Division",
+        "target": "組織分裂"
+    },
+    {
+        "source": "Shockblade Zed",
+        "target": "衝擊利刃 劫"
+    },
+    {
+        "source": "SKT T1 Zed",
+        "target": "SKT T1 劫"
+    },
+    {
+        "source": "PROJECT: Zed",
+        "target": "菁英計畫：劫"
+    },
+    {
+        "source": "Championship Zed",
+        "target": "永恆榮耀 劫"
+    },
+    {
+        "source": "Death Sworn Zed",
+        "target": "死誓 劫"
+    },
+    {
+        "source": "Galaxy Slayer Zed",
+        "target": "銀河終劫者 劫"
+    },
+    {
+        "source": "PsyOps Zed",
+        "target": "靈戰特工 劫"
+    },
+    {
+        "source": "Prestige PROJECT: Zed",
+        "target": "尊爵不凡 菁英計畫：劫"
+    },
+    {
+        "source": "Debonair Zed",
+        "target": "決勝賭豪 劫"
+    },
+    {
+        "source": "Empyrean Zed",
+        "target": "宇宙幻焰 劫"
+    },
+    {
+        "source": "Immortal Journey Zed",
+        "target": "劍仙：逐刃 劫"
+    },
+    {
+        "source": "Razor Shuriken",
+        "target": "風魔手裡劍"
+    },
+    {
+        "source": "Living Shadow",
+        "target": "疾風殘影"
+    },
+    {
+        "source": "Shadow Slash",
+        "target": "影斬"
+    },
+    {
+        "source": "Death Mark",
+        "target": "死亡印記"
+    },
+    {
+        "source": "Contempt for the Weak",
+        "target": "強者特權"
+    },
+    {
+        "source": "Withered Rose Zeri",
+        "target": "凋零薔薇 婕莉"
+    },
+    {
+        "source": "Ocean Song Zeri",
+        "target": "海洋之歌 婕莉"
+    },
+    {
+        "source": "Immortal Journey Zeri",
+        "target": "劍仙：淬念 婕莉"
+    },
+    {
+        "source": "Burst Fire",
+        "target": "激電連彈"
+    },
+    {
+        "source": "Ultrashock Laser",
+        "target": "超激爆電磁炮"
+    },
+    {
+        "source": "Spark Surge",
+        "target": "電光石火"
+    },
+    {
+        "source": "Lightning Crash",
+        "target": "雷霆萬鈞"
+    },
+    {
+        "source": "Living Battery",
+        "target": "人體蓄電池"
+    },
+    {
+        "source": "Mad Scientist Ziggs",
+        "target": "瘋狂科學家 希格斯"
+    },
+    {
+        "source": "Major Ziggs",
+        "target": "炸彈將軍 希格斯"
+    },
+    {
+        "source": "Pool Party Ziggs",
+        "target": "泳池狂歡 希格斯"
+    },
+    {
+        "source": "Snow Day Ziggs",
+        "target": "霜降使者 希格斯"
+    },
+    {
+        "source": "Master Arcanist Ziggs",
+        "target": "奧術大師 希格斯"
+    },
+    {
+        "source": "Battle Boss Ziggs",
+        "target": "戰鬥魔王 希格斯"
+    },
+    {
+        "source": "Odyssey Ziggs",
+        "target": "奧德賽 希格斯"
+    },
+    {
+        "source": "Sugar Rush Ziggs",
+        "target": "杯子彈糕 希格斯"
+    },
+    {
+        "source": "Hextech Ziggs",
+        "target": "海克斯科技 希格斯"
+    },
+    {
+        "source": "BZZZiggs",
+        "target": "希格蜂"
+    },
+    {
+        "source": "La Ilusión Ziggs",
+        "target": "幻靈夜總會 希格斯"
+    },
+    {
+        "source": "Bouncing Bomb",
+        "target": "彈跳炸彈"
+    },
+    {
+        "source": "Satchel Charge",
+        "target": "技術性引爆"
+    },
+    {
+        "source": "Hexplosive Minefield",
+        "target": "海克斯詭雷"
+    },
+    {
+        "source": "Mega Inferno Bomb",
+        "target": "煉獄炸彈"
+    },
+    {
+        "source": "Short Fuse",
+        "target": "即刻爆發"
+    },
+    {
+        "source": "Old Saint Zilean",
+        "target": "聖誕老人 極靈"
+    },
+    {
+        "source": "Groovy Zilean",
+        "target": "嘻哈精神 極靈"
+    },
+    {
+        "source": "Shurima Desert Zilean",
+        "target": "遺跡守護者 極靈"
+    },
+    {
+        "source": "Time Machine Zilean",
+        "target": "時光旅人 極靈"
+    },
+    {
+        "source": "Blood Moon Zilean",
+        "target": "血月隱者 極靈"
+    },
+    {
+        "source": "Sugar Rush Zilean",
+        "target": "蛋捲冰極靈"
+    },
+    {
+        "source": "Winterblessed Zilean",
+        "target": "凜冬碎星 極靈"
+    },
+    {
+        "source": "Time Bomb",
+        "target": "定時炸彈"
+    },
+    {
+        "source": "Rewind",
+        "target": "時光回溯"
+    },
+    {
+        "source": "Time Warp",
+        "target": "時間扭曲"
+    },
+    {
+        "source": "Chronoshift",
+        "target": "時光倒流"
+    },
+    {
+        "source": "Time In A Bottle",
+        "target": "時光之瓶"
+    },
+    {
+        "source": "Cyber Pop Zoe",
+        "target": "科技蘿 柔依"
+    },
+    {
+        "source": "Pool Party Zoe",
+        "target": "泳池狂歡 柔依"
+    },
+    {
+        "source": "Star Guardian Zoe",
+        "target": "星光戰士 柔依"
+    },
+    {
+        "source": "Arcanist Zoe",
+        "target": "奧術天才 柔依"
+    },
+    {
+        "source": "Prestige Arcanist Zoe",
+        "target": "尊爵不凡 奧術天才 柔依"
+    },
+    {
+        "source": "EDG Zoe",
+        "target": "EDG 柔依"
+    },
+    {
+        "source": "Winterblessed Zoe",
+        "target": "凜冬碎星 柔依"
+    },
+    {
+        "source": "Paddle Star!",
+        "target": "星迴百轉"
+    },
+    {
+        "source": "Spell Thief",
+        "target": "法術竊盜"
+    },
+    {
+        "source": "Sleepy Trouble Bubble",
+        "target": "沉睡夢域"
+    },
+    {
+        "source": "Portal Jump",
+        "target": "星界躍動"
+    },
+    {
+        "source": "More Sparkles!",
+        "target": "閃耀星火"
+    },
+    {
+        "source": "Wildfire Zyra",
+        "target": "復仇野火 枷蘿"
+    },
+    {
+        "source": "Haunted Zyra",
+        "target": "鬼影幢幢 枷蘿"
+    },
+    {
+        "source": "SKT T1 Zyra",
+        "target": "SKT T1 枷蘿"
+    },
+    {
+        "source": "Dragon Sorceress Zyra",
+        "target": "荊棘龍后 枷蘿"
+    },
+    {
+        "source": "Coven Zyra",
+        "target": "女巫集會 枷蘿"
+    },
+    {
+        "source": "Prestige Coven Zyra",
+        "target": "尊爵不凡 女巫集會 枷蘿"
+    },
+    {
+        "source": "Crystal Rose Zyra",
+        "target": "水晶薔薇 枷蘿"
+    },
+    {
+        "source": "Crime City Nightmare Zyra",
+        "target": "罪惡城市噩夢 枷蘿"
+    },
+    {
+        "source": "Mythmaker Zyra",
+        "target": "剪紙仙靈 枷蘿"
+    },
+    {
+        "source": "Street Demons Zyra",
+        "target": "街頭狂魔 枷蘿"
+    },
+    {
+        "source": "Deadly Spines",
+        "target": "致死棘刺"
+    },
+    {
+        "source": "Rampant Growth",
+        "target": "狂暴蔓延"
+    },
+    {
+        "source": "Grasping Roots",
+        "target": "索命棘蔓"
+    },
+    {
+        "source": "Stranglethorns",
+        "target": "致命綻放"
+    },
+    {
+        "source": "Garden of Thorns",
+        "target": "荊棘花園"
+    }
+]
