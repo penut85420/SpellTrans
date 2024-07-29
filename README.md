@@ -23,15 +23,14 @@ pip install -r requirements.txt
 
 ## 模型
 
-使用 [Hugging Face Text Generation Inference](https://github.com/huggingface/text-generation-inference) Docker Image 架設 LLM Backend，可以使用 [Taiwan Llama](https://github.com/MiuLab/Taiwan-LLaMa) 或 [CKIP Llama](https://github.com/ckiplab/CKIP-Llama-2-7b)，建議至少要有 8GB 以上的 GPU 記憶體。
+使用 [vLLM](https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html) 架設與 OpenAI API 相容的 LLM Backend，本範例主要使用 [Llama 3 8B Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) 模型，建議至少要有 16GB 以上的 GPU 記憶體。
 
 參考指令如下：
 
 ```bash
-docker run --gpus all --shm-size 1g -p 8080:80 \
-    ghcr.io/huggingface/text-generation-inference \
-    --model-id ckiplab/CKIP-Llama-2-7b-chat \
-    --quantize bitsandbytes-nf4
+python -m vllm.entrypoints.openai.api_server \
+    --model meta-llama/Meta-Llama-3-8B-Instruct \
+    --api-key auth-token-ouo123
 ```
 
 根據網路速度不同，此指令需要數十分鐘才能完成下載、轉換與啟動。
@@ -39,8 +38,8 @@ docker run --gpus all --shm-size 1g -p 8080:80 \
 ## 用法
 
 + 架設 LLM Backend，請參考上面的指令。
-+ (Optional) 執行 `crawl_data.py` 爬取最新版本的英雄資料。
-+ (Optional) 如果有爬取新資料，需要執行 `create_dataset.py` 建立翻譯資料集。
++ (Optional) 執行 `crawl-data.py` 爬取最新版本的英雄資料。
++ (Optional) 如果有爬取新資料，需要執行 `create-dataset.py` 建立翻譯資料集。
 + 執行 `app.py` 啟動網頁介面主程式之後，可在 `http://127.0.0.1:7860/` 使用。
 
 ## 授權
