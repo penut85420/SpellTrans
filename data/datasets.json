@@ -132,6 +132,14 @@
         "target": "雪月狐仙 阿璃"
     },
     {
+        "source": "Risen Legend Ahri",
+        "target": "崛起傳奇 阿璃"
+    },
+    {
+        "source": "Immortalized Legend Ahri",
+        "target": "千古不滅傳奇 阿璃"
+    },
+    {
         "source": "Orb of Deception",
         "target": "幻玉"
     },
@@ -220,6 +228,18 @@
         "target": "DRX 阿卡莉"
     },
     {
+        "source": "Coven Akali",
+        "target": "女巫集會 阿卡莉"
+    },
+    {
+        "source": "Prestige Coven Akali",
+        "target": "尊爵不凡 女巫集會 阿卡莉"
+    },
+    {
+        "source": "Empyrean Akali",
+        "target": "宇宙幻焰 阿卡莉"
+    },
+    {
         "source": "Five Point Strike",
         "target": "落擲苦無"
     },
@@ -246,6 +266,10 @@
     {
         "source": "Crystal Rose Akshan",
         "target": "水晶薔薇 埃可尚"
+    },
+    {
+        "source": "Three Honors Akshan",
+        "target": "三重榮譽 埃可尚"
     },
     {
         "source": "Avengerang",
@@ -537,11 +561,15 @@
     },
     {
         "source": "Cafe Cuties Annie",
-        "target": "咖啡廳甜心 安妮"
+        "target": "超萌咖啡廳 安妮"
     },
     {
         "source": "Fright Night Annie",
         "target": "午夜驚魂 安妮"
+    },
+    {
+        "source": "Winterblessed Annie",
+        "target": "凜冬碎星 安妮"
     },
     {
         "source": "Disintegrate",
@@ -578,6 +606,10 @@
     {
         "source": "Spirit Blossom Aphelios",
         "target": "靈花祭 亞菲利歐"
+    },
+    {
+        "source": "HEARTSTEEL Aphelios",
+        "target": "心鋼之聲 亞菲利歐"
     },
     {
         "source": "Weapon Abilites",
@@ -632,8 +664,8 @@
         "target": "菁英計畫：艾希"
     },
     {
-        "source": "Championship Ashe",
-        "target": "永恆榮耀 艾希"
+        "source": "Worlds 2017 Ashe",
+        "target": "2017世界大賽 艾希"
     },
     {
         "source": "Cosmic Queen Ashe",
@@ -662,6 +694,14 @@
     {
         "source": "DRX Ashe",
         "target": "DRX 艾希"
+    },
+    {
+        "source": "Crystalis Motus Ashe",
+        "target": "水晶幻界 艾希"
+    },
+    {
+        "source": "Infernal Ashe",
+        "target": "地獄火 艾希"
     },
     {
         "source": "Ranger's Focus",
@@ -700,6 +740,10 @@
         "target": "墨影戰士 翱銳龍獸"
     },
     {
+        "source": "Porcelain Protector Aurelion Sol",
+        "target": "青花瓷 翱銳龍獸"
+    },
+    {
         "source": "Breath of Light",
         "target": "星光吐息"
     },
@@ -718,6 +762,30 @@
     {
         "source": "Cosmic Creator",
         "target": "宇宙創世"
+    },
+    {
+        "source": "Battle Bunny Aurora",
+        "target": "戰鬥兔女郎 歐羅拉"
+    },
+    {
+        "source": "Twofold Hex",
+        "target": "二重靈咒"
+    },
+    {
+        "source": "Across the Veil",
+        "target": "跨越兩界"
+    },
+    {
+        "source": "The Weirding",
+        "target": "靈異逆躍"
+    },
+    {
+        "source": "Between Worlds",
+        "target": "雙界合一"
+    },
+    {
+        "source": "Spirit Abjuration",
+        "target": "精靈附體"
     },
     {
         "source": "Galactic Azir",
@@ -781,7 +849,7 @@
     },
     {
         "source": "Cafe Cuties Bard",
-        "target": "咖啡廳執事 巴德"
+        "target": "超萌咖啡廳 巴德"
     },
     {
         "source": "Shan Hai Scrolls Bard",
@@ -814,6 +882,10 @@
     {
         "source": "Cosmic Matriarch Bel'Veth",
         "target": "星河女皇 貝爾薇斯"
+    },
+    {
+        "source": "Primordian Bel'Veth",
+        "target": "遠古霸者 貝爾薇斯"
     },
     {
         "source": "Void Surge",
@@ -892,6 +964,10 @@
         "target": "頂尖對決 布里茨"
     },
     {
+        "source": "Beezcrank",
+        "target": "蜂力發電 布里茨"
+    },
+    {
         "source": "Rocket Grab",
         "target": "火箭抓取"
     },
@@ -954,6 +1030,10 @@
     {
         "source": "Street Demons Brand",
         "target": "街頭狂魔 布蘭德"
+    },
+    {
+        "source": "Empyrean Brand",
+        "target": "宇宙幻焰 布蘭德"
     },
     {
         "source": "Sear",
@@ -1156,6 +1236,14 @@
         "target": "特戰指揮官 卡蜜兒"
     },
     {
+        "source": "Winterblessed Camille",
+        "target": "凜冬碎星 卡蜜兒"
+    },
+    {
+        "source": "Prestige Winterblessed Camille",
+        "target": "尊爵不凡 凜冬碎星 卡蜜兒"
+    },
+    {
         "source": "Precision Protocol",
         "target": "精密解剖"
     },
@@ -1262,6 +1350,10 @@
     {
         "source": "Broken Covenant Cho'Gath",
         "target": "破碎盟約 科加斯"
+    },
+    {
+        "source": "Toy Terror Cho'Gath",
+        "target": "鬼娃科加斯"
     },
     {
         "source": "Rupture",
@@ -1388,6 +1480,10 @@
         "target": "靈花祭 達瑞斯"
     },
     {
+        "source": "Porcelain Darius",
+        "target": "青花瓷 達瑞斯"
+    },
+    {
         "source": "Decimate",
         "target": "毀滅風暴"
     },
@@ -1450,6 +1546,10 @@
     {
         "source": "Winterblessed Diana",
         "target": "凜冬碎星 黛安娜"
+    },
+    {
+        "source": "Heavenscale Diana",
+        "target": "聖鱗天尊 黛安娜"
     },
     {
         "source": "Crescent Strike",
@@ -1644,6 +1744,10 @@
         "target": "尊爵不凡 星光戰士 艾克"
     },
     {
+        "source": "Breakout True Damage Ekko",
+        "target": "一鳴驚人 True Damage 艾克"
+    },
+    {
         "source": "Timewinder",
         "target": "時光樞紐"
     },
@@ -1690,6 +1794,10 @@
     {
         "source": "Withered Rose Elise",
         "target": "凋零薔薇 伊莉絲"
+    },
+    {
+        "source": "Coven Elise",
+        "target": "女巫集會 伊莉絲"
     },
     {
         "source": "Neurotoxin / Venomous Bite",
@@ -1762,6 +1870,14 @@
     {
         "source": "Soul Fighter Evelynn",
         "target": "戰魂鬥士 伊芙琳"
+    },
+    {
+        "source": "High Noon Evelynn",
+        "target": "西域牛仔 伊芙琳"
+    },
+    {
+        "source": "Prestige High Noon Evelynn",
+        "target": "尊爵不凡 西域牛仔 伊芙琳"
     },
     {
         "source": "Hate Spike",
@@ -1852,6 +1968,18 @@
         "target": "妖精宮殿 伊澤瑞爾"
     },
     {
+        "source": "HEARTSTEEL Ezreal",
+        "target": "心鋼之聲 伊澤瑞爾"
+    },
+    {
+        "source": "Heavenscale Ezreal",
+        "target": "聖鱗天尊 伊澤瑞爾"
+    },
+    {
+        "source": "Prestige Heavenscale Ezreal",
+        "target": "尊爵不凡 聖鱗天尊 伊澤瑞爾"
+    },
+    {
         "source": "Mystic Shot",
         "target": "祕術射擊"
     },
@@ -1910,6 +2038,10 @@
     {
         "source": "Star Nemesis Fiddlesticks",
         "target": "弒星者 費德提克"
+    },
+    {
+        "source": "Blood Moon Fiddlesticks",
+        "target": "血月之鐮 費德提克"
     },
     {
         "source": "Terrify",
@@ -1984,6 +2116,10 @@
         "target": "妖精宮殿 菲歐拉"
     },
     {
+        "source": "Dragonmancer Fiora",
+        "target": "祥和睿龍 菲歐拉"
+    },
+    {
         "source": "Lunge",
         "target": "移形之體"
     },
@@ -2050,6 +2186,10 @@
     {
         "source": "Astronaut Fizz",
         "target": "太空約德爾人 飛斯"
+    },
+    {
+        "source": "Rain Shepherd Fizz",
+        "target": "牧雨歌僮 飛斯"
     },
     {
         "source": "Urchin Strike",
@@ -2170,6 +2310,10 @@
     {
         "source": "Gangplank the Betrayer",
         "target": "背叛者 剛普朗克"
+    },
+    {
+        "source": "PROJECT: Gangplank",
+        "target": "菁英計畫：剛普朗克"
     },
     {
         "source": "Parrrley",
@@ -2372,6 +2516,10 @@
         "target": "太空律動 古拉格斯"
     },
     {
+        "source": "High Noon Gragas",
+        "target": "西域牛仔 古拉格斯"
+    },
+    {
         "source": "Barrel Roll",
         "target": "滾動酒桶"
     },
@@ -2440,6 +2588,10 @@
         "target": "EDG 葛雷夫"
     },
     {
+        "source": "Porcelain Graves",
+        "target": "青花瓷 葛雷夫"
+    },
+    {
         "source": "End of the Line",
         "target": "人在江湖"
     },
@@ -2465,7 +2617,7 @@
     },
     {
         "source": "Cafe Cuties Gwen",
-        "target": "咖啡廳甜心 關"
+        "target": "超萌咖啡廳 關"
     },
     {
         "source": "Soul Fighter Gwen",
@@ -2530,6 +2682,10 @@
     {
         "source": "Arcana Hecarim",
         "target": "戰車 赫克林"
+    },
+    {
+        "source": "Winterblessed Hecarim",
+        "target": "凜冬碎星 赫克林"
     },
     {
         "source": "Rampage",
@@ -2602,6 +2758,30 @@
     {
         "source": "Hextech Affinity",
         "target": "海克斯親合性"
+    },
+    {
+        "source": "Winterblessed Hwei",
+        "target": "凜冬碎星 赫威"
+    },
+    {
+        "source": "Subject: Disaster",
+        "target": "主題：厄禍筆法"
+    },
+    {
+        "source": "Subject: Serenity",
+        "target": "主題：靜謐筆法"
+    },
+    {
+        "source": "Subject: Torment",
+        "target": "主題：苦惱筆法"
+    },
+    {
+        "source": "Spiraling Despair",
+        "target": "絕望螺旋"
+    },
+    {
+        "source": "Signature of the Visionary",
+        "target": "筆仙真跡"
     },
     {
         "source": "Void Bringer Illaoi",
@@ -2690,6 +2870,10 @@
     {
         "source": "Mythmaker Irelia",
         "target": "剪紙仙靈 伊瑞莉雅"
+    },
+    {
+        "source": "Porcelain Irelia",
+        "target": "青花瓷 伊瑞莉雅"
     },
     {
         "source": "Bladesurge",
@@ -2802,6 +2986,10 @@
     {
         "source": "Prestige Cyber Halo Janna",
         "target": "尊爵不凡 科技星環 珍娜"
+    },
+    {
+        "source": "Heavenscale Janna",
+        "target": "聖鱗天尊 珍娜"
     },
     {
         "source": "Howling Gale",
@@ -2950,6 +3138,14 @@
     {
         "source": "Empyrean Jax",
         "target": "宇宙幻焰 賈克斯"
+    },
+    {
+        "source": "Neo PAX Jax",
+        "target": "光速戰記X 賈克斯"
+    },
+    {
+        "source": "PROJECT: Jax",
+        "target": "菁英計畫：賈克斯"
     },
     {
         "source": "Leap Strike",
@@ -3128,6 +3324,10 @@
         "target": "尊爵不凡 戰鬥貓女 吉茵珂絲"
     },
     {
+        "source": "Cafe Cuties Jinx",
+        "target": "超萌咖啡廳 吉茵珂絲"
+    },
+    {
         "source": "Switcheroo!",
         "target": "鬼靈精怪！"
     },
@@ -3192,6 +3392,10 @@
         "target": "墨影戰士 凱莎"
     },
     {
+        "source": "Heavenscale Kai'Sa",
+        "target": "聖鱗天尊 凱莎"
+    },
+    {
         "source": "Icathian Rain",
         "target": "伊卡西亞魔雨"
     },
@@ -3216,8 +3420,8 @@
         "target": "血月幽魂 克黎思妲"
     },
     {
-        "source": "Championship Kalista",
-        "target": "永恆榮耀 克黎思妲"
+        "source": "Worlds 2015 Kalista",
+        "target": "2015世界大賽 克黎思妲"
     },
     {
         "source": "SKT T1 Kalista",
@@ -3302,6 +3506,10 @@
     {
         "source": "Faerie Queen Karma",
         "target": "妖精女皇 卡瑪"
+    },
+    {
+        "source": "Infernal Karma",
+        "target": "地獄火 卡瑪"
     },
     {
         "source": "Inner Flame",
@@ -3410,6 +3618,10 @@
     {
         "source": "Shockblade Kassadin",
         "target": "衝擊利刃 卡薩丁"
+    },
+    {
+        "source": "Dragonmancer Kassadin",
+        "target": "潟藍水龍 卡薩丁"
     },
     {
         "source": "Null Sphere",
@@ -3569,7 +3781,15 @@
     },
     {
         "source": "Immortal Journey Kayle",
-        "target": "劍仙：灼見 凱爾"
+        "target": "無盡旅程 凱爾"
+    },
+    {
+        "source": "Empyrean Kayle",
+        "target": "宇宙幻焰 凱爾"
+    },
+    {
+        "source": "Prestige Empyrean Kayle",
+        "target": "尊爵不凡 宇宙幻焰 凱爾"
     },
     {
         "source": "Radiant Blast",
@@ -3610,6 +3830,10 @@
     {
         "source": "Snow Moon Kayn",
         "target": "雪月魔兵 慨影"
+    },
+    {
+        "source": "HEARTSTEEL Kayn",
+        "target": "心鋼之聲 慨影"
     },
     {
         "source": "Reaping Slash",
@@ -3708,8 +3932,8 @@
         "target": "幽冥煞星 卡力斯"
     },
     {
-        "source": "Championship Kha'Zix",
-        "target": "永恆榮耀 卡力斯"
+        "source": "Worlds 2018 Kha'Zix",
+        "target": "2018世界大賽 卡力斯"
     },
     {
         "source": "Odyssey Kha'Zix",
@@ -3718,6 +3942,10 @@
     {
         "source": "Lunar Guardian Kha'Zix",
         "target": "玄天衛士 卡力斯"
+    },
+    {
+        "source": "Crystalis Indomitus Kha'Zix",
+        "target": "不羈幻晶 卡力斯"
     },
     {
         "source": "Taste Their Fear",
@@ -3762,6 +3990,10 @@
     {
         "source": "DRX Kindred",
         "target": "DRX 鏡爪"
+    },
+    {
+        "source": "Prestige Porcelain Kindred",
+        "target": "尊爵不凡 青花瓷 鏡爪"
     },
     {
         "source": "Dance of Arrows",
@@ -3876,6 +4108,10 @@
         "target": "山海卷軸 寇格魔"
     },
     {
+        "source": "Victorious Kog'Maw",
+        "target": "戰爭英雄 寇格魔"
+    },
+    {
         "source": "Caustic Spittle",
         "target": "腐蝕唾液"
     },
@@ -3902,6 +4138,10 @@
     {
         "source": "Prestige Empyrean K'Sante",
         "target": "尊爵不凡 宇宙幻焰 卡桑帝"
+    },
+    {
+        "source": "HEARTSTEEL K'Sante",
+        "target": "心鋼之聲 卡桑帝"
     },
     {
         "source": "Ntofo Strikes",
@@ -3956,8 +4196,8 @@
         "target": "女巫集會 勒布朗"
     },
     {
-        "source": "Championship LeBlanc",
-        "target": "永恆榮耀 勒布朗"
+        "source": "Worlds 2020 LeBlanc",
+        "target": "2020世界大賽 勒布朗"
     },
     {
         "source": "Prestige Coven LeBlanc",
@@ -3970,6 +4210,10 @@
     {
         "source": "Bewitching LeBlanc",
         "target": "幻影魔女 勒布朗"
+    },
+    {
+        "source": "Risen Legend LeBlanc",
+        "target": "崛起傳奇 勒布朗"
     },
     {
         "source": "Sigil of Malice",
@@ -4050,6 +4294,14 @@
     {
         "source": "Zenith Games Lee Sin",
         "target": "頂尖對決 李星"
+    },
+    {
+        "source": "Heavenscale Lee Sin",
+        "target": "聖鱗天尊 李星"
+    },
+    {
+        "source": "Divine Heavenscale Lee Sin",
+        "target": "超凡入聖 聖鱗天尊 李星"
     },
     {
         "source": "Sonic Wave / Resonating Strike",
@@ -4162,6 +4414,10 @@
     {
         "source": "Shan Hai Scrolls Lillia",
         "target": "山海卷軸 莉莉亞"
+    },
+    {
+        "source": "Faerie Court Lillia",
+        "target": "妖精宮殿 莉莉亞"
     },
     {
         "source": "Blooming Blows",
@@ -4280,6 +4536,10 @@
         "target": "特戰聖騎 路西恩"
     },
     {
+        "source": "Winterblessed Lucian",
+        "target": "凜冬碎星 路西恩"
+    },
+    {
         "source": "Piercing Light",
         "target": "鋒芒貫穿"
     },
@@ -4342,6 +4602,10 @@
     {
         "source": "Monster Tamer Lulu",
         "target": "寶貝訓練家 露璐"
+    },
+    {
+        "source": "Cafe Cuties Lulu",
+        "target": "超萌咖啡廳 露璐"
     },
     {
         "source": "Glitterlance",
@@ -4438,6 +4702,10 @@
     {
         "source": "Empyrean Lux",
         "target": "宇宙幻焰 拉克絲"
+    },
+    {
+        "source": "Faerie Court Lux",
+        "target": "妖精宮殿 拉克絲"
     },
     {
         "source": "Light Binding",
@@ -4574,6 +4842,10 @@
     {
         "source": "Three Honors Malzahar",
         "target": "三重榮譽 馬爾札哈"
+    },
+    {
+        "source": "Empyrean Malzahar",
+        "target": "宇宙幻焰 馬爾札哈"
     },
     {
         "source": "Call of the Void",
@@ -4716,6 +4988,10 @@
         "target": "墨影戰士 易大師"
     },
     {
+        "source": "Heavenscale Master Yi",
+        "target": "聖鱗天尊 易大師"
+    },
+    {
         "source": "Alpha Strike",
         "target": "先聲奪人"
     },
@@ -4738,6 +5014,10 @@
     {
         "source": "Faerie Court Milio",
         "target": "妖精宮殿 米里歐"
+    },
+    {
+        "source": "Rain Shepherd Milio",
+        "target": "牧雨歌僮 米里歐"
     },
     {
         "source": "Ultra Mega Fire Kick",
@@ -4824,6 +5104,10 @@
         "target": "戰鬥兔女郎 好運姐"
     },
     {
+        "source": "Admiral Battle Bunny Miss Fortune",
+        "target": "戰隊司令 戰鬥兔女郎 好運姐"
+    },
+    {
         "source": "Prestige Bewitching Miss Fortune (2022)",
         "target": "尊爵不凡 惑邪女巫 好運姐｜2022"
     },
@@ -4834,6 +5118,10 @@
     {
         "source": "Prestige Broken Covenant Miss Fortune",
         "target": "尊爵不凡 破碎盟約 好運姐"
+    },
+    {
+        "source": "Porcelain Miss Fortune",
+        "target": "青花瓷 好運姐"
     },
     {
         "source": "Double Up",
@@ -4948,6 +5236,10 @@
         "target": "死灰墓騎 魔鬥凱薩"
     },
     {
+        "source": "Old God Mordekaiser",
+        "target": "古神 魔鬥凱薩"
+    },
+    {
         "source": "Obliterate",
         "target": "泯殺"
     },
@@ -5024,6 +5316,10 @@
         "target": "雪月天使 魔甘娜"
     },
     {
+        "source": "Porcelain Morgana",
+        "target": "青花瓷 魔甘娜"
+    },
+    {
         "source": "Dark Binding",
         "target": "暗影禁錮"
     },
@@ -5046,6 +5342,10 @@
     {
         "source": "Soul Fighter Naafiri",
         "target": "戰魂鬥士 娜菲芮"
+    },
+    {
+        "source": "PROJECT: Naafiri",
+        "target": "菁英計畫：娜菲芮"
     },
     {
         "source": "Darkin Daggers",
@@ -5110,6 +5410,10 @@
     {
         "source": "Prestige Space Groove Nami",
         "target": "尊爵不凡 太空律動 娜米"
+    },
+    {
+        "source": "Coven Nami",
+        "target": "女巫集會 娜米"
     },
     {
         "source": "Aqua Prison",
@@ -5388,6 +5692,10 @@
         "target": "星光戰士 淣菈"
     },
     {
+        "source": "Coven Nilah",
+        "target": "女巫集會 淣菈"
+    },
+    {
         "source": "Formless Blade",
         "target": "百變之刃"
     },
@@ -5442,6 +5750,10 @@
     {
         "source": "Broken Covenant Nocturne",
         "target": "破碎盟約 夜曲"
+    },
+    {
+        "source": "Empyrean Nocturne",
+        "target": "宇宙幻焰 夜曲"
     },
     {
         "source": "Duskbringer",
@@ -5568,6 +5880,10 @@
         "target": "殺五社 III：失落之章 歐拉夫"
     },
     {
+        "source": "Infernal Olaf",
+        "target": "地獄火 歐拉夫"
+    },
+    {
         "source": "Undertow",
         "target": "逆流投擲"
     },
@@ -5662,6 +5978,10 @@
     {
         "source": "Space Groove Ornn",
         "target": "太空律動 鄂爾"
+    },
+    {
+        "source": "Choo-Choo Ornn",
+        "target": "嘟嘟火車 鄂爾"
     },
     {
         "source": "Volcanic Rupture",
@@ -5794,6 +6114,10 @@
     {
         "source": "Bewitching Poppy",
         "target": "聖槌魔女 波比"
+    },
+    {
+        "source": "Cafe Cuties Poppy",
+        "target": "超萌咖啡廳 波比"
     },
     {
         "source": "Hammer Shock",
@@ -6000,6 +6324,18 @@
         "target": "破碎盟約 銳空"
     },
     {
+        "source": "Redeemed Star Guardian Rakan",
+        "target": "重生星光戰士 銳空"
+    },
+    {
+        "source": "Dragonmancer Rakan",
+        "target": "雙相古龍 銳空"
+    },
+    {
+        "source": "Prestige Dragonmancer Rakan",
+        "target": "尊爵不凡 雙相古龍 銳空"
+    },
+    {
         "source": "Gleaming Quill",
         "target": "癒光飛翎"
     },
@@ -6060,6 +6396,10 @@
         "target": "太空龍龜 拉姆斯"
     },
     {
+        "source": "Durian Defender Rammus",
+        "target": "榴槤龍龜 拉姆斯"
+    },
+    {
         "source": "Powerball",
         "target": "動力衝刺"
     },
@@ -6096,6 +6436,10 @@
         "target": "神木精靈 雷珂煞"
     },
     {
+        "source": "Primordian Rek'Sai",
+        "target": "遠古霸者 雷珂煞"
+    },
+    {
         "source": "Queen's Wrath / Prey Seeker",
         "target": "女王之怒/尋找獵物"
     },
@@ -6122,6 +6466,10 @@
     {
         "source": "Star Guardian Rell",
         "target": "星光戰士 銳兒"
+    },
+    {
+        "source": "High Noon Rell",
+        "target": "西域牛仔 銳兒"
     },
     {
         "source": "Shattering Strike",
@@ -6232,6 +6580,10 @@
         "target": "黎明使者 雷尼克頓"
     },
     {
+        "source": "Worlds 2023 Renekton",
+        "target": "2023世界大賽 雷尼克頓"
+    },
+    {
         "source": "Cull the Meek",
         "target": "弱肉強食"
     },
@@ -6316,8 +6668,8 @@
         "target": "戰鬥兔女郎 雷玟"
     },
     {
-        "source": "Championship Riven",
-        "target": "永恆榮耀 雷玟"
+        "source": "Worlds 2012 Riven",
+        "target": "2012世界大賽 雷玟"
     },
     {
         "source": "Dragonblade Riven",
@@ -6328,8 +6680,8 @@
         "target": "電玩女神 雷玟"
     },
     {
-        "source": "Championship Riven 2016",
-        "target": "2016 永恆榮耀 雷玟"
+        "source": "Reignited Worlds 2012 Riven",
+        "target": "Reignited 2012世界大賽 雷玟"
     },
     {
         "source": "Dawnbringer Riven",
@@ -6366,6 +6718,10 @@
     {
         "source": "Broken Covenant Riven",
         "target": "破碎盟約 雷玟"
+    },
+    {
+        "source": "Primal Ambush Riven",
+        "target": "原始潛伏 雷玟"
     },
     {
         "source": "Broken Wings",
@@ -6406,6 +6762,10 @@
     {
         "source": "Space Groove Rumble",
         "target": "太空律動 藍寶"
+    },
+    {
+        "source": "Cafe Cuties Rumble",
+        "target": "超萌咖啡廳 藍寶"
     },
     {
         "source": "Flamespitter",
@@ -6468,8 +6828,8 @@
         "target": "SKT T1 雷茲"
     },
     {
-        "source": "Championship Ryze",
-        "target": "永恆榮耀 雷茲"
+        "source": "Worlds 2019 Ryze",
+        "target": "2019世界大賽 雷茲"
     },
     {
         "source": "Guardian of the Sands Ryze",
@@ -6636,6 +6996,10 @@
         "target": "星光戰士 姍娜"
     },
     {
+        "source": "Winterblessed Senna",
+        "target": "凜冬碎星 姍娜"
+    },
+    {
         "source": "Piercing Darkness",
         "target": "刺骨幽闇"
     },
@@ -6688,6 +7052,10 @@
         "target": "星光戰士 瑟菈紛"
     },
     {
+        "source": "Battle Dove Seraphine",
+        "target": "戰鬥鴿女 瑟菈紛"
+    },
+    {
         "source": "High Note",
         "target": "樂音高亢"
     },
@@ -6734,6 +7102,10 @@
     {
         "source": "Soul Fighter Sett",
         "target": "戰魂鬥士 賽特"
+    },
+    {
+        "source": "HEARTSTEEL Sett",
+        "target": "心鋼之聲 賽特"
     },
     {
         "source": "Knuckle Down",
@@ -6908,8 +7280,8 @@
         "target": "霜翼冰龍 希瓦娜"
     },
     {
-        "source": "Championship Shyvana",
-        "target": "永恆榮耀 希瓦娜"
+        "source": "Worlds 2014 Shyvana",
+        "target": "2014世界大賽 希瓦娜"
     },
     {
         "source": "Super Galaxy Shyvana",
@@ -6921,7 +7293,7 @@
     },
     {
         "source": "Immortal Journey Shyvana",
-        "target": "劍仙：蔚勇 希瓦娜"
+        "target": "無盡旅程 希瓦娜"
     },
     {
         "source": "Twin Bite",
@@ -7097,7 +7469,7 @@
     },
     {
         "source": "Neo PAX Sivir",
-        "target": "光速戰記 X 希維爾"
+        "target": "光速戰記X 希維爾"
     },
     {
         "source": "Pizza Delivery Sivir",
@@ -7113,7 +7485,7 @@
     },
     {
         "source": "Cafe Cuties Sivir",
-        "target": "咖啡廳甜心 希維爾"
+        "target": "超萌咖啡廳 希維爾"
     },
     {
         "source": "Solar Eclipse Sivir",
@@ -7126,6 +7498,10 @@
     {
         "source": "Prestige Mythmaker Sivir",
         "target": "尊爵不凡 剪紙仙靈 希維爾"
+    },
+    {
+        "source": "Primal Ambush Sivir",
+        "target": "原始潛伏 希維爾"
     },
     {
         "source": "Boomerang Blade",
@@ -7168,24 +7544,48 @@
         "target": "星河天蠍 史加納"
     },
     {
-        "source": "Crystal Slash",
-        "target": "水晶斬擊"
+        "source": "Shattered Earth / Upheaval",
+        "target": "翻天覆地/尖岩飛彈"
     },
     {
-        "source": "Crystalline Exoskeleton",
-        "target": "結晶骨骼"
+        "source": "Seismic Bastion",
+        "target": "壁壘波動"
     },
     {
-        "source": "Fracture",
-        "target": "水晶塵爆"
+        "source": "Ixtal's Impact",
+        "target": "伊克斯塔爾衝擊"
     },
     {
         "source": "Impale",
         "target": "蠍尾穿刺"
     },
     {
-        "source": "Crystal Spires",
-        "target": "水晶尖塔"
+        "source": "Threads of Vibration",
+        "target": "震動餘波"
+    },
+    {
+        "source": "Heavenscale Smolder",
+        "target": "聖鱗天尊 史矛德"
+    },
+    {
+        "source": "Super Scorcher Breath",
+        "target": "激灼龍息"
+    },
+    {
+        "source": "Achooo!",
+        "target": "悶燃黏嚏"
+    },
+    {
+        "source": "Flap, Flap, Flap",
+        "target": "振翼高飛"
+    },
+    {
+        "source": "MMOOOMMMM!",
+        "target": "媽媽幫我！"
+    },
+    {
+        "source": "Dragon Practice",
+        "target": "龍性精通"
     },
     {
         "source": "Muse Sona",
@@ -7233,11 +7633,11 @@
     },
     {
         "source": "Immortal Journey Sona",
-        "target": "劍仙：燦諧 索娜"
+        "target": "無盡旅程 索娜"
     },
     {
         "source": "Prestige Immortal Journey Sona",
-        "target": "尊爵不凡 劍仙：燦諧 索娜"
+        "target": "尊爵不凡 無盡旅程 索娜"
     },
     {
         "source": "Hymn of Valor",
@@ -7309,7 +7709,7 @@
     },
     {
         "source": "Cafe Cuties Soraka",
-        "target": "咖啡廳甜心 索拉卡"
+        "target": "超萌咖啡廳 索拉卡"
     },
     {
         "source": "Spirit Blossom Soraka",
@@ -7317,7 +7717,11 @@
     },
     {
         "source": "Immortal Journey Soraka",
-        "target": "劍仙：流觀 索拉卡"
+        "target": "無盡旅程 索拉卡"
+    },
+    {
+        "source": "Faerie Court Soraka",
+        "target": "妖精宮殿 索拉卡"
     },
     {
         "source": "Starcall",
@@ -7412,6 +7816,10 @@
         "target": "死灰殺手 賽勒斯"
     },
     {
+        "source": "Winterblessed Sylas",
+        "target": "凜冬碎星 賽勒斯"
+    },
+    {
         "source": "Chain Lash",
         "target": "鍊斬"
     },
@@ -7474,6 +7882,10 @@
     {
         "source": "Spirit Blossom Syndra",
         "target": "靈花祭 星朵拉"
+    },
+    {
+        "source": "Coven Syndra",
+        "target": "女巫集會 星朵拉"
     },
     {
         "source": "Dark Sphere",
@@ -7620,6 +8032,10 @@
         "target": "尊爵不凡 西域牛仔 塔隆"
     },
     {
+        "source": "Primal Ambush Talon",
+        "target": "原始潛伏 塔隆"
+    },
+    {
         "source": "Noxian Diplomacy",
         "target": "諾城王道"
     },
@@ -7764,8 +8180,8 @@
         "target": "惡靈恐懼 瑟雷西"
     },
     {
-        "source": "Championship Thresh",
-        "target": "永恆榮耀 瑟雷西"
+        "source": "Worlds 2013 Thresh",
+        "target": "2013世界大賽 瑟雷西"
     },
     {
         "source": "Blood Moon Thresh",
@@ -7814,6 +8230,10 @@
     {
         "source": "Lunar Emperor Thresh",
         "target": "玄天大帝 瑟雷西"
+    },
+    {
+        "source": "Winterblessed Thresh",
+        "target": "凜冬碎星 瑟雷西"
     },
     {
         "source": "Death Sentence",
@@ -7890,6 +8310,10 @@
     {
         "source": "Spirit Blossom Tristana",
         "target": "靈花祭 崔絲塔娜"
+    },
+    {
+        "source": "Faerie Court Tristana",
+        "target": "妖精宮殿 崔絲塔娜"
     },
     {
         "source": "Rapid Fire",
@@ -8002,6 +8426,10 @@
     {
         "source": "Nightbringer Tryndamere",
         "target": "闇夜使者 泰達米爾"
+    },
+    {
+        "source": "Victorious Tryndamere",
+        "target": "戰爭英雄 泰達米爾"
     },
     {
         "source": "Bloodlust",
@@ -8150,6 +8578,10 @@
     {
         "source": "High Noon Twitch",
         "target": "西域牛仔 圖奇"
+    },
+    {
+        "source": "Cheddar Chief Twitch",
+        "target": "起司大王 圖奇"
     },
     {
         "source": "Ambush",
@@ -8308,6 +8740,10 @@
         "target": "雪月射手 法洛士"
     },
     {
+        "source": "Empyrean Varus",
+        "target": "宇宙幻焰 法洛士"
+    },
+    {
         "source": "Piercing Arrow",
         "target": "破甲箭"
     },
@@ -8392,6 +8828,10 @@
         "target": "黎明使者 汎"
     },
     {
+        "source": "Dragonmancer Vayne",
+        "target": "永恆邪龍 汎"
+    },
+    {
         "source": "Tumble",
         "target": "翻滾瞄準"
     },
@@ -8464,6 +8904,10 @@
         "target": "寶貝訓練家 維迦"
     },
     {
+        "source": "King Beegar",
+        "target": "唯蜜是從 維迦"
+    },
+    {
         "source": "Baleful Strike",
         "target": "黑暗祭祀"
     },
@@ -8502,6 +8946,10 @@
     {
         "source": "Blackfrost Vel'Koz",
         "target": "黯雪魔眼 威寇茲"
+    },
+    {
+        "source": "Bee'Koz",
+        "target": "颱蜂眼 威寇茲"
     },
     {
         "source": "Plasma Fission",
@@ -8590,6 +9038,10 @@
     {
         "source": "Heartache Vi",
         "target": "痛心情人 菲艾"
+    },
+    {
+        "source": "Primal Ambush Vi",
+        "target": "原始潛伏 菲艾"
     },
     {
         "source": "Vault Breaker",
@@ -8737,7 +9189,7 @@
     },
     {
         "source": "Cafe Cuties Vladimir",
-        "target": "咖啡廳執事 弗拉迪米爾"
+        "target": "超萌咖啡廳 弗拉迪米爾"
     },
     {
         "source": "Broken Covenant Vladimir",
@@ -8932,6 +9384,14 @@
         "target": "破碎盟約 剎雅"
     },
     {
+        "source": "Redeemed Star Guardian Xayah",
+        "target": "重生星光戰士 剎雅"
+    },
+    {
+        "source": "Battle Bat Xayah",
+        "target": "戰鬥蝙蝠女 剎雅"
+    },
+    {
         "source": "Double Daggers",
         "target": "赤落連匕"
     },
@@ -8978,6 +9438,10 @@
     {
         "source": "Astronaut Xerath",
         "target": "太空魔導 齊勒斯"
+    },
+    {
+        "source": "Crystalis Indomitus Xerath",
+        "target": "不羈幻晶 齊勒斯"
     },
     {
         "source": "Arcanopulse",
@@ -9116,6 +9580,10 @@
         "target": "尊爵不凡 墨影戰士 犽宿"
     },
     {
+        "source": "Foreseen Yasuo",
+        "target": "見時知幾 犽宿"
+    },
+    {
         "source": "Steel Tempest",
         "target": "鋼鐵暴雪"
     },
@@ -9154,6 +9622,22 @@
     {
         "source": "Inkshadow Yone",
         "target": "墨影戰士 犽凝"
+    },
+    {
+        "source": "HEARTSTEEL Yone",
+        "target": "心鋼之聲 犽凝"
+    },
+    {
+        "source": "Prestige HEARTSTEEL Yone",
+        "target": "尊爵不凡 心鋼之聲 犽凝"
+    },
+    {
+        "source": "High Noon Yone",
+        "target": "西域牛仔 犽凝"
+    },
+    {
+        "source": "Peacemaker High Noon Yone",
+        "target": "仲裁者 西域牛仔 犽凝"
     },
     {
         "source": "Mortal Steel",
@@ -9248,6 +9732,14 @@
         "target": "可愛萌柴 悠咪"
     },
     {
+        "source": "Cyber Cat Yuumi",
+        "target": "科技靈貓 悠咪"
+    },
+    {
+        "source": "Prestige Cyber Cat Yuumi",
+        "target": "尊爵不凡 科技靈貓 悠咪"
+    },
+    {
         "source": "Prowling Projectile",
         "target": "奇幻圖騰"
     },
@@ -9288,6 +9780,10 @@
         "target": "宇宙幻焰 札克"
     },
     {
+        "source": "Zesty Dip Zac",
+        "target": "美味沾醬 札克"
+    },
+    {
         "source": "Stretching Strikes",
         "target": "橡膠飛拳"
     },
@@ -9320,8 +9816,8 @@
         "target": "菁英計畫：劫"
     },
     {
-        "source": "Championship Zed",
-        "target": "永恆榮耀 劫"
+        "source": "Worlds 2016 Zed",
+        "target": "2016世界大賽 劫"
     },
     {
         "source": "Death Sworn Zed",
@@ -9349,7 +9845,11 @@
     },
     {
         "source": "Immortal Journey Zed",
-        "target": "劍仙：逐刃 劫"
+        "target": "無盡旅程 劫"
+    },
+    {
+        "source": "Blood Moon Zed",
+        "target": "血月幽影 劫"
     },
     {
         "source": "Razor Shuriken",
@@ -9381,7 +9881,7 @@
     },
     {
         "source": "Immortal Journey Zeri",
-        "target": "劍仙：淬念 婕莉"
+        "target": "無盡旅程 婕莉"
     },
     {
         "source": "Burst Fire",
@@ -9602,6 +10102,10 @@
     {
         "source": "Street Demons Zyra",
         "target": "街頭狂魔 枷蘿"
+    },
+    {
+        "source": "Blood Moon Zyra",
+        "target": "血月荊后 枷蘿"
     },
     {
         "source": "Deadly Spines",
