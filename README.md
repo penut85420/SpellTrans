@@ -16,8 +16,8 @@ pip install -r requirements.txt
 ## 檔案
 
 + `app.py` 啟動網頁介面的主程式。
-+ `crawl_data.py` 爬取英雄資料。
-+ `create_dataset.py` 根據英雄技能建立資料集。
++ `crawl-data.py` 爬取英雄資料。
++ `create-dataset.py` 根據英雄技能建立資料集。
 + `data/datasets.json` 從 Riot API 得到的技能翻譯資料。
 + `data/icon.png` 網頁介面使用的圖示，[來源](https://www.flaticon.com/free-icon/sword_3426325?related_id=3426325)。
 
