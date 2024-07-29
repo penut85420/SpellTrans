@@ -1,25 +1,26 @@
+import argparse
 import json
 
 import gradio as gr
-from langchain.chains import LLMChain
-from langchain.embeddings import TensorflowHubEmbeddings
-from langchain.llms import HuggingFaceTextGenInference
 from langchain.prompts import PromptTemplate
-from langchain.prompts.example_selector import (
-    SemanticSimilarityExampleSelector as Selector,
-)
+from langchain.prompts.example_selector import SemanticSimilarityExampleSelector as Selector
 from langchain.prompts.few_shot import FewShotPromptTemplate
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
+from langchain_community.embeddings import TensorflowHubEmbeddings
+from langchain_openai import OpenAI
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--base-url", default="http://localhost:8000/v1")
+parser.add_argument("--api-key", default="auth-token-ouo123")
+parser.add_argument("--model-name", default="meta-llama/Meta-Llama-3-8B-Instruct")
+args = parser.parse_args()
 
 # 初始化 LLM
-tgi_url = "http://localhost:8080/"
-llm = HuggingFaceTextGenInference(
-    inference_server_url=tgi_url,
-    max_new_tokens=128,
-    do_sample=True,
+llm = OpenAI(
+    api_key=args.api_key,
+    model=args.model_name,
+    base_url=args.base_url,
     temperature=1.0,
-    truncate=1000,
-    stop_sequences=["\n"],
 )
 
 # 初始化 Embedding
@@ -55,7 +56,7 @@ prompt = FewShotPromptTemplate(
 )
 
 # Chain!
-chain = LLMChain(llm=llm, prompt=prompt, verbose=True)
+chain = prompt | llm.bind(stop=["\n"])
 
 # 建立 Gradio 網頁介面
 title = "中二技能翻譯器"
@@ -78,8 +79,7 @@ with gr.Blocks(theme=theme, title=title) as app:
     )
 
     def send(source):
-        result = chain.invoke({"query": source})
-        return result["text"]
+        return chain.invoke({"query": source})
 
     source.submit(send, source, target, show_progress="minimal")
 
